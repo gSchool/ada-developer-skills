@@ -20,17 +20,17 @@ Standards:
         Path: /00-welcome-to-ada/01-welcome-to-ada.md
       -
         Type: Lesson
-        UID: 735b29e1e91a70075e31dc413aaff30e
-        Path: /00-welcome-to-ada/02-learn.md
+        UID: c43e4593d87dd34a77550486a0c8dba4
+        Path: /00-welcome-to-ada/02-wk01-learn.md
       -
         Type: Lesson
-        UID: 7ebddb08b883d5862e1558276f799a91
-        Path: /00-welcome-to-ada/03-slack.md
+        UID: aff0d24faf2f5eb7dc29c11e0bceab13
+        Path: /00-welcome-to-ada/03-wk01-slack.md
       -
         Type: Lesson
-        UID: 6e5d0225699642325f14694ebe6a70a7
-        Path: /00-welcome-to-ada/04-google-calendar.md
+        UID: c4cab2a0009d758bc311771d824abf70
+        Path: /00-welcome-to-ada/04-wk01-google-calendar.md
       -
         Type: Lesson
-        UID: 81769cb32c741fc984b8d806b242fe85
-        Path: /00-welcome-to-ada/05-ada-worksheets.md
+        UID: 41a7eab70e424a05686bbc60786e670e
+        Path: /00-welcome-to-ada/05-wk01-ada-worksheets.md
