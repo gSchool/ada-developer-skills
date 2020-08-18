@@ -6,9 +6,9 @@
 
 ## What's in Learn?
 
-In Learn you will find Ada's curriculum written by your (and past) instructors at Ada.  
+In Learn you will find Ada's curriculum, written by instructors at Ada (current and past).  
 
-You will also find assessments we have created to help identify areas of mastery and concepts we need to reinforce.  The assessments include multiple-choice, short-answer and free-response questions as well as programming assignments.    You have already experienced these lessons and assignments in the Pre-Ada Material.
+You will also find assessments we have created to help identify areas of mastery and concepts we need to reinforce.  The assessments include multiple-choice, short-answer and long-answer questions as well as programming exercises.   You have already experienced these lessons and assessments in the Pre-Ada Material.
 
 ## Grades
 
@@ -19,7 +19,7 @@ At Ada we assess students primarily through programming projects, exercises know
 * Green
   * You have met or exceeded the major learning goals for this project; there is evidence that the produced code shows enough understanding
 * Yellow
-*  You approached meeting the major learning goals for this project; to the grader, there is evidence that the produced code shows some understanding, and shows evidence that not all major learning goals were met
+  * You approached meeting the major learning goals for this project; to the grader, there is evidence that the produced code shows some understanding, and shows evidence that not all major learning goals were met
 * Red
   * You did not meet the major learning goals for this project; there is evidence that most major learning goals were not met, the progress on the project shows need for support on completion, quality, or both; the project is broken and not running
 
@@ -33,7 +33,7 @@ Learn is organized into **Sections**.  Each section is a major area of study at 
 
 ### Units
 
-Each section has a number of **units**, those rectangles inside each section. 
+Each section has a number of **units** (those rectangles inside each section). 
 
 ![Learn unit](images/unit.png)
 
@@ -47,7 +47,7 @@ You will also often be able to find videos embedded in the lesson with an instru
 
 ### Exercises/Assessments
 
-Each unit will also often feature assessments which can contain multiple choice, short-answer, long-answer and programming exercises.  You will also often see programming projects assigned here.  
+Each unit will also often feature assessments which can contain multiple choice, short-answer and long-answer questions as well as programming exercises.  You will also often see programming projects assigned here.  
 
 You can identify an assessment by the star next to the name in the menu.
 
@@ -66,7 +66,7 @@ We will discuss how to submit these programming projects soon.
 ![Assessment after](images/assessment3.png)
 
 
-## Checking on progress your
+## Checking on your progress
 
 You can see on each unit the percentage report from your checkpoint/exercise.  At Ada we do not grade students based on the percentages, but it can give you a general idea about how you did on the assessment. 
 

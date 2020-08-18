@@ -1,6 +1,6 @@
 # Slack
 
-At Ada and in the tech industry at large we use Slack.  Slack is a messaging platform used to send text, images and files.  It also has limited support for video chat.  You can use Slack on the browser by going to [slack.com](https://slack.com) and logging in.  Alternatively you can install the [Slack Desktop Client](https://slack.com/downloads/mac) and use the [Slack App for IOS](https://apps.apple.com/us/app/slack/id618783545) or [Slack for Android](https://slack.com/downloads/android).
+At Ada and in the tech industry at large we use Slack.  Slack is a messaging platform used to send text, images and files.  It also has limited support for video chat.  You can use Slack in the browser by going to [slack.com](https://slack.com) and logging in.  Alternatively you can install the [Slack Desktop Client](https://slack.com/downloads/mac) and use the [Slack App for IOS](https://apps.apple.com/us/app/slack/id618783545) or [Slack for Android](https://slack.com/downloads/android).
 
 <iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=dfb4214c-248e-4338-a3c3-ac1800560826&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
@@ -33,9 +33,11 @@ At ada we use a few channels for specific things:
 
 You are welcome to create channels for discussions on a topic of interest.  With discussions in Slack please remember and adhere to the Code of Conduct Expectations.
 
+Like with users you can use the `+` sign to join channels you aren't currently in.
+
 ## Customizing Slack
 
-You are welcome to customize slack by adding emojis.
+You are welcome to customize slack by adding emoji.
 
 ![Customize Slack](images/customize-slack.png)
 
@@ -43,7 +45,7 @@ Feel free to experiment and try settings in Slack.
 
 ### Adding Emojis
 
-You can also add your own custom emojis to Slack.  You are encouraged to do so, this Slack organization belongs to your cohort, and you are encouraged to take ownership of it.
+You can also add your own custom emoji to Slack.  You are encouraged to do so, this Slack organization belongs to your cohort, and you are encouraged to make it your own.
 
 ![Customize Slack Emojis](images/customize-slack2.png)
 
@@ -56,3 +58,12 @@ You can view and update your profile in Slack including adding an avatar image.
 ![Edit profile](images/edit-profile.png)
 
 ![Editing a profile](images/edit-profile2.png)
+
+#### User Avatar Image
+
+<!-- TODO: Refine policy and wording. -->
+
+Please set a picture that resembles you as your avatar.  
+
+This **does not** have to be a photo.  You can use a generated version of yourself (like a Bitmoji or a Picrew) or just pick a character from a cartoon or comic or something that looks like you.  (Please don't pick a photo of another human though.)
+
