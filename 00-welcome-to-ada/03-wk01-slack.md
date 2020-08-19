@@ -61,9 +61,8 @@ You can view and update your profile in Slack including adding an avatar image.
 
 #### User Avatar Image
 
-<!-- TODO: Refine policy and wording. -->
+Your avatar image **should be** an image that represents your appearance (so we can recognize you!) Consider a photo of yourself or a cartoon avatar that resembles you.
 
-Please set a picture that resembles you as your avatar.  
-
-This **does not** have to be a photo.  You can use a generated version of yourself (like a Bitmoji or a Picrew) or just pick a character from a cartoon or comic or something that looks like you.  (Please don't pick a photo of another human though.)
-
+Tools you can use to generate a cartoon avatar:
+* [Bitmoji](https://www.bitmoji.com/)
+* [Picrew](https://picrew.me/)  (Site is in Japanese, but buttons are decently clear.)
