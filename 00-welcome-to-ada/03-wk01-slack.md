@@ -66,3 +66,17 @@ Your avatar image **should be** an image that represents your appearance (so we 
 Tools you can use to generate a cartoon avatar:
 * [Bitmoji](https://www.bitmoji.com/)
 * [Picrew](https://picrew.me/)  (Site is in Japanese, but buttons are decently clear.)
+
+#### Status Icon
+
+Slack lets you [set an emoji as part of your status](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability).
+
+We've added some emoji to our Slack that you can use if you want to indicate your pronouns:
+* ![she/her](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/she-badge.png) `:she-her:`
+* ![they/them](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/they-badge.png) `:they-them:`
+* ![he/him](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/he-badge.png) `:he-him:`
+* ![they/she](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/they-she-badge.png) `:they-she:`
+* ![ze/hir](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/ze-badge.png) `:ze-hir:`
+* ![xe/xir](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/xe-badge.png) `:xe-xir:`
+
+If there are any other pronoun badges you would like let Kaida know, she's happy to make more!
