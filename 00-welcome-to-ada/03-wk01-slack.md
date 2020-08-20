@@ -80,3 +80,5 @@ We've added some emoji to our Slack that you can use if you want to indicate you
 * ![xe/xir](https://raw.githubusercontent.com/kaidamasaki/pronoun-badges/master/png/32x32/xe-badge.png) `:xe-xir:`
 
 If there are any other pronoun badges you would like let Kaida know, she's happy to make more!
+
+If you would like to try your hand at making your own the images are on [github](https://github.com/kaidamasaki/pronoun-badges).
