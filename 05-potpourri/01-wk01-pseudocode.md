@@ -72,7 +72,7 @@ puts "Successful!" if fruits.length == fruit_basket.length
   Example 2 is full of working, functional code. However, sometimes, Example 2 is easier to read, because it's less information to parse through. However, this requires developers to know the precise syntax at the time of writing it.
 </details>
 
-Pseudocode allows you to think through the logic of a solving a problem before implementing functioning code.
+Pseudocode allows you to think through the logic of solving a problem before implementing functioning code. It can help dramatically with your creative flow because what you write on the screen can match exactly what is in your brain. 
 
 ### Pseudocode Can Be Any Style, and Your Style!
 
