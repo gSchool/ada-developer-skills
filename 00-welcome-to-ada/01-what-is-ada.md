@@ -2,16 +2,17 @@
 
 ## Introduction
 
-1. Mission and How We Work Towards It
+To give you all an introduction to Ada's Core Program, we'll cover:
+
+1. Ada's Mission and How We Work Towards It
 1. The Classroom Portion
     - Content
     - Support From Staff
     - Support From Tools
 1. The Internship Portion
-1. The Community
 1. Grace
 
-## Mission
+## 🤔 Mission 🤔
 
 Before we get into why _you're_ here, let's get into why _Ada Developer's Academy_ is here, and look at its mission statement.
 
@@ -82,44 +83,40 @@ Welcome!
 
 As we're sure you know, the core program is an 11-months learning experience. It is divided into two sections:
 
-1. The Classroom Portion
-2. The Internship Portion
+1. The Classroom Portion: 6 months
+2. The Internship Portion: 5 months
 
-## The Classroom Portion
+# 🍎 The Classroom Portion 🍎
 
 The following beliefs shape our classroom portion and the methods/activities/projects we do.
 
 We believe...
 
-- That high engagement and frequent engagement with the material is effective. We will do a lot of reading, watching, repeated practicing, deep discussion, question-asking, researching, and reviewing with each other
-- That you yourself can take charge and ownership into transforming yourself into a developer
-- Communication and being human matter the most
-- Everything points to something larger
+1. That high engagement and frequent engagement with the material is effective. We will do a lot of reading, watching, repeated practicing, deep discussion, question-asking, researching, and reviewing with each other
+1. That you yourself can take charge and ownership into transforming yourself into a developer
+1. Communication and being human matter the most
+1. Everything points to something larger
 
-### Content
-
-#### Student Handbook
-
-Please refer to your Student Handbook for details on
+Please refer to your Student Handbook for details on:
 
 - overall program schedule
 - days/weeks when class is not in session
-- graduation requirements
 
-#### Scheduled Units
+
+## 📚 Scheduled Units 📚
 
 We will cover the following subjects (in detail on [this page](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/classroom/syllabus.md))
 
-1. Programming Fundamentals in Ruby (6 Weeks)
-1. Static Web (1 Week)
-1. Servers as APIs and Full-Stack Development (6 Weeks)
-1. Learning Your Second Language: JavaScript (2 Weeks)
-1. Front-End Development: React (3 Weeks)
-1. Independent Capstone Project: (4 Weeks: 1 individual self-study week, 3 weeks of development)
+1. **Programming Fundamentals in Ruby** (6 Weeks)
+1. **Static Web** (1 Week)
+1. **Servers as APIs and Full-Stack Development** (6 Weeks)
+1. **Learning Your Second Language: JavaScript** (2 Weeks)
+1. **Front-End Development: React** (3 Weeks)
+1. **Independent Capstone Project** (4 Weeks: 1 individual self-study week, 3 weeks of development)
 
 We operate on a rolling schedule release: Every week, we will set the schedule on the classroom calendar for 2 weeks in advance.
 
-### Support From the Education Team
+## 🌉 Support From the Education Team 🌉
 
 The following is a list of things we'll do a lot of at Ada:
 
@@ -129,7 +126,7 @@ The following is a list of things we'll do a lot of at Ada:
 1. Getting help with Tutors
 1. Working through Individualized Learning Plans (LPs)
 
-#### 1:1 Meetings
+### 1:1 Meetings
 
 1:1 meetings (one-on-one meetings) between you and an instructor will happen regularly. It is your time to discuss:
 
@@ -143,7 +140,7 @@ You will be assigned an instructor to meet with regularly. Your 1:1 instructor w
 
 We'll learn more details when we begin the 1:1 meeting process in week 2.
 
-#### Projects, and Project Feedback
+### Projects, and Project Feedback
 
 We'll do a lot of coding at Ada! (Who knew?!)
 
@@ -151,11 +148,11 @@ We will often assign individual and group projects. Instructors on the Education
 
 We'll learn more details when we start and submit our first project in week 2.
 
-#### TAs and Tutors
+### TAs and Tutors
 
 Our community has a lot of excited, engaged TAs (teaching assistants) and tutors who are here to learn with you and help you. Please use Slack and our student support/student services team to get access to them!
 
-#### Individualized Learning Plans (LPs)
+### Individualized Learning Plans (LPs)
 
 In its current stage, the Ada Core program doesn't have a lot of [differentiated instruction](https://en.wikipedia.org/wiki/Differentiated_instruction).
 
@@ -178,7 +175,7 @@ Individualized Learning Plans often create structure, care, and accountability o
 
 We can create these Learning Plans any time-- just let any Ada staff member know through Slack.
 
-### Support From Tools & Communication
+## 📞 Support From Tools & Communication 📞
 
 Please expect and be responsive (check once per work day) to the following tools that Ada staff will use to communicate with you:
 
@@ -189,7 +186,7 @@ Please expect and be responsive (check once per work day) to the following tools
 1. Google Calendar
 1. GitHub.com
 
-## The Internship Portion
+# 🖥 The Internship Portion 🖥
 
 After the classroom portion, you will spend 5 months with one of Ada's company partners for an assigned internship.
 
@@ -201,19 +198,17 @@ During the classroom portion, look forward to communication about:
 - Interview Preparation
 - Workshops from community members about professional development
 
-## Graduation
+# 🎓 Graduation 🎓
 
 Graduation comes after the internship portion, and on successful completion of the graduation requirements listed in the Student Handbook.
 
 At that point, you will join the Ada Alum network.
 
-## Note from the Education Team: Asking for Grace
+# 💌 Note from the Education Team: Asking for Grace 💌
 
-Hello C14,
+Hello C14!
 
-We also wanted to give a personal letter to you, from the Education Team at Ada!
-
-We were hoping to share some feelings about uncertainty, and ask for grace from you all.
+We also wanted to give a personal letter to you, from the Education Team at Ada! We were hoping to share some feelings about uncertainty, and ask for grace from you all.
 
 What do you all think about the program so far?
 
@@ -229,4 +224,4 @@ As the Ada staff work towards making the best learning experience yet, we ask th
 
 We're in this together! Let's stay in this together, and make it good and great together, too.
 
-- Education Team, August 2020
+-- Education Team, August 2020

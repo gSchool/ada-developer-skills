@@ -1,6 +1,6 @@
-# 💻 Online Communication Norms at Ada 💻
+# Online Communication Norms at Ada 💻
 
-## 📹 Audio/Video Communication (aka Zoom)
+## 📹 Audio/Video Communication (aka Zoom) 📹
 
 1. **Have your video camera on** as much as possible
     - This allows for attentive engagement, body language, and shared sense of belonging
