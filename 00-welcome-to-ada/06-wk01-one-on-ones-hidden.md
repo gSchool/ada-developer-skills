@@ -74,6 +74,7 @@ Things that should definitely be asked consistently each one-on-one:
 - If they have personal issues, see if there are changes that the student or instructor can apply to classroom environment, and/or recommend them to talk with Sarah (more)
 - If they need an accommodation (medical), ask them to talk with Sarah
 - If they are on the path to a Learning Plan, is this the time to bring it up?
+   - Some indicators that they are on a path to an LP include but are not limited to: turning in projects late or not at all, more than one red or yellow project, and student communicating that the work load is not sustainable. 
 
 #### Internships
 
