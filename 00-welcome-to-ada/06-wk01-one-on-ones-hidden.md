@@ -75,7 +75,9 @@ Things that should definitely be asked consistently each one-on-one:
 - If they need an accommodation (medical), ask them to talk with Sarah
 - If they are on the path to a Learning Plan, is this the time to bring it up?
    - Some indicators that they are on a path to an LP include but are not limited to: turning in projects late or not at all, more than one red or yellow project, and student communicating that the work load is not sustainable. 
+#### When we talk about what.
 
+This section of this document is for instructors to add guidelines about particular topics they talk about with students at particular times in the curriculum so that we can all benefit from that wisdom.
 #### Internships
 
 It's super fair game to talk about internships! This particularly is useful to remember once company engagement starts, or when MediaRanker happens because that's when students reflect on their workstyle.
