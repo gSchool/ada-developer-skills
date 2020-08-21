@@ -54,3 +54,14 @@ Standards:
         Type: Lesson
         UID: dbaee99a4efbf63e8044ea299054ed66
         Path: /01-roundtables/01-roundtables.md
+  -
+    Title: Potpourri
+    Description: Includes even more resources on developer skills!
+    UID: 13db1562f6ff30eb9b59c1a5499affbd
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 36adde5b697a53e866b091e73ffc5eb2
+        Path: /05-potpourri/01-wk01-pseudocode.md
