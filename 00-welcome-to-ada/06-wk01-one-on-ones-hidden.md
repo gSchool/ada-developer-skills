@@ -58,6 +58,7 @@ Things that should definitely be asked consistently each one-on-one:
 - Ask how the project is going
 - Ask how the classroom is going
 - Ask about any capstone ideas (encourage students to think about capstone ideas so they aren't without ideas at the beginning of capstone, but to not worry about capstone logistics yet)
+   - Students may start thinking about capstone early in the cohort, but instructors do not need to bring this up until capstones are formally introduced.
 - Ask how study skills are:
   - Do they need to up their vocabulary?
   - Do they need to practice their fundamental concepts?
