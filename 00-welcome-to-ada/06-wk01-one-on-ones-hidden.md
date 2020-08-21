@@ -9,7 +9,7 @@ With a cohort size of 52 students with 5 classroom instructors, the traditional 
 
 The current method that instructors use to schedule one-on-ones is to: 
 - Create blocks of time setup for 20 minute appointments onto your personal Ada calendar.
-- To the extent possible, slots should reoccur 3 times, every other week.
+- To the extent possible, slots should reoccur 3 times, every other week (for example, a single student should meet with an instructor Tuesday at 2pm on Week 2, Week 4, and Week 6).
 - Email students with the link to your calendar to sign up for a slot.
 
 Some thoughts:
