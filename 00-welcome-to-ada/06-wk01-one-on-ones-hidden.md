@@ -71,7 +71,7 @@ Things that should definitely be asked consistently each one-on-one:
 
 ### Other things to consider
 
-- If they have personal issues, see what can apply to classroom environment, and/or recommend them to talk with Sarah (more)
+- If they have personal issues, see if there are changes that the student or instructor can apply to classroom environment, and/or recommend them to talk with Sarah (more)
 - If they need an accommodation (medical), ask them to talk with Sarah
 - If they are on the path to a Learning Plan, is this the time to bring it up?
 
