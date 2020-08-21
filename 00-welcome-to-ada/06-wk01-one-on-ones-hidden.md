@@ -36,7 +36,7 @@ Things that should definitely be established consistently in each one-on-one:
   - How have they done well in studying, asking questions, participating?
   - How have they improved?
 - Discourage students from comparing themselves to others
-- A lot of students want to know how they are doing in the curriculum overall. Feel free to gently and professionally tell them-- there are no secrets! If a student is meeting expectations, share that with them
+- A lot of students want to know how they are doing in the curriculum overall. Feel free to gently and professionally tell them — there are no secrets! If a student is meeting expectations, share that with them
 - Encourage them to stay focused on the task at hand
 - Find resources to help them or further their interests, questions, and curiosity
 - Find resources and the right people to help them that aren't you
