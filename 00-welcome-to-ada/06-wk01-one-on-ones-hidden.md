@@ -43,6 +43,7 @@ Things that should definitely be established consistently in each one-on-one:
 - Give constructive feedback
 - Keep them accountable to feedback given and commitments made
 - Give them an accurate picture of how they are doing and how they could improve
+  - It is not uncommon for unconscious racial bias to cause educators to be more scarce on constructive-critical feedback to URM students, further exacerbating inequitable outcomes. Be intentional about offering opportunities for growth to all students and mindful of unconscious biases that may hurtfully lower your expectations of some students.
 
 ## What to actually talk about
 
