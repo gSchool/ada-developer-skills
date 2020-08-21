@@ -105,7 +105,7 @@ Please refer to your Student Handbook for details on:
 
 ## 📚 Scheduled Units 📚
 
-We will cover the following subjects (in detail on [this page](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/classroom/syllabus.md))
+We will cover the following subjects (in detail on [our syllabus](https://github.com/Ada-Developers-Academy/pedagogy/blob/master/classroom/syllabus.md))
 
 1. **Programming Fundamentals in Ruby** (6 Weeks)
 1. **Static Web** (1 Week)
