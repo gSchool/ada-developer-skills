@@ -33,11 +33,27 @@ Standards:
         Path: /00-welcome-to-ada/06-wk01-ada-worksheets.md
       -
         Type: Lesson
+        DefaultVisibility: hidden
+        UID: cd5a1f28cba4e4650979d2c009f65691
+        Path: /00-welcome-to-ada/06-wk01-one-on-ones-hidden.md
+      -
+        Type: Lesson
         UID: c687f860e47f121d097b6bf849d614c4
         Path: /00-welcome-to-ada/06-wk01-one-on-ones.md
   -
+    Title: Roundtables
+    Description: Roundtables
+    UID: 11a4f36cf40d24a975ed0f4e931ef4c1
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: dbaee99a4efbf63e8044ea299054ed66
+        Path: /01-roundtables/01-roundtables.md
+  -
     Title: Potpourri
-    Description: Potpourri
+    Description: Includes even more resources on developer skills!
     UID: 13db1562f6ff30eb9b59c1a5499affbd
     SuccessCriteria:
       - success criteria

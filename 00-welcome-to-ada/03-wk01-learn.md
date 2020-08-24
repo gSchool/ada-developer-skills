@@ -21,6 +21,7 @@ At Ada we assess students primarily through programming projects, exercises know
   * You have met or exceeded the major learning goals for this project; there is evidence that the produced code shows enough understanding
 * Yellow
   * You approached meeting the major learning goals for this project; to the grader, there is evidence that the produced code shows some understanding, and shows evidence that not all major learning goals were met
+
 * Red
   * You did not meet the major learning goals for this project; there is evidence that most major learning goals were not met, the progress on the project shows need for support on completion, quality, or both; the project is broken and not running
 
