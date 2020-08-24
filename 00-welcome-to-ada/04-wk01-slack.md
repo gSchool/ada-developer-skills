@@ -56,3 +56,4 @@ You can view and update your profile in Slack including adding an avatar image.
 ![Edit profile](images/edit-profile.png)
 
 ![Editing a profile](images/edit-profile2.png)
+
