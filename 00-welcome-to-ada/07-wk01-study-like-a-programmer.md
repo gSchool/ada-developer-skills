@@ -240,6 +240,14 @@ What level of understanding does the question "Can I repeat and modify examples 
 
 It's good to know things for one day. However, true learning comes from reviewing and revisiting subjects over time.
 
+We recommend starting to review material by starting with...
+
+- Review questions that you came up with or heard over the week
+- Review questions from roundtable guides
+- Review summaries at the end of lessons
+- Review vocabulary
+- Creating a new list of questions for yourself
+
 Set up a cadence for yourself to review material. This is where your present-self should look out for your future self: reviewing material is much easier, funner, and more effective if you take notes in the beginning.
 
 We recommend trying to review material...
