@@ -22,5 +22,7 @@ The goal for redesigning these was to make the space more interactive and studen
   * What is your emotional state?
   * Is there anything you want to share with the group?
 * What questions do you have?
-* Facilitator should the highlight anything the group should be sure to review.
+* After students have an opportunity to ask questions:
+  * The facilitator should move through the questions in the roundtable guide as needed.
+  * Key concepts/topics to review will noted in the guide.
   * Save some time at the end for this.
