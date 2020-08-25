@@ -40,6 +40,10 @@ Standards:
         Type: Lesson
         UID: c687f860e47f121d097b6bf849d614c4
         Path: /00-welcome-to-ada/06-wk01-one-on-ones.md
+      -
+        Type: Lesson
+        UID: eb0e68da-4a5b-4743-a215-a97b70c20739
+        Path: /00-welcome-to-ada/07-wk01-study-like-a-programmer.md
   -
     Title: Roundtables
     Description: Roundtables

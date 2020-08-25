@@ -51,9 +51,35 @@ Some words that might describe what the role of a software developer is:
 - A designer
 - Someone who can type a lot of things
 
+### !challenge
+
+* type: short-answer
+* id: 9138ecae-fd7b-4685-9bf6-eb882ad43edf
+* title: What do you want from being a software developer?
+
+##### !question
+
 **Why did you want to become a software developer?**
 
 **What is something you want to do as a software developer?**
+
+Write a short answer (less than 2 paragraphs) to share.
+
+##### !end-question
+
+##### !placeholder
+
+Write a short answer (less than 2 paragraphs) to share.
+
+##### !end-placeholder
+
+##### !answer
+
+/.*/
+
+##### !end-answer
+
+### !end-challenge
 
 Take the time to write down a personal answer for yourself, and put the note in a journal, book, envelope, sticky note. Return to this note when you feel lost in the future.
 
@@ -65,14 +91,44 @@ As a programmer in a field that changes so quickly, your most valuable asset wil
 
 ### Creative Writer
 
-Writing software is a creative process. A maybe-helpful analogy: If our jobs were to paint color-by-numbers, we could probably maximize productivity and output by working long hours day after day. If our jobs are to create inspiring artwork, **practicing self-care (rest, etc.) is an essential part of my work.**
+Writing software is a creative process. Us programmers work with abstract data and concepts. We organize, arrange, transform, and orchestrate data. We take input, and use creativity and logic with the constraints we're given, and make beautiful output.
+
+A maybe-helpful analogy: If our jobs were to paint color-by-numbers, we could probably maximize productivity and output by working long hours day after day. If our jobs are to create inspiring artwork, **practicing self-care (rest, etc.) is an essential part of my work.**
 
 ### Take Care of Your Brain
 
 Visualize your brain as a tool that needs care and maintenance to be most effective. That means when something in your program isn't working and your brain is experiencing stress, your brain is probably not going to be very productive until you've given it a break and taken care to restore your brain to a less heightened state. 
 
-<!-- Which of these is a metaphor that illustrates the role of a software developer -->
+### !challenge
 
+* type: multiple-choice
+* id: a7753324-aa1f-4858-85d4-a0d1956fb36b
+* title: Programming is Creative Work
+
+##### !question
+
+Based on the information above, which of the following is **_not_** an appropriate metaphor?
+
+Programmers are like...
+
+##### !end-question
+
+##### !options
+
+* Painters who are given materials and constraints, and must use creativity to make something
+* Computers who must get the right answer every time
+* Athletes who must practice and take care of themselves in order to improve
+* Managers who must keep track of projects and health at the same time
+
+##### !end-options
+
+##### !answer
+
+* Computers who must get the right answer every time
+
+##### !end-answer
+
+### !end-challenge
 
 ## Studying Like a Programmer
 
@@ -124,9 +180,61 @@ Create | On a bigger scale of systems... How do I orchestrate this with a system
 
 If this looks a lot like a programmer-specific version of the [general Bloom's Taxonomy model](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy), then you're totally spot on :)
 
-<!-- What level of understanding does the question "What does ... mean?" belong to? -->
+### !challenge
 
-<!-- What level of understanding does the question "Can I repeat and modify examples of ...?" belong to? -->
+* type: multiple-choice
+* id: 50db94eb-cb6a-4565-afde-fcd0d237f56c
+* title: Bloom's Taxonomy
+
+##### !question
+
+What level of understanding does the question "What does ... mean?" belong to?
+
+##### !end-question
+
+##### !options
+
+* Knowledge
+* Understanding
+* Application
+
+##### !end-options
+
+##### !answer
+
+* Knowledge
+
+##### !end-answer
+
+### !end-challenge
+
+### !challenge
+
+* type: multiple-choice
+* id: 0caf3fa7-7ba4-4768-8979-9d8c796d8bde
+* title: Bloom's Taxonomy
+
+##### !question
+
+What level of understanding does the question "Can I repeat and modify examples of ...?" belong to?
+
+##### !end-question
+
+##### !options
+
+* Knowledge
+* Understanding
+* Application
+
+##### !end-options
+
+##### !answer
+
+* Application
+
+##### !end-answer
+
+### !end-challenge
 
 ### Your Review Skills
 
@@ -164,16 +272,34 @@ Your brain is probably going to be much less productive at fixing a bug on the 1
 
 Sometimes the struggle comes from not solidifying your identity as a programmer. **You are a software developer!** Tell this to yourself out loud every day, if it helps.
 
+### !challenge
 
-<!-- Which of the following is _not_ a category of studying skills that was covered above? -->
-<!--
+* type: multiple-choice
+* id: 777d35be-f76c-442e-8b75-33499b5dbc87
+* title: Study Skills
+
+##### !question
+
+Which of the following is _not_ a category of studying skills that was covered above?
+
+##### !end-question
+
+##### !options
 
 * Question-Asking Skills
-* Self-Review Skills
+* Review Skills
 * Perseverence & Self-Care Skills
 * Bottling-It-Up Skills
 
- -->
+##### !end-options
+
+##### !answer
+
+* Bottling-It-Up Skills
+
+##### !end-answer
+
+### !end-challenge
 
 ## Activities and Techniques that are Tried and True
 
