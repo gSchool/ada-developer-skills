@@ -29,10 +29,6 @@ Standards:
         Path: /00-welcome-to-ada/05-wk01-google-calendar.md
       -
         Type: Lesson
-        UID: a82bc49eda1f6a23f982a9ed5c6147df
-        Path: /00-welcome-to-ada/06-wk01-ada-worksheets.md
-      -
-        Type: Lesson
         DefaultVisibility: hidden
         UID: cd5a1f28cba4e4650979d2c009f65691
         Path: /00-welcome-to-ada/06-wk01-one-on-ones-hidden.md
