@@ -93,7 +93,7 @@ As a programmer in a field that changes so quickly, your most valuable asset wil
 
 Writing software is a creative process. Us programmers work with abstract data and concepts. We organize, arrange, transform, and orchestrate data. We take input, and use creativity and logic with the constraints we're given, and make beautiful output.
 
-A maybe-helpful analogy: If our jobs were to paint color-by-numbers, we could probably maximize productivity and output by working long hours day after day. If our jobs are to create inspiring artwork, **practicing self-care (rest, etc.) is an essential part of my work.**
+A maybe-helpful analogy: If our jobs were to paint color-by-numbers, we could probably maximize productivity and output by working long hours day after day. If our jobs are to create inspiring artwork, **practicing self-care (rest, etc.) is an essential part of our work.**
 
 ### Take Care of Your Brain
 
