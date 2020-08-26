@@ -252,9 +252,14 @@ Set up a cadence for yourself to review material. This is where your present-sel
 
 We recommend trying to review material...
 
-- At the end of every day for 15 minutes
 - At the end of every week for 30 minutes
 - At the end of every project for 15 minutes
+
+At the end of every day, try writing down...
+
+- **What did you learn today that stood out to you?**
+- Write down everything you know about the concepts covered today
+- Questions about the concepts you can come up with
 
 #### A note about "knowing things" as programmers
 
