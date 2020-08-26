@@ -322,7 +322,7 @@ Which of the following is _not_ a category of studying skills that was covered a
 
 ## Past Adie Study-Skills Testimonials
 
-Every now and then we collect testimonials from graduated Adies who reflected on transitioning from having zero study skills to forging their study patterns. They are collectively located [here](https://drive.google.com/drive/folders/16TXs8qJ61KaNs8AmAdrQb8t4uX4OPnf5).
+Every now and then we collect testimonials from graduated Adies who reflected on transitioning from having zero study skills to forging their study patterns. They are collectively located in the ["Student Testimonials" folder](https://drive.google.com/drive/folders/16TXs8qJ61KaNs8AmAdrQb8t4uX4OPnf5).
 
 ## Conclusion
 
