@@ -318,7 +318,7 @@ Which of the following is _not_ a category of studying skills that was covered a
 - Finding that your knowledge and understanding level of vocabulary is lacking? Consider: Utilize flashcards for specific vocabulary, concepts, and syntax
 - Finding that you are craving more review in your own words? Consider: Making crib sheets (1-page review notes of the crucial knowledge) at the end of the week
 - Feeling isolated? Please consider having proactive communication with other students and staff! Staff is on your side for your success, and your proactive communication with staff can lead to opportunities and resources
-- Want a video series we recommend? Consider: ["Crash course" on study skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
+- Want a video series we recommend? Consider: ["Crash Course" on study skills](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNcAJRf3bE1IJU6nMfHj86W)
 
 ## Past Adie Study-Skills Testimonials
 
