@@ -1,4 +1,4 @@
-# Activity: Study Like a Programmer
+# Activity: Study Techniques and Tools
 
 ## Learning Goals
 
