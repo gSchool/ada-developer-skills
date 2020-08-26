@@ -258,7 +258,7 @@ We recommend trying to review material...
 
 #### A note about "knowing things" as programmers
 
-You can't know everything. But, there is something beautiful about our jobs: **We can always look things up.** It's best to get your understanding to a "good enough" place so you can look it up more easily later.
+You can't know everything. But, there is something beautiful about our jobs: **We can always look things up.** It's best to get your understanding to a "good enough" place so you can look it up more easily later.  The important thing is that you be able to formulate helpful questions, not know all the answers.
 
 What is "good enough"? Figuring out what "good enough" is will be something we learn over time.
 
