@@ -274,7 +274,7 @@ Encourage yourself and others to take breaks often.
 
 #### Sleep
 
-Your brain is probably going to be much less productive at fixing a bug on the 11th hour of work today than you will be if you get good sleep and tackle the same bug first thing in the morning.
+Your brain is probably going to be much less productive at fixing a bug on the 11th hour of work today than you will be if you get good sleep and tackle the same bug first thing in the morning.  Also, don't be afraid to take naps!
 
 #### Feel Like a Programmer!
 
