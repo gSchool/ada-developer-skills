@@ -51,6 +51,34 @@ Now that we have a general set of questions and order to debugging, here is a ge
 6. Document what you tried and what the results were... Probably on a piece of paper or a separate file.
 7. Repeat this process until the bug is fixed!
 
+### !challenge
+
+* type: multiple-choice
+* id: 611f8ccc-d64b-4543-b0d9-141c8863091b
+* title: How do we fix it?
+
+##### !question
+
+True or false: It is okay to come up with theories about the bug and to test & experiment, as long as you document what you tried and what the results are in your notes
+
+##### !end-question
+
+##### !options
+
+* True
+* False
+
+##### !end-options
+
+##### !answer
+
+* True
+
+##### !end-answer
+
+### !end-challenge
+
+
 ## Debugging is Utilizing Your Tools and Resources
 
 What is debugging? Debugging is not only asking and answering questions, but also it's using your tools and resources to ask and answer questions.
@@ -125,3 +153,45 @@ We can even break it up this way:
     - Use rubber ducking skills, experimentation, research, and ask for help!
 
 In conclusion, debugging is one of the main things we'll be doing as programmers. We will learn so many more debugging tools in the future!
+
+### !challenge
+
+* type: checkbox
+* id: 8afd53ac-b49b-45d1-994c-6fe781a7d510
+* title: Intro to Debugging
+
+##### !question
+
+Select all methods that are valid ways to approach debugging
+
+##### !end-question
+
+##### !options
+
+* Asking "what" is happening
+* Talking to a literal rubber duck
+* Talking to a classmate
+* Writing down what you expected to happen vs. what actually happened
+* Taking a break and looking at it again in an hour
+* Using `puts` statements to confirm the value of a variable on a given line
+* Making theories and experiments on why the bug is there and how to fix it
+* Taking notes about the bug
+* Making a table or diagram
+
+##### !end-options
+
+##### !answer
+
+* Asking "what" is happening
+* Talking to a literal rubber duck
+* Talking to a classmate
+* Writing down what you expected to happen vs. what actually happened
+* Taking a break and looking at it again in an hour
+* Using `puts` statements to confirm the value of a variable on a given line
+* Making theories and experiments on why the bug is there and how to fix it
+* Taking notes about the bug
+* Making a table or diagram
+
+##### !end-answer
+
+### !end-challenge
