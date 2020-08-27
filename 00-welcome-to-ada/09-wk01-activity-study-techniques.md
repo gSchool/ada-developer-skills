@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-By the end of this lesson, we will be able to...
+By the end of this lesson, you will be able to...
 
-- Develop a set of study tools, skills, guidelines for themselves
+- Develop a set of study tools, skills, guidelines for yourself
 
 ## Past Experiences and Study Tools
 
