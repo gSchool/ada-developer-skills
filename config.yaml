@@ -44,6 +44,10 @@ Standards:
         Type: Lesson
         UID: 9a51eac7-e0c7-46ee-8a43-2eb27fca0263
         Path: /00-welcome-to-ada/08-wk01-intro-to-debugging.md
+      -
+        Type: Lesson
+        UID: 596e01dc-936c-4443-820c-d4ebb5ef24a2
+        Path: /00-welcome-to-ada/09-wk01-activity-study-techniques.md
   -
     Title: Roundtables
     Description: Roundtables
