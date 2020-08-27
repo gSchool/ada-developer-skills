@@ -14,10 +14,14 @@ Take 7 minutes to reflect on the following questions. Write down your answers fo
 
 We encourage you to make this discussion practical, useful, and honest for yourselves.
 
-1. What is something in your life that you had to teach yourself how to do? How did it feel?
-1. What is a skill in your life that improved with time, practice, and effort? How did it feel?
-1. What are some previous positive learning and studying experiences you have had? What worked well?
-1. What are some previous negative learning and studying experiences you have had? What didn't work?
+1. What is something in your life that you had to teach yourself how to do?
+    - How did it feel?
+1. What is a skill in your life that improved with time, practice, and effort? 
+    - How did it feel?
+1. What are some previous positive learning and studying experiences you have had? 
+    - What worked well?
+1. What are some previous negative learning and studying experiences you have had? 
+    - What didn't work?
 1. Out of the following, which studying techniques have worked well for you? Which have you never tried?
     - Taking notes on a digital document, like One Note, Evernote, Google Docs, etc.
     - Taking notes on physical paper
