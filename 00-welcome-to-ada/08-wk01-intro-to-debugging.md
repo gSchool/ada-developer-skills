@@ -127,6 +127,34 @@ We can often use the line `puts "The value of the variable is: #{variable}"`
 
 If you observe the process in the images above, we'll see that using `puts` statements helps us see the bug more clearly, and points us closer to where the bug occurs.
 
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Make `puts` work for you
+Make the `puts` lines helpful to you! Sometimes there's a lot of text to read, and it's hard to actually see it.
+
+Programmers are funny, and often write statements like this:
+
+```ruby
+puts "*****************************************"
+puts variable
+puts "*****************************************"
+```
+
+or
+
+```ruby
+puts "vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv"
+puts variable1
+puts variable2
+puts variable3
+puts "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^"
+```
+
+Don't be afraid to make your `puts` statements your own!
+
+### !end-callout
+
 ### Rubber Ducking
 
 [Rubber Duck Debugging, or Rubber Ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) is a method of debugging code. It describes the idea that sometimes the best way to debug code is to talk things through out loud, and that sometimes talking out loud to a rubber duck will do.
