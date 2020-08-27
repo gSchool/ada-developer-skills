@@ -29,10 +29,6 @@ Standards:
         Path: /00-welcome-to-ada/05-wk01-google-calendar.md
       -
         Type: Lesson
-        UID: a82bc49eda1f6a23f982a9ed5c6147df
-        Path: /00-welcome-to-ada/06-wk01-ada-worksheets.md
-      -
-        Type: Lesson
         DefaultVisibility: hidden
         UID: cd5a1f28cba4e4650979d2c009f65691
         Path: /00-welcome-to-ada/06-wk01-one-on-ones-hidden.md
@@ -44,6 +40,10 @@ Standards:
         Type: Lesson
         UID: eb0e68da-4a5b-4743-a215-a97b70c20739
         Path: /00-welcome-to-ada/07-wk01-study-like-a-programmer.md
+      -
+        Type: Lesson
+        UID: 9a51eac7-e0c7-46ee-8a43-2eb27fca0263
+        Path: /00-welcome-to-ada/08-wk01-intro-to-debugging.md
   -
     Title: Roundtables
     Description: Roundtables
