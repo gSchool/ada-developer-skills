@@ -1,5 +1,7 @@
 # How to Study like a Programmer
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=c777056e-412b-40f6-999b-ac2501267610&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Introduction: Humans vs. Computers
 
 What is the difference between a computer and a programmer?
