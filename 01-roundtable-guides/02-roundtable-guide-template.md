@@ -12,7 +12,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * Take notes!
 
 Let's get started with
-* XXX A icebreaker / temperature check question
+* XXX (an icebreaker or a temperature check question)
 * What questions do you have?
 
 Guiding Questions and Concepts to Review.
