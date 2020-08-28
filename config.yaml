@@ -49,8 +49,8 @@ Standards:
         UID: 596e01dc-936c-4443-820c-d4ebb5ef24a2
         Path: /00-welcome-to-ada/09-wk01-activity-study-techniques.md
   -
-    Title: Roundtables
-    Description: Roundtables
+    Title: Roundtable Guides
+    Description: Guides to individual roundtables
     UID: 11a4f36cf40d24a975ed0f4e931ef4c1
     SuccessCriteria:
       - success criteria
@@ -58,7 +58,7 @@ Standards:
       -
         Type: Lesson
         UID: dbaee99a4efbf63e8044ea299054ed66
-        Path: /01-roundtables/01-roundtables.md
+        Path: /01-roundtable-guides/01-roundtables.md
   -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
