@@ -6,7 +6,8 @@
     - This allows for attentive engagement, body language, and shared sense of belonging
 
 1. Update your [Zoom profile settings](https://us02web.zoom.us/profile) so that **your name conforms to this template and includes your pronouns: `Name (pronouns)`**
-    - For example, Simon's Zoom name is `Simon (they/them)`, Becca's is `Becca (she/they)`, Devin's is `Devin (she/her)`, and Chris's is `Chris (he/him)`
+    - For example, Simon's Zoom name is `Simon (they/them)`, Becca's is `Becca (she/they)`, Devin's is `Devin (she/her)`, Chris's is `Chris (he/him)`
+    - Some other pronoun examples include `Ada (any pronouns)`, `Ada (ze/hir)`, `Ada (ask me)`, `Ada (use my name)`
 
 1. **Use the Chat feature** for on-topic conversation and questions
     - This is our best way to hear your questions!
