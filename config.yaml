@@ -1,0 +1,76 @@
+---
+Standards:
+  -
+    Title: Welcome To Ada
+    Description: Resources on Ada as an organization, what we do, and how we do it.
+    UID: 10213b4addb0ca7959098f086969d97c
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 97fab403fbc948fcc6a9a2253220487e
+        Path: /00-welcome-to-ada/01-wk01-what-is-ada.md
+      -
+        Type: Lesson
+        UID: d9f69c52d660e990ab941ecaced90957
+        Path: /00-welcome-to-ada/02-wk01-online-communication-norms.md
+      -
+        Type: Lesson
+        UID: 8eecb85d142ac5ac84c3c2d8ac58e0cb
+        Path: /00-welcome-to-ada/03-wk01-learn.md
+      -
+        Type: Lesson
+        UID: 5865d823948e3e2c1a1b427cda05aeac
+        Path: /00-welcome-to-ada/04-wk01-slack.md
+      -
+        Type: Lesson
+        UID: a2770c9798f93043e947942f2c34353b
+        Path: /00-welcome-to-ada/05-wk01-google-calendar.md
+      -
+        Type: Lesson
+        DefaultVisibility: hidden
+        UID: cd5a1f28cba4e4650979d2c009f65691
+        Path: /00-welcome-to-ada/06-wk01-one-on-ones-hidden.md
+      -
+        Type: Lesson
+        UID: c687f860e47f121d097b6bf849d614c4
+        Path: /00-welcome-to-ada/06-wk01-one-on-ones.md
+      -
+        Type: Lesson
+        UID: eb0e68da-4a5b-4743-a215-a97b70c20739
+        Path: /00-welcome-to-ada/07-wk01-study-like-a-programmer.md
+      -
+        Type: Lesson
+        UID: 9a51eac7-e0c7-46ee-8a43-2eb27fca0263
+        Path: /00-welcome-to-ada/08-wk01-intro-to-debugging.md
+      -
+        Type: Lesson
+        UID: 596e01dc-936c-4443-820c-d4ebb5ef24a2
+        Path: /00-welcome-to-ada/09-wk01-activity-study-techniques.md
+  -
+    Title: Roundtables
+    Description: Roundtables
+    UID: 11a4f36cf40d24a975ed0f4e931ef4c1
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: dbaee99a4efbf63e8044ea299054ed66
+        Path: /01-roundtables/01-roundtables.md
+  -
+    Title: Potpourri
+    Description: Includes even more resources on developer skills!
+    UID: 13db1562f6ff30eb9b59c1a5499affbd
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 36adde5b697a53e866b091e73ffc5eb2
+        Path: /05-potpourri/01-wk01-pseudocode.md
+      -
+        Type: Lesson
+        UID: 565712d4-eafd-4bcc-adc4-57fe6fed4855
+        Path: /05-potpourri/02-wk01-exercise-intro-hundred-acre-woods.md
