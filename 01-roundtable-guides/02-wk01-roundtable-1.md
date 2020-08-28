@@ -15,6 +15,9 @@ Let's get started with
 * In one word, how is your first week at Ada going?
 * What questions do you have?
 
-Guiding Questions and Concepts to Review.
-* 
-* 
+Guiding Questions and Concepts to Review:
+* How did your Random Menu solutions differ from eachother?
+* What study techniques have worked for you in the past?
+* What study techniques have _not_ worked for you in the past?
+* What study techniques have you found worked for you for programming?
+

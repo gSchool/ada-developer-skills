@@ -15,6 +15,6 @@ Let's get started with
 * XXX (an icebreaker or a temperature check question)
 * What questions do you have?
 
-Guiding Questions and Concepts to Review.
+Guiding Questions and Concepts to Review:
 * 
 * 
