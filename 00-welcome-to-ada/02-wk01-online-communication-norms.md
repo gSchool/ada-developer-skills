@@ -56,20 +56,20 @@ If you'd ever like to talk to Ada staff about these norms, _**all**_ Ada staff (
 
 1. **Use it!** Use it often and keep it open during core hours
 
-1. Always pay attention to the official Ada channels. **We will use this to communicate updates, reminders, and questions.**
+1. Continue to be kind, compassionate, and all other values that the Ada community stands for in text format
+
+1. Diligently read the official Ada channels. **We will use very frequently this to communicate announcements, updates, reminders, and questions.**
 
 1. **Make Slack effective and helpful to you** (see tips)
 
 1. Be responsive
     - When possible, respond as soon as you can, or inform the other person that you will respond later
-    - Respond to the best of your ability. Often times, the best response is "I don't know" and "I'm not sure."
-
-1. Be kind
+    - Respond to the best of your ability. Often times, the best response is "I don't know," "I'm not sure," "I need one day to reply to you," or "I need help."
 
 1. Trust others
     - Trust others to respond when they can, as soon as they can, to the best of their ability
 
-1. **Fight against the urge to stay silent when you have something to say/ask**
+1. Have a bias towards sharing what you have to say, asking questions, and asking for help often and frequently vs. not sharing, not asking questions, or not asking for help.
 
 ### Tips
 
@@ -93,7 +93,7 @@ Here are some events that you will see frequently on your calendar:
   - a list of readings to watch
   - a list of exercises to complete
   - a list of tasks to complete
-- **Lab Time**: Events that indicate time designated for individual work. In the here will always be optional Zoom video links that you can freely join for co-working.
+- **Lab Time**: Events that indicate time designated for individual work. In the here will always be optional Zoom video links that you can freely join and leave for co-working. **We highly encourage everyone to come and co-work as much as possible!** It's fun and helpful!
 - **Group Activities** such as "Roundtables": Events that indicate a specific group of students meeting. We will communicate group activity assignments through Slack and Email, so check those.
 
 ### Tips
