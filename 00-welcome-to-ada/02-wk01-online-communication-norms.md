@@ -25,6 +25,32 @@
   - [Bitmoji](https://www.bitmoji.com/)
   - [Picrew](https://picrew.me/)  (Site is in Japanese, but buttons are decently clear.)
 
+### !callout-info
+
+## Take Care Of Yourself
+
+There are plenty of reasons why some of these video-call norms may not work for you. You may need to abbreviate or obscure your name and/or pronouns or turn off your camera for plenty of reasons, such as:
+
+- Being in an environment sensitive to cameras
+- Being somewhere with a strangers or folks who cannot be photographed
+- Being somewhere where your name/pronouns should not be visible in this context
+- Being somewhere where your background isn't appropriate to share on camera
+- Being somewhere temporarily noisy or busy or visually distracting, such as construction, traffic, events, etc.
+- Needing privacy in this context
+- Having limited Internet bandwidth/access
+- You have reasons why you do not have access to a web camera, or use a web camera
+- ...Or any other situation where you would need your camera off or names/pronouns hidden
+
+<br>
+
+The goal of our norms is to create consistency, strengthen our bonds with each other, and help with our communication, engagement, and learning. There are many ways we can achieve this in case some of these norms don't work for you.
+
+<br>
+
+If you'd ever like to talk to Ada staff about these norms, _**all**_ Ada staff (education team and beyond) is open and excited to hear from you. We welcome all communication and conversation about these norms at any time.
+
+### !end-callout
+
 ## ⚡ Instant Messaging Comms (aka Slack) ⚡
 
 1. **Use it!** Use it often and keep it open during core hours
