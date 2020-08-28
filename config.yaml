@@ -70,3 +70,7 @@ Standards:
         Type: Lesson
         UID: 36adde5b697a53e866b091e73ffc5eb2
         Path: /05-potpourri/01-wk01-pseudocode.md
+      -
+        Type: Lesson
+        UID: 565712d4-eafd-4bcc-adc4-57fe6fed4855
+        Path: /05-potpourri/02-wk01-exercise-intro-hundred-acre-woods.md
