@@ -48,6 +48,10 @@ Standards:
         Type: Lesson
         UID: 596e01dc-936c-4443-820c-d4ebb5ef24a2
         Path: /00-welcome-to-ada/09-wk01-activity-study-techniques.md
+      -
+        Type: Lesson
+        UID: e24f32de-c053-4b5f-a92c-375d6737668a
+        Path: /00-welcome-to-ada/10-wk01-debugging-with-rubymine.md
   -
     Title: Roundtable Guides
     Description: Guides to individual roundtables
