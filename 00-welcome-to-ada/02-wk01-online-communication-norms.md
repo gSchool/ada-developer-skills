@@ -30,7 +30,11 @@
 
 ## Take Care Of Yourself
 
-There are plenty of reasons why some of these video-call norms may not work for you. You may need to abbreviate or obscure your name and/or pronouns or turn off your camera for plenty of reasons, such as:
+We understand that navigating the waters of appearing on camera is tricky. Also at the same time, we as a staff can guarantee that there where will be days where we do not look our best and we may be wearing pajamas. In the same way that we ask you to not judge us, we commit to the best of our ability to not judge our community like that. Above all, the Ada community is an inclusive space, whether that's digital or in person.
+
+<br>
+
+That being said, there are plenty of reasons why some of these video-call norms may not work for you. You may need to abbreviate or obscure your name and/or pronouns or turn off your camera for plenty of reasons, such as:
 
 - Being in an environment sensitive to cameras
 - Being somewhere with a strangers or folks who cannot be photographed
@@ -48,7 +52,7 @@ The goal of our norms is to create consistency, strengthen our bonds with each o
 
 <br>
 
-If you'd ever like to talk to Ada staff about these norms, _**all**_ Ada staff (education team and beyond) is open and excited to hear from you. We welcome all communication and conversation about these norms at any time.
+If you'd ever like to talk to Ada staff about these norms, _**all**_ Ada staff (education team and beyond) is open and excited to hear from you. We welcome all communication and conversation about these norms at any time; reach out in person, through email (staff emails in Student Handbook), or on Slack!
 
 ### !end-callout
 
