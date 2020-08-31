@@ -269,3 +269,5 @@ Commits, ideally, should be _atomic_. That is, any single commit should include 
 ## Resources
 
 - [More in-depth article on Git](https://codeburst.io/git-good-part-a-e0d826286a2a)
+- [Google Slide Introduction to Git](https://docs.google.com/presentation/d/1FpawRcfQGPgKZpy-rw5wzjxDIHfJ2m_vBBldzRe2Fck/edit?usp=sharing)
+
