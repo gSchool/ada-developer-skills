@@ -5,7 +5,7 @@
 - Understand how to use these tools to better understand what our program is doing and why it is doing it
 
 ## Intro
-As we discussed in the `Intro to Debugging` lesson, we first and foremost want to approach our code with a place or curiosity, _especially_ when our program isn't doing what we want it to. We've discussed how to investigate and understand what our code is doing using stacktraces, puts statements, and rubber ducking. 
+As we discussed in the `Intro to Debugging` lesson, we first and foremost want to approach our code with a place or curiosity, _especially_ when our program isn't doing what we want it to. We've discussed how to investigate and understand what our code is doing using stacktraces, `puts` statements, and rubber ducking. 
 
 In this lesson we'll discover another tool that we can use to help us understand our program, aptly named a _debugger_. Most modern IDEs (such as RubyMine) include debuggers. It is arguably the most useful thing an IDE does for us as developers. 
 
