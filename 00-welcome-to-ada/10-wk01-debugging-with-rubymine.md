@@ -159,4 +159,4 @@ With such a powerful tool, it can be tempting to neglect the tools we learned in
 
 However, there will be times (probably very soon) where you will face a bug and the debugger will not be enough on it's own to help you understand what's going on. Please don't forget the other tools you have! 
 
-The one exception to this is using puts statements. As you get more comfortable with the RubyMine debugger, you will likely find that using puts statements feels less and less useful, until you eventually stop using puts statements altogether.
+The one exception to this is using `puts` statements. As you get more comfortable with the RubyMine debugger, you will likely find that using `puts` statements feels less and less useful, until you eventually stop using `puts` statements altogether.
