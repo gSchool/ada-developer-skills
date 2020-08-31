@@ -53,7 +53,7 @@ This is some very dopey code, but it will show us a lot about how the debugger g
 
 Now that we have the debugger prepped, we need to add a `breakpoint`. Breakpoints are like stop-signs alongside your code; they aren't written into the text of the code itself, but they tell the program to halt before continuing to the next command.
 
-We add them in VS Code by clicking on a line number that we want to stop on. In our current file, lines 6 and 9 are potentially interesting to us. On both lines, click to the left of the line number. When you've finished, you should see 2 red circles near the code. (In case your line numbers don't match ours, compare your breakpoints with the image below.)
+We add them in RubyMine by clicking on a line number that we want to stop on. In our current file, lines 6 and 9 are potentially interesting to us. On both lines, click to the left of the line number. When you've finished, you should see 2 red circles near the code. (In case your line numbers don't match ours, compare your breakpoints with the image below.)
 
 ![RubyMine pane, lines four and seven have bright red circles in front, indicating that have breakpoints set](images/breakpoints-rubymine.png "In the editor, lines 6 and 9 have bright red circles in front, indicating that have breakpoints set")
 
