@@ -18,10 +18,43 @@
 
 ### Nesting Arrays & Hashes
 
+* You have a set of data outlining the 7 wonders of the world.  How would you organize this in a Ruby program.
+
+| Place                      | Location                           | Description                                                                                                                                                                                     | Visits  |
+| -------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Great Wall of China        | Lat:  40.4319° N, Lon: 116.5704° E | Built between the 5th century B.C. and the 16th century, the Great Wall of China is a stone-and-earth fortification created to protect the borders of the Chinese Empire from invading Mongols. | 3000000 |
+| Christ the Redeemer Statue | Lat:  22.9519° S, Lon: 43.2105° W  | The Art Deco-style Christ the Redeemer statue has been looming over the Brazilians from upon Corcovado mountain in an awe-inspiring state of eternal blessing since 1931.                       | 230000  |
+| Machu Picchu               | Lat:  13.1631° S, Lon: 72.5450° W  | Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley.                                                                                      |
+| Taj Mahal                  | Lat:  27.1751° N, Lon: 78.0421° E  | The Taj Mahal is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra.                                                                           | 2400000 |
+
+* Given your organization how could you search through the data structure and find the great wonder with the most visits?
+
 ### Loop Tables & Iteration
+
+* Create a loop table for the following code segment:
+    ```ruby
+    i = 0
+    numbers = []
+    while i < 4
+      numbers.push(i)
+
+      i += 1
+      puts "Numbers is now #{numbers}"
+    end
+    ``
 
 ### Data Transformation Worksheet
 
 ### Ride Share
 
 ### Enumerables Jigsaw
+
+
+### Intro to Git
+
+- Why is it important to make regular commits in Git?
+- What do the commands here do:
+  - `git push`
+  - `git add`
+  - `git commit`
+- You've just made changes to `adagrams.rb` and want to save these changes with git.  How do you do that?
