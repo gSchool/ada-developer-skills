@@ -55,7 +55,7 @@ Now that we have the debugger prepped, we need to add a `breakpoint`. Breakpoint
 
 We add them in RubyMine by clicking on a line number that we want to stop on. In our current file, lines 6 and 9 are potentially interesting to us. On both lines, click to the left of the line number. When you've finished, you should see 2 red circles near the code. (In case your line numbers don't match ours, compare your breakpoints with the image below.)
 
-![RubyMine pane, lines four and seven have bright red circles in front, indicating that have breakpoints set](images/breakpoints-rubymine.png "In the editor, lines 6 and 9 have bright red circles in front, indicating that have breakpoints set")
+![In the editor, lines 6 and 9 have bright red circles in front, indicating that have breakpoints set](images/breakpoints-rubymine.png "In the editor, lines 6 and 9 have bright red circles in front, indicating that have breakpoints set")
 
 ### Running the Debugger
 
