@@ -64,6 +64,17 @@ Standards:
         UID: dbaee99a4efbf63e8044ea299054ed66
         Path: /01-roundtable-guides/01-roundtables.md
   -
+    Title: Git
+    Description: Guides for our favorite version control software!
+    UID: a1d4175a-8a14-41c7-95b3-a4e125b401f9
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 27b8aabe-05c1-4839-bbd5-8b182ba98454
+        Path: /03-git/01-intro-to-git.md  
+  -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
     UID: 13db1562f6ff30eb9b59c1a5499affbd
