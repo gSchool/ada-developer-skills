@@ -88,7 +88,7 @@ Next, the bottom portion of our window has been filled with useful information a
 
 To the left of the "Variables" pane is the Call Stack. The call stack shows every method our program had to call in order to get here. (This is especially useful if you have a function that is called in more than one place.) 
 
-Just above all of that, we see some virtual buttons we haven't seen before:
+Just above all of that, we see some buttons on the screen that we haven't seen before:
 
 ![RubyMine Debugger top buttons'](images/debug-top-buttons.png "A new tray of options. Fron left to right, the buttons mean 'Show Execution Point', 'Step Over', 'Step Into', 'Force Step Into', 'Step Out', and 'Run to Cursor'")
 
@@ -100,7 +100,7 @@ From Left to Right, here's what they do:
 - `Step Out`: "Step" out of the current function or loop. Any code that hasn't yet been run in the function will finish, and you are returned to the line where the function was called
 - `Run to Cursor`: Execute the program like normal but stop once it reaches the line the cursor is currently on
 
-Then on the very left there are a few more virtual buttons we will use: 
+Then on the very left of the screen there are a few more buttons we will use: 
 
 ![RubyMine Debugger side buttons'](images/debug-side-buttons.png)
 
