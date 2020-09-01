@@ -64,6 +64,25 @@ Standards:
         UID: dbaee99a4efbf63e8044ea299054ed66
         Path: /01-roundtable-guides/01-roundtables.md
   -
+    Title: Testing
+    Description: Introduction to Test Driven Development
+    UID: b95acdc3-901f-4cd8-b25f-91e32909775a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: cbee8749-3051-4e31-b9d7-2875c399f2c5
+        Path: /02-testing/01-wk03-intro-to-testing.md  
+        -
+          Type: Lesson
+          UID: 8f2b5e0f-9426-40f3-a84c-baab848b41c9
+          Path: /02-testing/02-wk03-testing-with-minitest.md       
+      -
+        Type: Lesson
+        UID: bb1307ba-21b0-4b9f-acec-84c3bfb436fd
+        Path: /02-testing/03-wk03-testing-exercise.md
+  -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
     UID: 13db1562f6ff30eb9b59c1a5499affbd
