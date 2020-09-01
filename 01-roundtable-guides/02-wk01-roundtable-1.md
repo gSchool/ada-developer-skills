@@ -1,4 +1,4 @@
-# Random Menu and Study Skills Activity Roundtable
+# Wed 9/2: Random Menu and Study Skills
 
 Today's Roundtable will focus on reviewing [Random Menu](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/00-variables-data-types/03-wk01-exercise-intro-random-menu.md) and the [Study Techniques Activity](https://learn-2.galvanize.com/cohorts/2036/blocks/882/content_files/00-welcome-to-ada/09-wk01-activity-study-techniques.md).
 
