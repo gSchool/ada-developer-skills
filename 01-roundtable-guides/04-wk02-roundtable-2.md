@@ -1,1 +1,3 @@
 # Thurs 9/10: Enumerables
+
+In today's round table we will complete an activity to...
