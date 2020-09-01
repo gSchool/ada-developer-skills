@@ -1,5 +1,7 @@
 # Debugging with RubyMine
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=ca0d5fcd-b535-4be0-8d8c-ac290186584e&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Learning Goals
 - Know how to set up break points and use the step functions
 - Understand how to use these tools to better understand what our program is doing and why it is doing it
