@@ -67,6 +67,14 @@ Standards:
         Type: Lesson
         UID: c4b53e77-a8c5-4fd5-bd43-a827a01c51c0
         Path: /01-roundtable-guides/02-wk01-roundtable-1.md
+      -
+        Type: Lesson
+        UID: ddede568-91aa-4351-bbd2-1c1df2868998
+        Path: /01-roundtable-guides/03-wk02-roundtable-1.md       
+      -
+        Type: Lesson
+        UID: e8651a38-c1f1-4db1-ba39-3322e32f600c
+        Path: /01-roundtable-guides/04-wk02-roundtable-2.md  
   -
     Title: Git
     Description: Guides for our favorite version control software!
