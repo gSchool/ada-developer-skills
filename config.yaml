@@ -63,6 +63,10 @@ Standards:
         Type: Lesson
         UID: dbaee99a4efbf63e8044ea299054ed66
         Path: /01-roundtable-guides/01-roundtables.md
+      -
+        Type: Lesson
+        UID: c4b53e77-a8c5-4fd5-bd43-a827a01c51c0
+        Path: /01-roundtable-guides/02-wk01-roundtable-1.md
   -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
