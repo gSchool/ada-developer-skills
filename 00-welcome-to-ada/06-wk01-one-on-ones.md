@@ -2,7 +2,7 @@
 
 One of the systems of support at Ada is bi-weekly one-on-one meetings with a member of the Education Team. One-on-ones are an opportunity for an instructor and student to privately discuss how the classroom environment is going, and progress towards completion of the curriculum.
 
-One-on-one meetings are a private, non-judgemental space. It is an opportunity to dicuss anything from technical, to classroom, to career questions. It is also just an opportunity to get to know eachother better.
+One-on-one meetings are a private, non-judgemental space. It is an opportunity to discuss anything from technical, to classroom, to career questions. It is also just an opportunity to get to know eachother better.
 
 ## Logistics
 
