@@ -74,10 +74,10 @@ Standards:
         Type: Lesson
         UID: cbee8749-3051-4e31-b9d7-2875c399f2c5
         Path: /02-testing/01-wk03-intro-to-testing.md  
-        -
-          Type: Lesson
-          UID: 8f2b5e0f-9426-40f3-a84c-baab848b41c9
-          Path: /02-testing/02-wk03-testing-with-minitest.md       
+      -
+        Type: Lesson
+        UID: 8f2b5e0f-9426-40f3-a84c-baab848b41c9
+        Path: /02-testing/02-wk03-testing-with-minitest.md       
       -
         Type: Lesson
         UID: bb1307ba-21b0-4b9f-acec-84c3bfb436fd
