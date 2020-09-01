@@ -1,26 +1,19 @@
-# Debugging in VS Code
+# Debugging with RubyMine
+
 ## Learning Goals
 - Know how to set up break points and use the step functions
-- Understand what debugging is, why to do it, and how to do it
+- Understand how to use these tools to better understand what our program is doing and why it is doing it
 
-## Prerequisite
-This lessons is written assuming all students have done the prework documented in [Setting Up the VSCode Debugger](setting-up-vs-code-debugger.md)
+## Intro
+As we discussed in the `Intro to Debugging` lesson, we first and foremost want to approach our code with a place or curiosity, _especially_ when our program isn't doing what we want it to. We've discussed how to investigate and understand what our code is doing using stacktraces, `puts` statements, and rubber ducking. 
 
-## Setting Up
-The relationship between VS Code and Ruby is still in its infancy, so many of the tools that we regularly use in other languages (such as C++, Javascript or Ook) aren't immediately accessible. Our process will be:
+In this lesson we'll discover another tool that we can use to help us understand our program, aptly named a _debugger_. Most modern IDEs (such as RubyMine) include debuggers. It is arguably the most useful thing an IDE does for us as developers. 
 
-1. Set up the file we want to debug
-1. Make sure we have the proper gems on our machine
-1. Configure our `launch.json` in our `.vscode` folder
-1. Set our breakpoint
-1. Debug our code
+## Practice
 
-Copy and paste the following code into a new filed named `my_efficient_and_clever_program.rb`:
+In RubyMine, copy and paste the following code into a new filed named `my_efficient_and_clever_program.rb`:
 
 ```ruby
-# my_efficient_and_clever_program.rb
-
-# definitely always sums the two numbers you give it.
 def cool_sum_func(a, b)
   puts "a = #{a}"
   puts "b = #{b}"
@@ -44,9 +37,10 @@ def subtract_them(a, b)
   return a - b
 end
 
-
-left_num = 5
-right_num = 3
+puts "Enter a number: "
+left_num = gets.chomp
+puts "Enter another number:"
+right_num = gets.chomp
 
 sum = cool_sum_func(left_num, right_num)
 
@@ -55,59 +49,85 @@ puts sum
 
 This is some very dopey code, but it will show us a lot about how the debugger gives us information.
 
-## Setting A Breakpoint 
+### Setting A Breakpoint 
 
 Now that we have the debugger prepped, we need to add a `breakpoint`. Breakpoints are like stop-signs alongside your code; they aren't written into the text of the code itself, but they tell the program to halt before continuing to the next command.
 
-We add them in VS Code by clicking on a line number that we want to stop on. In our current file, lines 4 and 7 are potentially interesting to us. Click to the left of the line number, or get the cursor to the line and use `f9` to add the breakpoint. When you've finished, you should see 2 red circles near the code, and the text next to the green play button should read "Debug Local File", see below:
+We add them in RubyMine by clicking on a line number that we want to stop on. In our current file, lines 6 and 9 are potentially interesting to us. On both lines, click to the left of the line number. When you've finished, you should see 2 red circles near the code. (In case your line numbers don't match ours, compare your breakpoints with the image below.)
 
-![In the editor, lines four and seven have bright red circles in front, indicating that have breakpoints set](images/breakpoints_vs_code.png "In the editor, lines 4 and seven have bright red circles in front, indicating that have breakpoints set")
+![In the editor, lines 6 and 9 have bright red circles in front, indicating that have breakpoints set](images/breakpoints-rubymine.png "In the editor, lines 6 and 9 have bright red circles in front, indicating that have breakpoints set")
 
-## Running the Debugger
+### Running the Debugger
 
-With all that done, it's time to see this tool in action. Click the green play button, or use `f5` to start the debugger. Your screen may look something like this:
+With all that done, it's time to see this tool in action. Right-click (or if using your MacBook's trackpad, two-finger click) the filename at the top of the editor and click the option with the green arrow that says "Debug 'my_efficient_and_clever_program.rb'". 
 
-![VS Code pane, the debugger has started. The line that has the breakpoint is highlighted in yellow, and the command tray at the top contains the buttons that allows users to manually step, continue or stop.](images/debugger_pause_1.png "VS Code pane, the debugger has started. The line that has the breakpoint is highlighted in yellow, and the command tray at the top contains the buttons that allows users to manually step, continue or stop.")
+![RubyMine pane, Debug option is highlighted](images/first-time-debugging-file-rubymine.png)
 
-There are a few things to highlight here. Firstly, the code has paused on the highlighted line (line 4). The breakpoint has stopped the code here before it finished executing.
+### !callout-info
+After starting the debugger, the program should execute until it needs user input. The `Console` pane should popup at the bottom of the screen to allow you to enter two numbers. However, there may be a setting enabled that makes it impossible to enter a number properly. 
 
-Next, the left hand side of our window has been filled with various useful information. The top pane stores all sorts of useful information about variables that are accessible in the current scope. 
+If you enter a number and the program prompts you for another number, the setting is already adjusted like we want it and you can ignore this little callout.
 
-The watch window is useful, but for now we will ignore it.
+If that setting needs to be changed, you should see something that looks like `0>` below the text `Enter a number`. (It may be green.)
 
-Below the watch window is the Call Stack. The call stack shows every method we had to call in order to get here (especially useful if you have a function that is called in more than one place). 
+There is just a little button that needs to be clicked. The button looks like this:
 
-Finally the lower left of the pane shows us a list of all the breakpoints we have set. If we want to skip one of them, we can click its checkbox in order to ignore it for the time being.
+![Show Console Prompt Button](images/setting-to-adjust.png)
 
-In the top right of our screen, we see a new drop-down tray:
+Once you click it, it should no longer look highlighted and the `0>` should go away. The video goes into a little more detail about this, if you're struggling. Or feel free to get help from a peer, volunteer, or staff member.
 
-![A new tray of options. From left to right, the buttons mean 'Move This Panel', 'Continue', 'Step Over', 'Step Into Function', 'Step Out', 'Restart Program' and 'Stop Program'](images/debug_tray.png "A new tray of options. Fron left to right, the buttons mean 'Move This Panel', 'Continue', 'Step Over', 'Step Into Function', 'Step Out', 'Restart Program' and 'Stop Program'")
+### !end-callout
 
-From Left to Right, here's what they do, and a hotkey to do them without clicking:
+After entering the two numbers requested by the program, RubyMine should look something like this when it hits the first breakpoint. (This should take almost no time. If your screen doesn't look like this, something has gone wrong. You may want to seek support from a classmate, volunteer or staff member.)
 
-- Move this UI element by clicking-and-dragging (No Keyboard Shortcut)
-- Continue the program until the next breakpoint, AKA `Continue`. `f5` 
-- "Step" to the next line of code on the same 'level', AKA `Step Over`. `f10`
-- "Step" into a method called on the current line or a loop initiated on the current line. If there are multiple possible functions, it will step into the one that is evaluated first. AKA `Step Into`. `f11`
-- "Step" out of the current function or loop. Any code that hasn't yet been run in the function will finish, and you are returned to the line where the function was called. AKA `Step Out` `⇧f11`
-- Restart the debugging from the beginning, AKA `Restart`. (No Keyboard Shortcut)
-- Stop the current program without finishing. `⇧f5`
+![RubyMine pane, the debugger has started. The line that has the breakpoint is highlighted in blue.](images/debugger-pause-1.png "RubyMine, the debugger has started. The line that has the breakpoint is highlighted in blue.")
 
-_NOTE:_ you may have issues with these default settings, as the people at Microsoft writing VS Code are doing so on -surprise, surprise- Windows machines! If you need to change these hotkeys, use `⌘K ⌘S` to open up your hotkey settings.
+There are a few things to highlight here. Firstly, the code has paused on the highlighted line (line 6). The breakpoint has stopped the code here before it finished executing.
+
+Next, the bottom portion of our window has been filled with useful information about variables that are accessible in the current scope. (In this case, `a` and `b`.)
+
+To the left of the "Variables" pane is the Call Stack. The call stack shows every method our program had to call in order to get here. (This is especially useful if you have a function that is called in more than one place.) 
+
+Just above all of that, we see some buttons on the screen that we haven't seen before:
+
+![RubyMine Debugger top buttons'](images/debug-top-buttons.png "A new tray of options. Fron left to right, the buttons mean 'Show Execution Point', 'Step Over', 'Step Into', 'Force Step Into', 'Step Out', and 'Run to Cursor'")
+
+From Left to Right, here's what they do:
+
+- `Show Execution Point`: Show the line the debugger is currently stopped on 
+- `Step Over`: "Step" to the next line of code on the same "level" 
+- `Step Into`: "Step" into a method called on the current line or a loop initiated on the current line. If there are multiple possible functions, it will step into the one that is evaluated first 
+- `Step Out`: "Step" out of the current function or loop. Any code that hasn't yet been run in the function will finish, and you are returned to the line where the function was called
+- `Run to Cursor`: Execute the program like normal but stop once it reaches the line the cursor is currently on
+
+Then on the very left of the screen there are a few more buttons we will use: 
+
+![RubyMine Debugger side buttons'](images/debug-side-buttons.png)
+
+From Top to Bottom, here's what they do:
+
+- `Rerun`: Restart the program from the beginning 
+- `Resume Program`: Continue execution until the program reaches the next breakpoint or the program finishes
+- `Stop`: Stop execution of the program
+- `View Breakpoints`: Open a window to display all the breakpoints currently set 
+- `Mute Breakpoints`: Temporarily disable all breakpoints without completely removing them
+
+
+_NOTE:_ You can always view and/or change the hotkeys for any of these commands by navigating to `Preferences` -> `Keymap` and searching the name of the command you want to view or change.
 
 Let's run through these tools to help us debug our current program.
 
-## Using the Debugger
+### Using the Debugger
 
 As above, we should see a screen that looks something like this:
 
-![In the editor, line 4 is highlighted yellow, as a breakpoint has been hit there.](images/debugger_pause_1.png "In the editor, line 4 is highlighted yellow, as a breakpoint has been hit there.")
+![RubyMine pane, the debugger has started. The line that has the breakpoint is highlighted in blue.](images/debugger-pause-1.png "RubyMine, the debugger has started. The line that has the breakpoint is highlighted in blue.")
 
-As we can see, the fourth line is highlighted. This is the "active line" of code that we are _about to run_. If we want to run it, we can either perform some sort of `Step`, or we can `Continue` to the next breakpoint (or the end of the program, whichever comes first). While we are here, we can hover our cursor over any variables in the line to see their current value. This information is also available in the Variables pane on the left. For now, let's `Continue` to the next breakpoint.
+As we can see, the 6th line is highlighted. This is the "active line" of code that we are _about to run_. If we want to run it, we can either perform some sort of `Step`, or we can `Resume` execution until the next breakpoint (or the end of the program, whichever comes first). For now, let's `Resume`execution.
 
-![The debugger has jumped ahead to the next breakpoint on line 7](images/debugger_pause_2.png "The debugger has jumped ahead to the next breakpoint on line 7")
+![The debugger has jumped ahead to the next breakpoint on line 9](images/debugger-pause-2.png "The debugger has jumped ahead to the next breakpoint on line 9")
 
-As you can see, we skipped ahead to the next line that had a breakpoint. if we check the value of `b` here, we can see that it is still 3. Let's try `Stepping Over`, using the third button from the left or by using `f10`.
+As you can see, we skipped ahead to the next line that had a breakpoint. if we check the value of `b` here, we can see that it is still 3. Let's try `Stepping Over`.
 
 <details>
     <summary>
@@ -118,30 +138,25 @@ As you can see, we skipped ahead to the next line that had a breakpoint. if we c
 
 Okay, so we have stepped forward, and we've seen a change right before our eyes. Let's see what happens when we `Step Into` another method.
 
-![Now, line 17 is highlighted, inside the method subtract_them](images/debugger_pause_3.png "Now, line 17 is highlighted, inside the method subtract_them")
+![Now, line 21 is highlighted, inside the method subtract_them](images/debugger-pause-3.png "Now, line 21 is highlighted, inside the method subtract_them")
 
 `Step Into` is great when we call a lot of functions in our code. As long as you have the source file for the function being called, you should be able to look at the code that is being executed. **NOTE:** If more than one function is being called on the same line, debuggers `Step Into` functions in the order that they are called, from inner-most to outer-most. Usually, this means that if you are interested in the outer most nested function, you will either need to step in and out of the line several times, or set a breakpoint inside the function that you actually care about.
 
-At this point, we would use the information we gathered during our debugging to fix the code, or, if the problem didn't arise, we might try again with new parameters.
+At this point, we would use the information we gathered during our debugging to articulate to ourselves what our program is doing and why. After ensuring our understanding, we can fix the code, if we identified a bug.
 
 ## Why do I care about this?
-Great! So now we understand how to start experimenting with the VS Code debugger. Why do we even want to do that? 
+Great! So now we understand how to start experimenting with the RubyMine debugger. Why do we even want to do that? 
 
-Using a debugger is the go-to tool for most Software Engineers when they want to identify a bug or when they simply want to clarify their understanding of how the program runs. Any time you find yourself wondering why a program isn't doing what you expect, make use of the VS Code debugger to help you answer that question as you step through the code line-by-line.
+Using a debugger is the go-to tool for most Software Engineers when they want to identify a bug or when they simply want to clarify their understanding of how the program runs. Any time you find yourself wondering why a program isn't doing what you expect, make use of the RubyMine debugger to help you answer that question as you step through the code line-by-line.
 
 ## Wrapping Up
 
-Hopefully at this point you feel comfortable enough with VS Code's debugger that you could set it up on your own machine and make use of it the next time you run into issues. 
+Hopefully at this point you feel comfortable enough with RubyMine's debugger that you could set it up in your current project and make use of it the next time you run into issues. 
 
 We encourage you to take some time experimenting with it and getting comfortable with how each debugger button works before you ever even run into a bug.
 
-Remember:
+With such a powerful tool, it can be tempting to neglect the tools we learned in the `Intro to Debugging` lesson: using paper to document the difference between expected behavior and actual behavior, rubber ducking with a peer or an actual rubber duck, reading stacktraces, etc. 
 
-1. Set Up Your Code
-1. Configure the Debugger
-1. Set Breakpoints
-1. Step Through Your Code 
+However, there will be times (probably very soon) where you will face a bug and the debugger will not be enough on it's own to help you understand what's going on. Please don't forget the other tools you have! 
 
-A more complete debugging json:
-
-[Grab me for debugging spec files](source/sample_launch.json)
+The one exception to this is using `puts` statements. As you get more comfortable with the RubyMine debugger, you will likely find that using `puts` statements feels less and less useful, until you eventually stop using `puts` statements altogether.
