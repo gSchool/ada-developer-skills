@@ -29,6 +29,9 @@ Git is a "distributed version control" system (VCS):
 
 Two primary reasons:
 
+1. Coordination of development
+1. Organizing changes into concrete pieces
+
 #### 1. Coordination of development
 
 _Version Control_ is used in software development because we have multiple people working together to build a single project, and we need to coordinate that process of working together to ensure it is reliable and efficient. While most of our work until now has been individual, it's important to recognize that the "multiple people" in the above statement may also refer to you and yourself *in the future*.
@@ -270,4 +273,3 @@ Commits, ideally, should be _atomic_. That is, any single commit should include 
 
 - [More in-depth article on Git](https://codeburst.io/git-good-part-a-e0d826286a2a)
 - [Google Slide Introduction to Git](https://docs.google.com/presentation/d/1FpawRcfQGPgKZpy-rw5wzjxDIHfJ2m_vBBldzRe2Fck/edit?usp=sharing)
-
