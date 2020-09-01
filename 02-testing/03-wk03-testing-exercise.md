@@ -7,9 +7,26 @@ In this project you need to:
 1.  Fork [the project repository](https://github.com/Ada-C14/tdd-exercise)
 1.  Clone your instance of the project
 1.  Answer the questions below, peeking at the hints if you need help.
-1.  Create a `blackjack_score` method which calculates the score of a hand in a BlackJack game (a full description of scoring is in the project README).
+1.  Create a `blackjack_score` method which calculates the score of a hand in a BlackJack game, and accompanying tests to verify it works (a full description of scoring is in the project README).
 1.  Push your solution up to github.
 1.  Paste your project repository link in the project submission page below.
+
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Testing if an Error is raised
+
+You can verify if a method raise an ArgumentError with:
+
+```ruby
+  expect {
+    some_method(invalid_argument)
+  }.must_raise ArgumentError
+```
+
+Notice the `{}` instead of regular parentheses.
+
+### !end-callout
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -176,7 +193,7 @@ end
 
 ##### !question
 
-Create the `blackjack_score` method in a TDD fashion by creating the tests you listed above and writing the method to pass those tests.  When you are finished submit a link to your repository here.
+Create the `blackjack_score` method in a TDD fashion by filling in the tests from the it blocks in the test folder, and writing the method to pass those tests.  When you are finished submit a link to your repository here.
 
 ##### !end-question
 
