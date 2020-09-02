@@ -92,6 +92,25 @@ cars {
 
 ### Data Transformation Worksheet
 
+* How can `map` make this exercise easier?
+* Given the following array of hashes, how could you get an array of the names of the students using `each`?
+    ```ruby
+    students = [ {
+      name: "Ada Lovelace",
+      age: 216,
+      grade: 12,
+      },
+      { 
+      name: "Grace Hopper",
+      age: 114,
+      grade: 11,
+      },
+      # ...
+      ]
+    ```
+*  Now solve the same problem with `map`, does it make the problem easier?  How so
+
+
 ### Ride Share
 
 *  How did you organize the Ride Share data?  
@@ -102,6 +121,18 @@ cars {
 
 ### Enumerables Jigsaw
 
+* Each student should take one of the following methods and write:
+  1.  An explanation of the method and it's purpose
+  1.  An example using that method
+
+* `map` 
+* `include?`
+* `all?`
+* `all?`
+* `reject`
+* `reduce`
+* `select`
+* `sort_by`
 
 ### Intro to Git
 
