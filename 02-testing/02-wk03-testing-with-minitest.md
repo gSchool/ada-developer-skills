@@ -168,7 +168,7 @@ Finished in 0.00333s
 1 tests, 0 assertions, 0 failures, 1 errors, 0 skips
 ```
 
-**This is a good thing.**  We have our first **red** test.  There's an error because we haven't created the Clock method yet.
+**This is a good thing.**  We have our first **red** test.  There's an error because we haven't created the `clock` method yet.
 
 ####  Step 4:  Write Code To Make It Pass
 
