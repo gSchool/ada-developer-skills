@@ -94,6 +94,12 @@ cars {
 
 ### Ride Share
 
+*  How did you organize the Ride Share data?  
+*  Did someone else organize the data differently?  
+    * What advantages/disadvantages did it have?
+*  How can you iterate through the structure to calculate the required answers?
+*  What parts of the project did you find difficult?
+
 ### Enumerables Jigsaw
 
 
