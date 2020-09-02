@@ -29,6 +29,7 @@
 
 * Given your organization how could you search through the data structure and find the great wonder with the most visits?
 
+```ruby
 cars {
   ford: [
     {
@@ -60,6 +61,7 @@ cars {
     }
   ]
 }
+```
 
 * Intro Questions (5-10 min)
   1. What are the layers in this data structure? For each layer, what do they represent, and what are their data types?
