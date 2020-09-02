@@ -310,11 +310,11 @@ end
 
 ## Arrange-Act-Assert
 
-Notice our example followed a pattern from our earlier [introduction to automated tests](../00-programming-fundamentals/intro-to-automated-tests.md).  First we set values for hours, minutes and seconds, or **arranged** the situation.  Then by calling the `clock` method we **acted**, or performed the action we wanted to test.  Lastly we used the expectation to **assert** that the result of our action was correct.    This is a good example of the _Arrange-Act-Assert_ pattern discussed earlier.  Yes you can combine steps here and there's nothing wrong with that, but for clarity we are breaking the Arrange-Act-Assert pattern into discrete steps in our test.
+Notice our example followed a pattern from our earlier [introduction to automated tests](01-wk03-intro-to-testing.md).  First we set values for hours, minutes and seconds, or **arranged** the situation.  Then by calling the `clock` method we **acted**, or performed the action we wanted to test.  Lastly we used the expectation to **assert** that the result of our action was correct.    This is a good example of the _Arrange-Act-Assert_ pattern discussed earlier.  Yes you can combine steps here and there's nothing wrong with that, but for clarity we are breaking the Arrange-Act-Assert pattern into discrete steps in our test.
 
 #### Edge Cases
 
-You may remember from the [Introduction to Automated Testing](../00-programming-fundamentals/intro-to-automated-tests.md) that it is important to test the boundaries of possible input values.  In this example we should test if:
+You may remember from the [Introduction to Automated Testing](01-wk03-intro-to-testing.md) that it is important to test the boundaries of possible input values.  In this example we should test if:
 
 1. The hour is equal to or greater than 24, should raise an error
 1. The minutes are greater than or equal to 60, should raise an error
@@ -385,7 +385,7 @@ Notice that you **can** use multiple expectations per test.
 
 #### Make it pass
 
-**Exercise** Now with your neighbors write code to make the test pass.  Remember to run `ruby clock_test.rb` to verify that your `clock` method passes.  If you get stuck you can refer to [my sample solution](https://github.com/AdaGold/clock/commit/56259f91df17a3f6e18872fd661db8eddfc93786).
+
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
@@ -394,29 +394,49 @@ Notice that you **can** use multiple expectations per test.
 
 * type: custom-snippet
 * language: ruby
-* id: b367eaeb-c21f-4c53-9be8-68539b3b4279
+* id: 6b57b4d7-ab5a-4da0-8fb4-f44f45409d31
 * title: Other things to look for
 * points: 1
 * topics: tdd, minitest
+* docker_directory_path: custom-snippets/minitest_clock_2
+
 
 ##### !question
 
-[markdown, your question]
+**Exercise** Now with your neighbors write code to make the test pass.  Remember to run `ruby clock_test.rb` to verify that your `clock` method passes.  If you get stuck you can review the hint.
 
 ##### !end-question
 
 ##### !placeholder
 
-[the code below is the starting code in the web editor]
-```
-function doSomething() {
-}
+```ruby
+def clock(hours, minutes, seconds)
+
+end
 ```
 
 ##### !end-placeholder
 
 <!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
+##### !hint
+
+```ruby
+def clock(hours, minutes, seconds)
+  time_fields = [hours, minutes, seconds]
+
+  answer = time_fields.map do |field|
+    if field < 10
+      "0#{field}"
+    else
+      "#{field}"
+    end
+  end
+
+  return "#{answer[0]}:#{answer[1]}:#{answer[2]}"
+end
+```
+
+##### !end-hint
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
