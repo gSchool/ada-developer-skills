@@ -172,7 +172,7 @@ Finished in 0.00333s
 
 ####  Step 4:  Write Code To Make It Pass
 
-Lets make the test pass by creating the clock method which returns a string.
+Let's make the test pass by creating the `clock` method which returns a string.
 
 ```ruby
 # clock.rb
