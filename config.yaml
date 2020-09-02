@@ -86,6 +86,10 @@ Standards:
         Type: Lesson
         UID: 27b8aabe-05c1-4839-bbd5-8b182ba98454
         Path: /03-git/01-intro-to-git.md  
+      -
+        Type: Lesson
+        UID: 0de0c84b-4480-440a-954e-566d776a321a
+        Path: /03-git/03-gitignore.md
   -
     Title: Testing
     Description: Introduction to Test Driven Development
@@ -104,7 +108,7 @@ Standards:
       -
         Type: Lesson
         UID: bb1307ba-21b0-4b9f-acec-84c3bfb436fd
-        Path: /02-testing/03-wk03-testing-exercise.md
+        Path: /02-testing/03-wk03-testing-exercise.md     
   -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
