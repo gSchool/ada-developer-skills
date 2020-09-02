@@ -121,18 +121,37 @@ cars {
 
 ### Enumerables Jigsaw
 
-* Each student should take one of the following methods and write:
-  1.  An explanation of the method and it's purpose
-  1.  An example using that method
+You will want to start with the official Ruby docs for Enumerable. You will want to answer the questions:
 
-* `map` 
-* `include?`
-* `all?`
-* `all?`
-* `reject`
-* `reduce`
-* `select`
-* `sort_by`
+- What does this method do on a high level?
+- What does it return?
+- What does the code block do?
+- What kind of syntax does it require?
+- What does a code example look like?
+
+#### Methods
+
+- `reduce`
+- `all?` & `any?`
+- `select` & `reject`
+- `uniq` & `sum`
+- `min`, `max`, `min_by`, & `max_by`
+- `sort_by`
+
+#### Nota Bene: <=> or Spaceship Operator
+
+In some of this documentation, you might see things that use the <=>, or spaceship operator. We don't expect you to dive into this detail at the moment. However, here is a brief summary of that operator:
+
+How do programming languages compare two objects to each other? Given a or b, which is greater? Which is lesser? When are a and b equal to each other? These are questions programmers are concerned with when comparing two objects, and comparison between two objects happens during sorting.
+
+The <=> operator gives a shortcut to evaluating the relationship between a and b in terms of either -1, 0, or 1. Consider the line of ruby code:
+
+```ruby
+a = 10
+b = 200
+a <=> b
+```
+The last line will return a -1 to signify that a is less than b.
 
 ### Intro to Git
 
