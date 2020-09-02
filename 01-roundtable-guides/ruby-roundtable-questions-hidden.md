@@ -29,6 +29,51 @@
 
 * Given your organization how could you search through the data structure and find the great wonder with the most visits?
 
+cars {
+  ford: [
+    {
+      model: "mustang",
+      colors: ["yellow", "red"],
+      price: 26000
+    },
+    {
+      model: "fiesta",
+      colors: ["blue", "green", "red"],
+      price: 14000
+    },
+    {
+      model: "explorer",
+      colors: ["white", "green", "red"],
+      price: 32000
+    }
+  ],
+  subaru: [
+    {
+      model: "forester",
+      colors: ["white", "red", "orange"],
+      price: 24000
+    },
+    {
+      model: "outback",
+      colors: ["white", "blue", "green"],
+      price: 26000
+    }
+  ]
+}
+
+* Intro Questions (5-10 min)
+  1. What are the layers in this data structure? For each layer, what do they represent, and what are their data types?
+  2. What code can I write to directly access the price of a car that is a Ford Fiesta?
+* Take 5 minutes to review above as a class
+*  Coding Questions (30 min)
+    1. Add a model (ie. explorer, forester) to the structure
+    2. Add a make (ie. ford, subaru) to the structure
+    3. Write code to find the average price of ford models
+    4. Write code to list all colors of subaru models
+    5. Write code to find the average price of all cars
+*  Note: You may want to check in after some time and do #3 as a class before giving the class more time on 4 and 5. 
+
+
 ### Loop Tables & Iteration
 
 * Create a loop table for the following code segment:
