@@ -88,6 +88,10 @@ Standards:
         Path: /03-git/01-intro-to-git.md  
       -
         Type: Lesson
+        UID: 092a073d-19c5-4011-a5b7-d444eb6d3e2d
+        Path: /03-git/03-gitignore.md        
+      -
+        Type: Lesson
         UID: 0de0c84b-4480-440a-954e-566d776a321a
         Path: /03-git/03-gitignore.md
   -
