@@ -60,6 +60,9 @@ Standards:
         Type: Lesson
         UID: e24f32de-c053-4b5f-a92c-375d6737668a
         Path: /00-welcome-to-ada/12-wk01-debugging-with-rubymine.md
+      - Type: Lesson
+        UID: 9350205e-8487-4a24-89bd-e37ec1bee012
+        Path: /00-welcome-to-ada/13-wk01-project-reviews-hidden.md
   -
     Title: Roundtable Guides
     Description: Guides to individual roundtables
