@@ -16,6 +16,7 @@ Let's get started with
 * What questions do you have?
 
 Guiding Questions and Concepts to Review:
+* What questions do you have abou the Ride Share Project?
 * You have a set of data outlining the 7 wonders of the world.  How would you organize this in a Ruby program.
   
   | Place                      | Location                           | Description                                                                                                                                                                                     | Visits  |
@@ -38,3 +39,51 @@ Guiding Questions and Concepts to Review:
        puts "Numbers is now #{numbers}"
      end
      ``
+* For extra practice with nested data structures, refer to the hash `cars` and the subsequent questions.
+
+```
+cars = {
+  ford: [
+    {
+      model: "mustang",
+      colors: ["yellow", "red"],
+      price: 26000
+    },
+    {
+      model: "fiesta",
+      colors: ["blue", "green", "red"],
+      price: 14000
+    },
+    {
+      model: "explorer",
+      colors: ["white", "green", "red"],
+      price: 32000
+    }
+  ],
+  subaru: [
+    {
+      model: "forester",
+      colors: ["white", "red", "orange"],
+      price: 24000
+    },
+    {
+      model: "outback",
+      colors: ["white", "blue", "green"],
+      price: 26000
+    }
+  ]
+}
+```
+
+### Intro Questions (5-10 min)
+1. What are the layers in this data structure? For each layer, what do they represent, and what are their data types?
+1. What code can I write to directly access the price of a car that is a Ford Fiesta?
+
+1. Review as a class, with a classmate, with a rubber duck, etc.
+
+### Coding Questions (30 min)
+1. Add a model (ie. explorer, forester) to the structure
+1. Add a make (ie. ford, subaru) to the structure
+1. Write code to find the average price of ford models
+1. Write code to list all colors of subaru models
+1. Write code to find the average price of all cars
