@@ -1,5 +1,7 @@
 # Testing With Minitest
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=ae562b89-a32c-4d27-8a7b-ac2b00573a2d&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 Minitest is the default testing framework for Ruby.  We will learn and explore writing tests by writing a method which will take in hours, minutes, seconds and returns a string formatted human readable time.  In doing so we will both learn the syntax of Minitest and practice writing code in a TDD fashion.
 
 ## Learning Goals
