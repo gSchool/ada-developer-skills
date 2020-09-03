@@ -1,6 +1,6 @@
 # Wed 9/9: Nesting Arrays & Hashes, Loop Tables, Ride Share 
 
-Today's Roundtable will focus on reviewing [Nesting Arrays & Hashes](XXX), [Loop Tables and Iteration](XXX), and the [Ride Share Project](XXX).
+Today's Roundtable will focus on reviewing [Nesting Arrays & Hashes](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/00-variables-data-types/05-wk02-nested-arrays-hashes.md), [Loop Tables and Iteration](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/01-control-structures/05-wk02-loop-tables-worksheet.md), and the [Ride Share Project](XXX).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
