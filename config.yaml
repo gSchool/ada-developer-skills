@@ -29,29 +29,37 @@ Standards:
         Path: /00-welcome-to-ada/05-wk01-google-calendar.md
       -
         Type: Lesson
+        UID: 0a01b55a-9fc3-4e44-983f-0fe1932e68cb
+        Path: /00-welcome-to-ada/06-wk01-attendance.md
+      -
+        Type: Lesson
+        UID: 7485be11-9447-4d64-b197-1fd7ded86b89
+        Path: /00-welcome-to-ada/07-wk01-project-feedback.md
+      -
+        Type: Lesson
         DefaultVisibility: hidden
         UID: cd5a1f28cba4e4650979d2c009f65691
-        Path: /00-welcome-to-ada/06-wk01-one-on-ones-hidden.md
+        Path: /00-welcome-to-ada/08-wk01-one-on-ones-hidden.md
       -
         Type: Lesson
         UID: c687f860e47f121d097b6bf849d614c4
-        Path: /00-welcome-to-ada/06-wk01-one-on-ones.md
+        Path: /00-welcome-to-ada/08-wk01-one-on-ones.md
       -
         Type: Lesson
         UID: eb0e68da-4a5b-4743-a215-a97b70c20739
-        Path: /00-welcome-to-ada/07-wk01-study-like-a-programmer.md
+        Path: /00-welcome-to-ada/09-wk01-study-like-a-programmer.md
       -
         Type: Lesson
         UID: 9a51eac7-e0c7-46ee-8a43-2eb27fca0263
-        Path: /00-welcome-to-ada/08-wk01-intro-to-debugging.md
+        Path: /00-welcome-to-ada/10-wk01-intro-to-debugging.md
       -
         Type: Lesson
         UID: 596e01dc-936c-4443-820c-d4ebb5ef24a2
-        Path: /00-welcome-to-ada/09-wk01-activity-study-techniques.md
+        Path: /00-welcome-to-ada/11-wk01-activity-study-techniques.md
       -
         Type: Lesson
         UID: e24f32de-c053-4b5f-a92c-375d6737668a
-        Path: /00-welcome-to-ada/10-wk01-debugging-with-rubymine.md
+        Path: /00-welcome-to-ada/12-wk01-debugging-with-rubymine.md
   -
     Title: Roundtable Guides
     Description: Guides to individual roundtables
