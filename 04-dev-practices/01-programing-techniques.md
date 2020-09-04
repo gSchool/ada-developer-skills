@@ -47,7 +47,7 @@ Watches for typos, logical errors
 #### Team
 
 - Increases knowledge sharing
-- Mitigates the "Lottery Factor" AKA the “bus factor”
+- Mitigates the <abbr title="How many of your team would have to win the lottery for you to be unable to function?">"Lottery Factor"</abbr> AKA the <abbr title="Like the 'Lottery Factor' but instead they get hit by a bus">"Bus Factor"</abbr>
 
 ## Steps for Successful Pairing
 
