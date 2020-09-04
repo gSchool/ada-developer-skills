@@ -61,6 +61,19 @@ Watches for typos, logical errors
 
 Note: Borrowed from [Wiki How](http://www.wikihow.com/Pair-Program)
 
+### Pairing Remotely
+
+Sometimes it won't be possible to pair in person.  You may be far away from each other, have transportation issues or there might be a global pandemic.
+
+You can still accomplish pair programming remotely by following the principles above.  
+
+There are many software solutions you can use to make remote pairing go smoothly but even something as simple as screen sharing during a video call can do the trick.
+
+You can also use some tools specifically made for remote pairing.  One of them is [Floobits](https://floobits.com).  Floobits supports a number of editors but the important thing for our purposes is that it supports IntelliJ, of which RubyMine is a variant.
+
+[Floobits install instructions for RubyMine](https://floobits.com/help/plugins/intellij).
+
+This will make it easier to do hand off between driving and navigating like you would if you were sitting next to each other in person.
 ## Suggested Readings
 
 ### How to Improve Pair Programming
