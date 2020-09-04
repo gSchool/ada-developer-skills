@@ -86,7 +86,7 @@ This will make it easier to do hand off between driving and navigating like you 
 #### Empathy for yourself and others
 
 > Radical self-acceptance is a skill like any other.
-> - [Lauren Mendoza, Humans’ Guide to Pair Programming](https://medium.com/@loorinm/pair-programming-b5fa56744a0f)
+— [Lauren Mendoza, Humans’ Guide to Pair Programming](https://medium.com/@loorinm/pair-programming-b5fa56744a0f)
 
 #### Asking for and Receiving Feedback
 
