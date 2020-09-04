@@ -29,29 +29,40 @@ Standards:
         Path: /00-welcome-to-ada/05-wk01-google-calendar.md
       -
         Type: Lesson
+        UID: 0a01b55a-9fc3-4e44-983f-0fe1932e68cb
+        Path: /00-welcome-to-ada/06-wk01-attendance.md
+      -
+        Type: Lesson
+        UID: 7485be11-9447-4d64-b197-1fd7ded86b89
+        Path: /00-welcome-to-ada/07-wk01-project-feedback.md
+      -
+        Type: Lesson
         DefaultVisibility: hidden
         UID: cd5a1f28cba4e4650979d2c009f65691
-        Path: /00-welcome-to-ada/06-wk01-one-on-ones-hidden.md
+        Path: /00-welcome-to-ada/08-wk01-one-on-ones-hidden.md
       -
         Type: Lesson
         UID: c687f860e47f121d097b6bf849d614c4
-        Path: /00-welcome-to-ada/06-wk01-one-on-ones.md
+        Path: /00-welcome-to-ada/08-wk01-one-on-ones.md
       -
         Type: Lesson
         UID: eb0e68da-4a5b-4743-a215-a97b70c20739
-        Path: /00-welcome-to-ada/07-wk01-study-like-a-programmer.md
+        Path: /00-welcome-to-ada/09-wk01-study-like-a-programmer.md
       -
         Type: Lesson
         UID: 9a51eac7-e0c7-46ee-8a43-2eb27fca0263
-        Path: /00-welcome-to-ada/08-wk01-intro-to-debugging.md
+        Path: /00-welcome-to-ada/10-wk01-intro-to-debugging.md
       -
         Type: Lesson
         UID: 596e01dc-936c-4443-820c-d4ebb5ef24a2
-        Path: /00-welcome-to-ada/09-wk01-activity-study-techniques.md
+        Path: /00-welcome-to-ada/11-wk01-activity-study-techniques.md
       -
         Type: Lesson
         UID: e24f32de-c053-4b5f-a92c-375d6737668a
-        Path: /00-welcome-to-ada/10-wk01-debugging-with-rubymine.md
+        Path: /00-welcome-to-ada/12-wk01-debugging-with-rubymine.md
+      - Type: Lesson
+        UID: 9350205e-8487-4a24-89bd-e37ec1bee012
+        Path: /00-welcome-to-ada/13-wk01-project-reviews-hidden.md
   -
     Title: Roundtable Guides
     Description: Guides to individual roundtables
@@ -67,6 +78,44 @@ Standards:
         Type: Lesson
         UID: c4b53e77-a8c5-4fd5-bd43-a827a01c51c0
         Path: /01-roundtable-guides/02-wk01-roundtable-1.md
+      -
+        Type: Lesson
+        UID: ddede568-91aa-4351-bbd2-1c1df2868998
+        Path: /01-roundtable-guides/03-wk02-roundtable-1.md       
+      -
+        Type: Lesson
+        UID: e8651a38-c1f1-4db1-ba39-3322e32f600c
+        Path: /01-roundtable-guides/04-wk02-roundtable-2.md  
+  -
+    Title: Git
+    Description: Guides for our favorite version control software!
+    UID: a1d4175a-8a14-41c7-95b3-a4e125b401f9
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 27b8aabe-05c1-4839-bbd5-8b182ba98454
+        Path: /03-git/01-intro-to-git.md  
+  -
+    Title: Testing
+    Description: Introduction to Test Driven Development
+    UID: b95acdc3-901f-4cd8-b25f-91e32909775a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: cbee8749-3051-4e31-b9d7-2875c399f2c5
+        Path: /02-testing/01-wk03-intro-to-testing.md  
+      -
+        Type: Lesson
+        UID: 8f2b5e0f-9426-40f3-a84c-baab848b41c9
+        Path: /02-testing/02-wk03-testing-with-minitest.md       
+      -
+        Type: Lesson
+        UID: bb1307ba-21b0-4b9f-acec-84c3bfb436fd
+        Path: /02-testing/03-wk03-testing-exercise.md
   -
     Title: Potpourri
     Description: Includes even more resources on developer skills!

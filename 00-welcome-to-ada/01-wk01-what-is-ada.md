@@ -171,7 +171,7 @@ Individualized Learning Plans often create structure, care, and accountability o
 - Adjusted project requirements
 - Adjusted project due dates
 - Adjusted attendance requirements due to specific, temporary circumstances
-- Adjusted/increased/specalized talks about content review, study skills, etc.
+- Adjusted/increased/specialized talks about content review, study skills, etc.
 
 We can create these Learning Plans any time-- just let any Ada staff member know through Slack.
 

@@ -29,6 +29,53 @@
 
 * Given your organization how could you search through the data structure and find the great wonder with the most visits?
 
+```ruby
+cars {
+  ford: [
+    {
+      model: "mustang",
+      colors: ["yellow", "red"],
+      price: 26000
+    },
+    {
+      model: "fiesta",
+      colors: ["blue", "green", "red"],
+      price: 14000
+    },
+    {
+      model: "explorer",
+      colors: ["white", "green", "red"],
+      price: 32000
+    }
+  ],
+  subaru: [
+    {
+      model: "forester",
+      colors: ["white", "red", "orange"],
+      price: 24000
+    },
+    {
+      model: "outback",
+      colors: ["white", "blue", "green"],
+      price: 26000
+    }
+  ]
+}
+```
+
+* Intro Questions (5-10 min)
+  1. What are the layers in this data structure? For each layer, what do they represent, and what are their data types?
+  2. What code can I write to directly access the price of a car that is a Ford Fiesta?
+* Take 5 minutes to review above as a class
+*  Coding Questions (30 min)
+    1. Add a model (ie. explorer, forester) to the structure
+    2. Add a make (ie. ford, subaru) to the structure
+    3. Write code to find the average price of ford models
+    4. Write code to list all colors of subaru models
+    5. Write code to find the average price of all cars
+*  Note: You may want to check in after some time and do #3 as a class before giving the class more time on 4 and 5. 
+
+
 ### Loop Tables & Iteration
 
 * Create a loop table for the following code segment:
@@ -45,10 +92,66 @@
 
 ### Data Transformation Worksheet
 
+* How can `map` make this exercise easier?
+* Given the following array of hashes, how could you get an array of the names of the students using `each`?
+    ```ruby
+    students = [ {
+      name: "Ada Lovelace",
+      age: 216,
+      grade: 12,
+      },
+      { 
+      name: "Grace Hopper",
+      age: 114,
+      grade: 11,
+      },
+      # ...
+      ]
+    ```
+*  Now solve the same problem with `map`, does it make the problem easier?  How so
+
+
 ### Ride Share
+
+*  How did you organize the Ride Share data?  
+*  Did someone else organize the data differently?  
+    * What advantages/disadvantages did it have?
+*  How can you iterate through the structure to calculate the required answers?
+*  What parts of the project did you find difficult?
 
 ### Enumerables Jigsaw
 
+You will want to start with the official Ruby docs for Enumerable. You will want to answer the questions:
+
+- What does this method do on a high level?
+- What does it return?
+- What does the code block do?
+- What kind of syntax does it require?
+- What does a code example look like?
+
+#### Methods
+
+- `reduce`
+- `all?` & `any?`
+- `select` & `reject`
+- `uniq` & `sum`
+- `min`, `max`, `min_by`, & `max_by`
+- `sort_by`
+
+#### Nota Bene: <=> or Spaceship Operator
+
+In some of this documentation, you might see things that use the <=>, or spaceship operator. We don't expect you to dive into this detail at the moment. However, here is a brief summary of that operator:
+
+How do programming languages compare two objects to each other? Given a or b, which is greater? Which is lesser? When are a and b equal to each other? These are questions programmers are concerned with when comparing two objects, and comparison between two objects happens during sorting.
+
+The <=> operator gives a shortcut to evaluating the relationship between a and b in terms of either -1, 0, or 1. Consider the line of ruby code:
+
+```ruby
+a = 10
+b = 200
+a <=> b
+```
+The last line will return a -1 to signify that a is less than b.
 
 ### Intro to Git
 
