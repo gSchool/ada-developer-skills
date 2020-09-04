@@ -80,7 +80,7 @@ Note: Borrowed from [Wiki How](http://www.wikihow.com/Pair-Program)
 > Make eye contact, observe your partner’s body language, tone of voice, and stay silent while they are talking. Repeat their words in your head, and let them sink in. Nod or say “hm” to show that you are actively listening to their words. ...
 
 > It’s normal to feel defensive and to want to show that you haven’t done anything wrong, but realize that’s not needed here. Thank your partner for sharing what most likely was a difficult thing to say. Take some silent time to consider the feedback from a calm place before responding.
-> - [Lauren Mendoza, Humans’ Guide to Pair Programming](https://medium.com/@loorinm/pair-programming-b5fa56744a0f)
+— [Lauren Mendoza, Humans’ Guide to Pair Programming](https://medium.com/@loorinm/pair-programming-b5fa56744a0f)
 
 #### Giving Feedback
 
