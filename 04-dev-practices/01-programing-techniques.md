@@ -154,6 +154,6 @@ On large software development teams, the presence of one or more knowledge silos
 - a project more vulnerable to risks
 - reducing team cohesion
 
-*[(Source)](https://spin.atomicobject.com/2015/11/12/software-silos/)*
+*[(Source: Don’t Let Silos Ruin Your Software)](https://spin.atomicobject.com/2015/11/12/software-silos/)*
 
 Pair programming is one technique that directly combats these problems and tendencies, through sharing knowledge in a productive way.
