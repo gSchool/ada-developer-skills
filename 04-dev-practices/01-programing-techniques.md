@@ -125,7 +125,7 @@ This will make it easier to do hand off between driving and navigating like you 
 
 Sometimes it's best to work solo. Let's talk about some Do's and Dont's of working solo.
 
-## Rubber Ducking
+### Rubber Ducking
 
 [Rubber Duck Debugging, or Rubber Ducking](https://en.wikipedia.org/wiki/Rubber_duck_debugging) is a method of debugging code. It describes the idea that sometimes the best way to debug code is to talk things through out loud, and that sometimes talking out loud to a rubber duck will do. Sometimes, you can discover the solution to your problem just by trying to explain your code out loud.
 
