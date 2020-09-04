@@ -132,7 +132,7 @@ Spikes and exploring code in similar ways are only **temporary** times of deprio
 
 ### Things to Avoid
 
-### The Silo
+## The Silo
 
 When you're working on a team, there's a tendency for individuals to disproportionately understand one part of the system more deeply than the others. A "Silo" describes an individual on a team who "has all the knowledge" over one part of the software. While specialization is not a bad thing, the presence of an individual who disproportionately knows how a piece of software works while the rest of the team does not, can lead to a development process full of bottlenecks and inefficiencies.
 
