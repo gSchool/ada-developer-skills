@@ -130,7 +130,7 @@ Usually, when a person or pair works on a spike, they plan to discard the code a
 
 Spikes and exploring code in similar ways are only **temporary** times of deprioritizing code quality. Your main way of writing code should be a continual and close loop of writing and refactoring.
 
-## Things to Avoid
+### Things to Avoid
 
 ### The Silo
 
