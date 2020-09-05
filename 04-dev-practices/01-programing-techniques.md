@@ -76,7 +76,7 @@ You can also use some tools specifically made for remote pairing.  One of them i
 This will make it easier to do hand off between driving and navigating like you would if you were sitting next to each other in person.
 ### Suggested Readings
 
-### How to Improve Pair Programming
+#### How to Improve Pair Programming
 
 ##### **Skill Imbalance**
 
