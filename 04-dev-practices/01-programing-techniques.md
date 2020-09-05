@@ -52,12 +52,12 @@ Watches for typos, logical errors
 ### Steps for Successful Pairing
 
 1. Start with a reasonably well-defined task before you sit down
-2. Agree on one tiny goal at a time
-3. Rely on your partner, support your partner
-4. Talk a lot!
-5. Sync up frequently
-6. Take a moment to celebrate as you complete tasks and overcome problems
-7. Switch roles often - at least every half hour
+1. Agree on one tiny goal at a time
+1. Rely on your partner, support your partner
+1. Talk a lot!
+1. Sync up frequently
+1. Take a moment to celebrate as you complete tasks and overcome problems
+1. Switch roles often - at least every half hour
 
 Note: Borrowed from [Wiki How](http://www.wikihow.com/Pair-Program)
 
