@@ -2,7 +2,7 @@
 
 Different contexts call for different methods of programming: sometimes it's best to pair, and sometimes it's best to work solo.
 
-# Pair Programming
+## Pair Programming
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ET3Q6zNK3Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
