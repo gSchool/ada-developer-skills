@@ -22,7 +22,7 @@ Deals with the details
 Thinks higher level
 Watches for typos, logical errors
 
-## Guidelines
+### Guidelines
 
 - Make sure to regularly rotate roles!
 - _Anyone_ can change _anything_
