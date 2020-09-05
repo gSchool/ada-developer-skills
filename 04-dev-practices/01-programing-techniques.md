@@ -6,7 +6,7 @@ Different contexts call for different methods of programming: sometimes it's bes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ET3Q6zNK3Io" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## What is Pair Programming?
+### What is Pair Programming?
 
 Pair programming is a method of programming in which two people work together at one keyboard. One person, "the driver", types at the keyboard. The other person, "the observer" (or "navigator") reviews each line of code as it is typed, checking for errors and thinking about the overall design.
 
