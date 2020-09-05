@@ -45,9 +45,22 @@ For Ruby projects you could start with this handy `.gitignore` file which ignore
 
 ```.gitignore
 .DS_Store
-.env
 .idea
 ```
+
+## The `.gitignore_global` File
+
+If you want git to ignore certain files everywhere across all of your repositories you can create a `.gitignore_global` file in your home directory.
+
+You can create the file in terminal with:
+
+```
+touch ~/.gitignore_global
+echo ".DS_Store" >> ~/.gitignore_global
+echo ".idea" >> ~/.gitignore_global
+```
+
+**Please run these commands now to exclude these files from your pull requests**.  This will help your instructor when they give you feedback on your pull requests.
 
 ## Summary
 
