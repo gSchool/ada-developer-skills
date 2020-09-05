@@ -64,17 +64,6 @@ Standards:
         UID: dbaee99a4efbf63e8044ea299054ed66
         Path: /01-roundtable-guides/01-roundtables.md
   -
-    Title: Developer Practices
-    Description: Lessons about how software is made as a practice.
-    UID: dd952778-afe5-4b30-9552-8fe0cb64b089
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: a487c50d-feb5-45de-88d3-8c2075c9baf9
-        Path: /04-dev-practices/01-programing-techniques.md      
-  -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
     UID: 13db1562f6ff30eb9b59c1a5499affbd
@@ -89,3 +78,7 @@ Standards:
         Type: Lesson
         UID: 565712d4-eafd-4bcc-adc4-57fe6fed4855
         Path: /05-potpourri/02-wk01-exercise-intro-hundred-acre-woods.md
+      -
+        Type: Lesson
+        UID: a487c50d-feb5-45de-88d3-8c2075c9baf9
+        Path: /04-dev-practices/01-programing-techniques.md    
