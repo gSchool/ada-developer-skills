@@ -29,7 +29,7 @@ Watches for typos, logical errors
 - Be patient, respectful, and open
 - Resolve disagreements civilly
 
-## Why Pair Programming?
+### Why Pair Programming?
 
 #### Code
 
