@@ -49,7 +49,7 @@ Watches for typos, logical errors
 - Increases knowledge sharing
 - Mitigates the <abbr title="How many of your team would have to win the lottery for you to be unable to function?">"Lottery Factor"</abbr> AKA the <abbr title="Like the 'Lottery Factor' but instead they get hit by a bus">"Bus Factor"</abbr>
 
-## Steps for Successful Pairing
+### Steps for Successful Pairing
 
 1. Start with a reasonably well-defined task before you sit down
 2. Agree on one tiny goal at a time
