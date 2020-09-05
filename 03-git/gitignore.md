@@ -50,7 +50,7 @@ For Ruby projects you could start with this handy `.gitignore` file which ignore
 
 ## The Ignoring Files Globally
 
-If you want git to ignore certain files everywhere across all of your repositories you can create a file in your home directory.
+If you want git to ignore certain files everywhere across all of your repositories you can create a file in your home directory.  This is great to keep from pushing unwanted files to github or another remote repository yourself, but it does **not** prevent a teammate from doing so because the global file only applies to _your computer_.
 
 You can create the file in terminal with:
 
