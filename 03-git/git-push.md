@@ -1,5 +1,7 @@
 # Git Push
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d380f3ff-0d93-40a0-a351-ac2d003e8f39&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 So far, we've only used git locally to keep track of files on our computer. However, much of the power of git is in moving files from place to place, and enabling collaboration between people. So let's learn about how to do some of that!
 
 You might want to bookmark this page.
