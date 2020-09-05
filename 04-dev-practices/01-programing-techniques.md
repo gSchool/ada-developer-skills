@@ -121,7 +121,7 @@ This will make it easier to do hand off between driving and navigating like you 
 [Tarso Aires, 10 Ways to Improve Your Pairing Experience](https://www.thoughtworks.com/insights/blog/10-ways-improve-your-pairing-experience)
 
 
-# Solo Programming
+## Solo Programming
 
 Sometimes it's best to work solo. Let's talk about some Do's and Dont's of working solo.
 
