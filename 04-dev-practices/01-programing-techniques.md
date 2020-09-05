@@ -88,7 +88,7 @@ This will make it easier to do hand off between driving and navigating like you 
 > Radical self-acceptance is a skill like any other.
 — [Lauren Mendoza, Humans’ Guide to Pair Programming](https://medium.com/@loorinm/pair-programming-b5fa56744a0f)
 
-#### Asking for and Receiving Feedback
+##### Asking for and Receiving Feedback
 
 > Make eye contact, observe your partner’s body language, tone of voice, and stay silent while they are talking. Repeat their words in your head, and let them sink in. Nod or say “hm” to show that you are actively listening to their words. ...
 
