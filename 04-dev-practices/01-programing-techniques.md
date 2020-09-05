@@ -78,7 +78,7 @@ This will make it easier to do hand off between driving and navigating like you 
 
 ### How to Improve Pair Programming
 
-#### **Skill Imbalance**
+##### **Skill Imbalance**
 
 > Most of the time, what looks like a skill imbalance, isn’t. I’m going to argue here that the perception that you are “ahead of” or “behind” your partner is less accurate and less important than it may seem. ... A really important assumption to make is that each person has a lot of value to contribute to the work, regardless of experience or a perception of skill level. Assume that you and your partner are both amazing.
 > - [Lauren Mendoza, Humans’ Guide to Pair Programming](https://medium.com/@loorinm/pair-programming-b5fa56744a0f)
