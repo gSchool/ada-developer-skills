@@ -74,7 +74,7 @@ You can also use some tools specifically made for remote pairing.  One of them i
 [Floobits install instructions for RubyMine](https://floobits.com/help/plugins/intellij).
 
 This will make it easier to do hand off between driving and navigating like you would if you were sitting next to each other in person.
-## Suggested Readings
+### Suggested Readings
 
 ### How to Improve Pair Programming
 
