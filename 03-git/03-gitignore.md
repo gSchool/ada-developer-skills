@@ -39,6 +39,16 @@ git commit -m "Add .gitingore file, ignore secret-secrets.txt"
 
 Now if you run `git status`, you shouldn't see your secrets file at all. Perfect!
 
+## Sample `.gitignore` File
+
+For Ruby projects you could start with this handy `.gitignore` file which ignores the `.DS_Store` file and the `.idea` directory created by Rubymine.
+
+```.gitignore
+.DS_Store
+.env
+.idea
+```
+
 ## Summary
 
-The `.gitignore` file is used to exclude files and folders from git allowing you to keep information you **dont'** want to publish on the internet private.  It is a good idea to list files and folders holding confidential information such as API keys (more on this later) in the `.gitignore` file.  It is also handy to keep unnecessary files such as `.DS_Store` listed in `.gitignore`.
+The `.gitignore` file is used to exclude files and folders from git allowing you to keep information you **dont'** want to publish on the internet private.  It is a good idea to list files and folders holding confidential information such as API keys (more on this later) in the `.gitignore` file.  It is also handy to keep unnecessary files such as `.DS_Store` and Rubymine's `.idea` directory listed in `.gitignore`.
