@@ -139,3 +139,8 @@ Standards:
         Type: Lesson
         UID: a487c50d-feb5-45de-88d3-8c2075c9baf9
         Path: /05-potpourri/programming-techniques.md
+  -
+    Type: Lesson
+    UID: e87c8a6b-d1fb-49c7-b9b4-ff9d8013ae1e
+    Path: /05-potpourri/pair-feedback.md
+  
