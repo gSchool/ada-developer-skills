@@ -16,7 +16,7 @@ Let's get started with
 * What questions do you have?
 
 Guiding Questions and Concepts to Review:
-* What questions do you have abou the Ride Share Project?
+* What questions do you have about the Ride Share Project?
 * You have a set of data outlining the 7 wonders of the world.  How would you organize this in a Ruby program.
   
   | Place                      | Location                           | Description                                                                                                                                                                                     | Visits  |
