@@ -28,7 +28,7 @@ Guiding Questions and Concepts to Review:
   
   * Given your organization how could you search through the data structure and find the great wonder with the most visits?
   
- * Create a loop table for the following code segment:
+* Create a loop table for the following code segment:
      ```ruby
      i = 0
      numbers = []
@@ -38,7 +38,8 @@ Guiding Questions and Concepts to Review:
        i += 1
        puts "Numbers is now #{numbers}"
      end
-     ``
+     ```
+
 * For extra practice with nested data structures, refer to the hash `cars` and the subsequent questions.
 
 ```
