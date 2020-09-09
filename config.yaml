@@ -101,6 +101,10 @@ Standards:
         Type: Lesson
         UID: 0de0c84b-4480-440a-954e-566d776a321a
         Path: /03-git/gitignore.md
+      -
+        Type: Lesson
+        UID: 0de0c84b-4480-440a-954e-566d776a321a
+        Path: /03-git/gitignore.md
   -
     Title: Testing
     Description: Introduction to Test Driven Development
