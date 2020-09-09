@@ -1,5 +1,5 @@
 
-## 9/15 Gems Jigsaw
+## Tues 9/15 Gems Jigsaw
 
 ## Learning Goals
 - Have a basic grasp of how to use:
