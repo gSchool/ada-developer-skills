@@ -105,6 +105,10 @@ Standards:
         Type: Lesson
         UID: 0de0c84b-4480-440a-954e-566d776a321a
         Path: /03-git/gitignore.md
+      -
+        Type: Lesson
+        UID: bdb52de8-4a40-4263-82c8-f77627e8f39e
+        Path: /03-git/git-pull-activity.md        
   -
     Title: Testing
     Description: Introduction to Test Driven Development
