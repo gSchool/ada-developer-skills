@@ -60,7 +60,12 @@ Standards:
         Type: Lesson
         UID: e24f32de-c053-4b5f-a92c-375d6737668a
         Path: /00-welcome-to-ada/12-wk01-debugging-with-rubymine.md
-      - Type: Lesson
+      -
+        Type: Lesson
+        UID: 00032272-e60a-4403-80ef-242b2e1591b4
+        Path: /00-welcome-to-ada/wk-02-what-is-a-retro.md
+      -
+        Type: Lesson
         UID: 9350205e-8487-4a24-89bd-e37ec1bee012
         Path: /00-welcome-to-ada/13-wk01-project-reviews-hidden.md
   -
