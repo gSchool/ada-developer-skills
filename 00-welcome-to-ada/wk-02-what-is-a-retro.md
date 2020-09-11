@@ -23,7 +23,7 @@ During the week, whenever it wouldn't disrupt other classroom activities, add yo
 
  **Pre-Meeting:** Before the meeting, students write sticky notes for any or all of the 3 categories before the meeting
 
-####Meeting Flow
+#### Meeting Flow
 1. Weekly Announcements, if we have any. (These should also be sent out to students on Slack shortly before Retro)
 1. Read the "Prime Directive" (see next section)
 1. Read Appreciations (from Airtable)
