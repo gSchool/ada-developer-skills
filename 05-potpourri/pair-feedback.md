@@ -74,6 +74,7 @@ For example: Instead of "this should be its own method" saying "should we break 
 — [Michael Lynch, How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 
 
+For example: Instead of "we should split this into two methods?" saying "this method looks like it does two things.  Should we split it into two separate methods?"
 ## Additional Notes
 
 A lot of people write about how to effectively pair program, ask/give/receive feedback, or give effective code reviews. There is no one-size-fits-all solution!
