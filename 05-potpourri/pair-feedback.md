@@ -54,7 +54,7 @@ Here are some notable tips from the guide:
 
 > An additional option is to phrase it as a question, beginning with “what about…” or “how about…”
 
-> - [Michael Lynch, How to Do Code Reviews Like a Human ](https://mtlynch.io/human-code-reviews-1/)
+— [Michael Lynch, How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 
 #### Frame feedback as requests, not commands
 
