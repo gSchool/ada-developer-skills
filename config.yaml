@@ -60,7 +60,12 @@ Standards:
         Type: Lesson
         UID: e24f32de-c053-4b5f-a92c-375d6737668a
         Path: /00-welcome-to-ada/12-wk01-debugging-with-rubymine.md
-      - Type: Lesson
+      -
+        Type: Lesson
+        UID: 00032272-e60a-4403-80ef-242b2e1591b4
+        Path: /00-welcome-to-ada/wk-02-what-is-a-retro.md
+      -
+        Type: Lesson
         UID: 9350205e-8487-4a24-89bd-e37ec1bee012
         Path: /00-welcome-to-ada/13-wk01-project-reviews-hidden.md
   -
@@ -101,6 +106,10 @@ Standards:
         Type: Lesson
         UID: 0de0c84b-4480-440a-954e-566d776a321a
         Path: /03-git/gitignore.md
+      -
+        Type: Lesson
+        UID: bdb52de8-4a40-4263-82c8-f77627e8f39e
+        Path: /03-git/git-pull-activity.md        
   -
     Title: Testing
     Description: Introduction to Test Driven Development
@@ -139,8 +148,11 @@ Standards:
         Type: Lesson
         UID: a487c50d-feb5-45de-88d3-8c2075c9baf9
         Path: /05-potpourri/programming-techniques.md
-  -
-    Type: Lesson
-    UID: e87c8a6b-d1fb-49c7-b9b4-ff9d8013ae1e
-    Path: /05-potpourri/pair-feedback.md
-  
+      -
+        Type: Lesson
+        UID: d9a06edd-5e6b-43fe-923d-6687494db3d3
+        Path: /05-potpourri/pair-feedback-and-code-reviews.md
+      -
+        Type: Lesson
+        UID: e87c8a6b-d1fb-49c7-b9b4-ff9d8013ae1e
+        Path: /05-potpourri/pair-feedback.md
