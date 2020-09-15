@@ -34,7 +34,7 @@ Reviewing code can seem daunting, so here are some suggested readings on giving 
 
 #### ThoughtBot's Guide to Code Reviews
 
-The entire guide is good, concise, effective, and accurate. [Read all of it, and read it here](https://github.com/thoughtbot/guides/tree/master/code-review).
+The entire guide is good, concise, effective, and accurate. **Read the entire** [Code Review Guide](https://github.com/thoughtbot/guides/tree/master/code-review).
 
 Here are some notable tips from the guide:
 - Accept that many programming decisions are opinions. Discuss tradeoffs, which you prefer, and reach a resolution quickly.
