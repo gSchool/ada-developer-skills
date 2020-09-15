@@ -152,4 +152,7 @@ Standards:
         Type: Lesson
         UID: d9a06edd-5e6b-43fe-923d-6687494db3d3
         Path: /05-potpourri/pair-feedback-and-code-reviews.md
-  
+      -
+        Type: Lesson
+        UID: e87c8a6b-d1fb-49c7-b9b4-ff9d8013ae1e
+        Path: /05-potpourri/pair-feedback.md
