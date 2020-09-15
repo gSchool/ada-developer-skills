@@ -56,6 +56,7 @@ Here are some notable tips from the guide:
 
 — [Michael Lynch, How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 
+For example: Instead of "you should use `map` here" saying "what about using `map` here?"
 #### Frame feedback as requests, not commands
 
 > You would expect reviewers to dial up their politeness in reviews, but bizarrely I’ve found them to go the opposite direction. ...  Frame your notes as requests or suggestions, not commands. ...
