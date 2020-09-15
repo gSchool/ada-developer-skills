@@ -71,7 +71,7 @@ For example: Instead of "this should be its own method" saying "should we break 
 
 > When you give the author a note, explain both your suggested change and the reason for the change. ... Grounding your notes in principles frames the discussion in a constructive way.
 
-> - [Michael Lynch, How to Do Code Reviews Like a Human ](https://mtlynch.io/human-code-reviews-1/)
+— [Michael Lynch, How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 
 
 ## Additional Notes
