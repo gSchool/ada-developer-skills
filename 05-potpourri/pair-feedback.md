@@ -65,7 +65,7 @@ For example: Instead of "you should use `map` here" saying "what about using `ma
 
 > Requests also make it easier for the author to push back politely. Maybe they have a good reason for their choice. If you frame your feedback as a command, any pushback from the author comes across as disobedience. If you frame your feedback as a request or a question, the author can simply answer you.
 
-> - [Michael Lynch, How to Do Code Reviews Like a Human ](https://mtlynch.io/human-code-reviews-1/)
+— [Michael Lynch, How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/)
 
 For example: Instead of "this should be its own method" saying "should we break this out into a method?"
 #### Tie notes to principles, not opinions
