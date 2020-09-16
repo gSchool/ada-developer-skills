@@ -21,6 +21,10 @@ Standards:
         Path: /00-welcome-to-ada/03-wk01-learn.md
       -
         Type: Lesson
+        UID: 418a54c4-d07c-46d5-b05c-09764399b81d
+        Path: /00-welcome-to-ada/online-meeting-rooms.md
+      -
+        Type: Lesson
         UID: 5865d823948e3e2c1a1b427cda05aeac
         Path: /00-welcome-to-ada/04-wk01-slack.md
       -
