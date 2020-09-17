@@ -1,4 +1,4 @@
-# TDD Exercise 
+# 9/17 TDD Exercise 
 
 Today's Roundtable will focus on reviewing the [TDD Exercise](https://github.com/Ada-C14/tdd-exercise)
 
