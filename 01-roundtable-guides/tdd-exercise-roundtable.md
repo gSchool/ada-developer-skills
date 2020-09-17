@@ -32,5 +32,7 @@ Guiding Questions and Concepts to Review:
     score([-1, 3, 5])
   }.must_raise ArgumentError
   ```
+* Was it hard to write things in TDD fashion?
+* What questions do you have on TDD development?
 
 Lets also share some TDD-Exercise tests and `score` methods.  What are some new things you learn from classmates.
