@@ -90,7 +90,11 @@ Standards:
       -
         Type: Lesson
         UID: ddede568-91aa-4351-bbd2-1c1df2868998
-        Path: /01-roundtable-guides/03-wk02-roundtable-1.md       
+        Path: /01-roundtable-guides/03-wk02-roundtable-1.md
+      -
+        Type: Lesson
+        UID: cfdda273-3ad8-4c46-ba2c-0747ce373060
+        Path: /01-roundtable-guides/tdd-exercise-roundtable.md
   -
     Title: Git
     Description: Guides for our favorite version control software!
