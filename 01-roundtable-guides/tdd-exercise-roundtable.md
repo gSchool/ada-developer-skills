@@ -29,11 +29,13 @@ Let's get started with
    * Positive Edge Test Cases
    * Negative Edge Test Cases
 * Why does the expectation for an ArgumentError look like the below?
+  
   ```ruby
   expect {
     score([-1, 3, 5])
   }.must_raise ArgumentError
   ```
+  
 * Was it hard to write things in TDD fashion?
 * What questions do you have on TDD development?
 
