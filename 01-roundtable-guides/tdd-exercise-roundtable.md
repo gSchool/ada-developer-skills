@@ -35,4 +35,6 @@ Guiding Questions and Concepts to Review:
 * Was it hard to write things in TDD fashion?
 * What questions do you have on TDD development?
 
-Lets also share some TDD-Exercise tests and `score` methods.  What are some new things you learn from classmates.
+Lets also share some TDD-Exercise tests and `score` methods.  
+
+What are some new things you learned from classmates?
