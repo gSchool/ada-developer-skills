@@ -11,6 +11,8 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * When discussing code, you to use screen sharing through Zoom.
 * Take notes!
 
+## Getting Started
+
 Let's get started with
 
 * How do you feel about Testing now that you've done the exercise:
@@ -19,7 +21,7 @@ Let's get started with
   * Red - Testing!  (runs the other way)
 * What questions do you have on the exercise?
 
-Guiding Questions and Concepts to Review:
+## Guiding Questions and Concepts to Review:
 
 *  What are some examples of 
    * Positive Nominal Test Cases
@@ -35,6 +37,7 @@ Guiding Questions and Concepts to Review:
 * Was it hard to write things in TDD fashion?
 * What questions do you have on TDD development?
 
-Lets also share some TDD-Exercise tests and `score` methods.  
+## Lets also share some TDD-Exercise tests and `score` methods.  
 
-What are some new things you learned from classmates?
+*  What are some new things you learned from classmates?
+*  Did you organize your tests into Arrange-Act-Assert steps?
