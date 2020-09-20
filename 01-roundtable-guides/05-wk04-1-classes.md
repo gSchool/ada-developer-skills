@@ -16,5 +16,7 @@ Let's get started with
 * What questions do you have?
 
 Guiding Questions and Concepts to Review:
-* 
-* 
+* What do the methods `attr_reader`, `attr_writer`, and `attr_accessor` do?
+* What is the `self` keyword and how is it useful?
+* What is a helper method and how does it help?
+
