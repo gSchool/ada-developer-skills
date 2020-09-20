@@ -14,7 +14,7 @@ Fork, clone and complete the [Automated Testing](https://github.com/Ada-C14/auto
 * id: bb24d589-a6fb-4bf4-b4f6-b7d97b41e64e
 * title: Automated Testing Exercise
 * upstream: https://github.com/Ada-C14/automated-testing
-* validate_fork: true
+* validate_fork: false
 * points: 1
 * topics: tdd, OOP
 
