@@ -1,6 +1,6 @@
 # Thursday 9/24: Object Oriented Design Exercise and Defining Classes
 
-Today's Roundtable will focus on reviewing the following two exercises: Object Oriented Design Exercise and Defining Classes 
+Today's Roundtable will focus on reviewing the following two exercises: Object Oriented Design Exercise and [Defining Classes](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/04-oop/classes-worksheet.md) 
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
@@ -12,9 +12,19 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * Take notes!
 
 Let's get started with
-* Share something you did this weekend.
+* How do you feel about object oriented programming? 
+    * Let's use zoom annotate.
+
+
+UGHH!
+<-----------------------------------------------------------------> AWESOME :)
+
+
 * What questions do you have?
 
-Guiding Questions and Concepts to Review:
-* XXXXX Guiding questions will be added when these resources are complete.
-* 
+Object Oriented Design Exercise:
+* Let's take approximately ~15 minutes in breakout rooms to discuss their design and answers to the questions.
+* Together let's take notes:
+    * What's the job of each class: "Deck" "Card" and "Game"?
+    * What attributes should each class have?
+    * What methods should each class have?

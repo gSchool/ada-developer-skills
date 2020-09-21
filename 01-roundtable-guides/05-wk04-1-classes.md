@@ -1,6 +1,6 @@
 # Tuesday 9/22: Classes Review Roundtable
 
-Today's Roundtable will focus on reviewing classes. 
+Today's Roundtable will focus on [reviewing classes](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/04-oop/intro-to-classes.md). 
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
