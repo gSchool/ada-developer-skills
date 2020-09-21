@@ -13,7 +13,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 
 Let's get started with
 * How do you feel about object oriented programming? 
-    * Let's use zoom annotate.
+    * Let's use Zoom annotate.
 
 
 UGHH!
