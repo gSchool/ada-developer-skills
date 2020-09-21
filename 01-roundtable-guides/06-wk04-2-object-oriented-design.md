@@ -16,8 +16,7 @@ Let's get started with
     * Let's use Zoom annotate.
 
 
-UGHH!
-<-----------------------------------------------------------------> AWESOME :)
+UGHH! <-----------------------------------------------------------------> AWESOME :)
 
 
 * What questions do you have?
