@@ -163,8 +163,12 @@ Standards:
       -
         Type: Lesson
         UID: a487c50d-feb5-45de-88d3-8c2075c9baf9
-        Path: /05-potpourri/programming-techniques.md
+        Path: /05-potpourri/03-programming-techniques.md
       -
         Type: Lesson
         UID: d9a06edd-5e6b-43fe-923d-6687494db3d3
-        Path: /05-potpourri/pair-feedback-and-code-reviews.md
+        Path: /05-potpourri/04-pair-feedback-and-code-reviews.md
+      -
+        Type: Lesson
+        UID: 2ee2d4d1-7547-4264-aab4-68484cbd7ae4
+        Path: /05-potpourri/05-intro-to-regex.md
