@@ -145,6 +145,10 @@ Standards:
         Type: Lesson
         UID: bb1307ba-21b0-4b9f-acec-84c3bfb436fd
         Path: /02-testing/03-wk03-testing-exercise.md
+      -
+        Type: Lesson
+        UID: 69a4c7c9-9cbf-4823-a847-db0e88bf1020
+        Path: /02-testing/before-and-let.md
   -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
