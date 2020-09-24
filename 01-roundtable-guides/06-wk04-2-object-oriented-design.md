@@ -24,6 +24,6 @@ UGHH! <-----------------------------------------------------------------> AWESOM
 Object Oriented Design Exercise:
 * Let's take approximately ~15 minutes in breakout rooms to discuss their design and answers to the questions.
 * Together let's take notes:
-    * What's the job of each class: `Deck` "Card` and `Game`?
+    * What's the job of each class: `Deck` `Card` and `Game`?
     * What attributes should each class have?
     * What methods should each class have?
