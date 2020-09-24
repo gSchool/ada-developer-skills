@@ -51,6 +51,14 @@ In most test cases we're creating a new identical instance of `Pet` to work with
 
 What code can we write in order to reduce declaring the `pet = Pet.new("Fido")` "Arrange" step in _every. single. test_?
 
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Get The Code!
+If you want to play around with the code below, check out [this gist!](https://gist.github.com/dHelmgren/371c534a63410a6ffbcaae93f2b801b3)
+
+### !end-callout
+
 ## Solution 1:  Before Blocks
 
 One solution is to use Minitest's `before` block.  In Minitest a `before` block runs before each test case, which allows you to dry up common code in the arrange step of testing.
