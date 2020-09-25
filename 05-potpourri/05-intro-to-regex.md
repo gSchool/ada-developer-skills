@@ -364,7 +364,7 @@ There a number of tools you can use to compose regular expressions.
 
 ## List of Regex Special Characters
 
-A few of this symbols are explained in the following lesson [More Regular Expressions](more-regular-expressions.md)
+A few of this symbols are explained in the following lesson [More Regular Expressions]()
 
 | Character | Name  |  Description |
 | --- | --- | --- |
