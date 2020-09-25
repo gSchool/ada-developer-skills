@@ -1,5 +1,7 @@
 # Introduction to Regular Expressions
 
+## Recording will be inserted here.
+
 ## Learning Goals
 By the end of this lesson, we should be able to
 - Write a regular expression to match a specific pattern.
