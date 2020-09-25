@@ -5,7 +5,7 @@
 ## Learning Goals
 By the end of this lesson, we should be able to
 - Write a regular expression to match a specific pattern.
-- Identify ways we can use regular expressions to speed up our development workflow.
+- Read and decipher a regular expression when presented with one.
 
 ## Introduction  
 
