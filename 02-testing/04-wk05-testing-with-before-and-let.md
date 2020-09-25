@@ -5,6 +5,10 @@
 - Understand how to use `before` syntax in Minitest to run "Arrange" code before each test
 - Understand how to use `let` syntax in Minitest to use lazy-loading for variables
 
+## Video Version
+
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=3fabe92f-b999-4a4e-bc15-ac41015999d1&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Introduction
 
 Consider writing tests for a `Pet` class like this:
