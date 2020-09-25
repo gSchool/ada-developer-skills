@@ -56,7 +56,7 @@ Both `match` and `=~` will return a truthy result if any substring matches the p
 <!-- available callout types: info, success, warning, danger, secondary  -->
 ### !callout-info
 
-## Practice
+## Practice (1 minute)
 What will the following return?
 
 ```ruby
@@ -80,22 +80,93 @@ Now we will look into some of the tools of regex that come together to make rege
 - Start `^` and `$` End
 
 
-
 ## Character Sets
 
 What if you wanted to match either "Ada" or "ada."?  To handle both lower and upper case "Ada," we need to provide our pattern options to match against.  To provide a list of possible characters we can use _Character sets_.
 
-A _character set_, also called a _character class_ is a way to tell the regex engine to match only one out of several characters.  We define a character set with square brackets.  For example `/[Ss]/` will match both capital and lowercase S.  Combining the character set with the previous larger literal, `[Aa]da` will match both "Ada" and "ada".  
+A _character set_, also called a _character class_ is a way to tell the regex engine to match only one out of several characters.  
 
-You can also adjust the character set to accept a range of characters.  For example:  `/[A-Z]/`  will accept a single character in the range A to Z (must be capitalized), while `/[0-9]/` will accept a single digit.  If you wanted to accept any alphabetic characters you could use `/[A-Za-z]/`.
+We define a character set with square brackets.  
+* For example `/[Ss]/` will match both capital and lowercase S.  
+* Combining the character set with the previous larger literal, `[Aa]da` will match both "Ada" and "ada".  
+
+If you want the whole regex to ignore case you can use the `i` flag. For example, `pattern1` and `pattern2` below are two ways of achieving case insensitivity.
+
+```ruby
+pattern1 = /ada/i
+pattern2 = /[Aa][Dd][Aa]/
+
+pattern1 =~ 'ADA' # => 0
+pattern1 =~ 'aDA' # => 0
+pattern1 =~ 'aDa' # => 0
+
+pattern2 =~ 'ADA' # => 0
+pattern2 =~ 'aDA' # => 0
+pattern2 =~ 'aDa' # => 0
+```
+
+You can also adjust the character set to accept a range of characters.  For example:  
+* `/[A-Z]/`  will accept a single character in the range A to Z (must be capitalized)
+* `/[0-9]/` will accept a single digit.
+*  `/[A-Za-z]/` or `/[A-Z]/i` will accept any alphabetic characters.
 
 ![/[A-Aa-z]/](images/regex1.png)
 
-### Practice
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
 
-How could you match any alphanumeric digit like "a", "W", or "0"?
+## Practice with Character Sets (3 minutes)
 
-[Check your answer here](solutions/regex.md#Character%20Sets)
+Write a regex pattern to match any alphanumeric digit like "a", "W", or "0"? Make sure your test to code.
+
+### !end-callout
+
+<details>
+  <summary>
+  Check your answer here
+  </summary>
+	
+  ```ruby
+  pattern = /[A-Za-z0-9]/
+  # pattern = /[A-Z0-9]/i
+  
+  test_strings = ['a','W', '0', '-', '*']  
+
+  test_strings.each do |item|
+      puts pattern.match(item) ? '#{item} is valid' : '#{item} is not valid'
+  end
+  ```
+
+</details>
+
+### More Practice with character sets (optional)
+
+1. Write a regex pattern to match a string that contains a vowel.
+2. Write a regex pattern that matches the string "gray" and "grey."
+3. Write a regex pattern that matches double digit numbers that are multiples of 5.
+4. Write a regex pattern that matches 3 letter words that rhymn with "bad."
+
+<details>
+  <summary>
+  Check your answers here
+  </summary>
+  
+  ```ruby
+  # 1) contains a vowel
+  pattern = /[aeiuo]/
+  
+  # 2) matches "gray" and "grey"
+  pattern = /gr[ae]y/
+  
+  # 3) multiples of 5
+  pattern = /[1-9][05]/
+  
+  # 4) 3 letter words that rhymn with "bad."
+  pattern = /[dfhlmprst]ad/
+  
+  ```
+  
+</details>
 
 ## The Wildcard and Quantifiers
 
@@ -112,28 +183,80 @@ Character | Meaning            | Example
 `+`       | Preceding token may occur **one** or more times. | `/ad+a/` matches `ada` and `adddda` but **not** `aa`<br><br>`/[0-9]+/` matches `1` and `345` but **not** the empty string<br><br>`.+` matches any string **except for** the empty string
 `?`       | Preceding token is optional (may occur zero or one times) | `/ad?a/` matches `aa` and `ada`<br><br>`/[0-9]/` matches `2` and the empty string but not `27` or `356`<br><br>`.?` matches any one character or the empty string
 
-### Practice
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Practice with Wilcard and Quantifiers (15 minutes)
 
 Write a regular expression to match a valid email of form `name@domain.tld`
 - Matches `simon@adadev.org`, `adalovelace@gmail.com`, `magictavern@puppies.supplies`
 - Rejects `dan@adadev.`, `charles.com`, `@adadev.org`, `sarah@.org`
 - Use `\.` for a literal period (more on this later)
+- Before you begin, make a list of rules about what constitutes a valid e-mail address.
 
-[Check your answer here](solutions/regex.md#Wildcards%20and%20Quantifiers)
+### !end-callout
+
+<details>
+  <summary>
+  Check your answer here
+  </summary>
+	
+  ```ruby
+  pattern = /.+@.+\..+/
+
+  test_strings = [`dee@adadev.org`, `adalovelace@gmail.com`, 
+  `magictavern@puppies.supplies`,`dan@adadev.`, 
+  `charles.com`, `@adadev.org`, `sarah@.org`]
+  ```
+</details>
 
 ## The NOT `^` Character
 
-Sometimes you want to exclude a certain group of characters, or sometimes it's easier to exclude a type of character rather than list all the valid possibilities.  In that case you need the `^` character and the square brackets.  
+Use the ^ character and square brackets to exclude a group of characters or a type of character.
 
-For example:  `/[^abc]/` excludes a, b and c.
+* It can be easier than listing all the valid possibilities.
+In that case you need the ^ character and the square brackets.
+ 
+* For example:  `/[^abc]/` excludes a, b and c.
 
-Another example would be `/[^0-9]/` which would exclude any digit or `/Ada is number [^2-9a-zA-Z0]` which would exclude any letter or digit, except `1`.
 
-### Practice
+What do the following patterns exclude?
 
-How can you write a regex which would accept `dog`, `sog`, and `hog`, but exclude `bog`?
+```ruby
+/[^0-9]/
+/Ada is number [^2-9^a-z^A-Z^0]/ 
+```
 
-[Check your answer here](solutions/regex.md#Not)
+<details>
+  <summary>
+  Check your answer here
+  </summary>
+  
+  * `/[^0-9]/` excludes any digit 
+  * `/Ada is number [^2-9a-zA-Z0]` excludes any letter or digit, except `1`
+
+</details>
+
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Practice with Note `^` (2 minutes)
+Write a regex which would accept `dog`, `sog`, and `hog`, but exclude `bog`?
+
+### !end-callout
+
+
+<details>
+  <summary>
+  Check your answer here
+  </summary>
+	
+  ```ruby
+  pattern = /[^b]og/
+  
+  test_strings = ['dog', 'sog', 'hog', 'bog']
+  ```
+</details>
 
 ## Escape characters
 
@@ -158,11 +281,26 @@ Practical Example:
 ![phone number](images/regex3.png)
   - This regular expression takes 3 digits inside parentheses followed by a space, then three digits a dash and then 4 digits.  We will see how to simplify this a bit later.
 
-### Practice
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
 
+## Practice with Escape Characters
 Write a regex for any amount of US currency, for example it should match `$3.25`, `$102.73`, and `$0.25`.
 
-[Check your answer here](solutions/regex.md#Escape%20Characters)
+### !end-callout
+
+<details>
+  <summary>
+  Check your answer here
+  </summary>
+  
+  ```ruby
+  pattern = /\$\d+\.\d\d/
+  
+  test_strings = ['$3.25', '$102.73', '$0.25', '$1000.73',
+  '$10.7', '$10.707']
+  ```
+</details>
 
 ## Start and End of a String
 
@@ -176,15 +314,27 @@ By default a regex will match a string if any part of the string matches. Someti
 
 It is common to combine `^` and `$` in order to match an entire string.
 
-### Practice
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
 
+### Practice with Start and End
 Write a regex that will match only strings without any leading whitespace.
 - `"ada"`, `"ada academy"` and `"ada "` all match
 - `"  ada"`, `"  ada "` and `" "` do not match
 
-[Check your answer here](solutions/regex.md#Start%20and%20End)
+### !end-callout
 
-### Follow-up Lesson: [More Regular Expressions](more-regular-expressions.md)
+<details>
+  <summary>
+  Check your answer here
+  </summary>
+	   
+  ```ruby   
+  pattern = /^\S.*/
+
+  test_strings = ['ada', 'ada academy', 'ada ', ' ada', ' ada ', ' ']    
+  ```
+</details>
 
 ## Conclusion
 
@@ -193,6 +343,10 @@ Regular expressions are a powerful tool that works in almost all languages. The 
 Because Regex is almost universal there are a **lot** of tools available to compose them and a variety of pre-made Regular Expressions. Some tools are listed below.
 
 It is also common to find pre-made regular expressions online, for example on Stack Overflow. Having a strong understanding of regex fundamentals will allow you to combine these and tweak them to your needs.
+
+## Follow-up Lesson
+
+This lesson serves as an introduction to regular expressions. We will learn more about regular expressions in a follow-up lessons which will include topics such as repititions, capture groups, and search/replace features of your editor.
 
 ### Regex Tools
 
