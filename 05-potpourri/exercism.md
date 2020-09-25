@@ -4,7 +4,7 @@
 
 [Exercism.io](https://exercism.io) is a free online community that provides programming exercises that are language-specific and TDD-style to encourage code practice and mentorship.
 
-On[Exercism.io](https://exercism.io), we should expect to find resources for the following:
+On [Exercism.io](https://exercism.io), we should expect to find resources for the following:
 
 - Dozens of TDD-style programming practices for Ruby and other languages
 - Scaffolding for community and mentorship
@@ -29,6 +29,8 @@ Exercism has an up-to-date, thorough, and wonderful guide on how to get started.
 - Exercism will, by default, configure all programming exercises to download to a default directory on your computer. **Read through the Terminal output to find out where Exercism downloads your exercises.**
 
 With those notes, get started using Exercism using their [Getting Started Guide](https://exercism.io/getting-started)
+
+You can install the exercism cli tool using their [homebrew instructions](https://exercism.io/cli-walkthrough)
 
 - Sign up for the Ruby track
 - Follow their directions for getting started on the "Hello World" problem. You can trust and follow their directions for installing their CLI tool and any dependencies
