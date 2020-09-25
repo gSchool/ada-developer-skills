@@ -103,6 +103,18 @@ Standards:
         Type: Lesson
         UID: fa25e288-bec7-4a64-842f-3b0a56e67e02
         Path: /01-roundtable-guides/06-wk04-2-object-oriented-design.md
+      -
+        Type: Lesson
+        UID: b793a3c2-6ae2-48bf-a482-4639b330d322
+        Path: /01-roundtable-guides/07-wk05-grocery-store.md
+      -
+        Type: Lesson
+        UID: a8c68198-154c-43f4-990b-927c2e0ca391
+        Path: /01-roundtable-guides/08-wk05-tdd-oop-before-let.md
+      -
+        Type: Lesson
+        UID: f69e89c1-98bc-44cd-b2f9-53010dc5a291
+        Path: /01-roundtable-guides/09-wk06-references-and-values.md
   -
     Title: Git
     Description: Guides for our favorite version control software!
