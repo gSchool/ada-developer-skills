@@ -176,3 +176,7 @@ Standards:
         Type: Lesson
         UID: 2ee2d4d1-7547-4264-aab4-68484cbd7ae4
         Path: /05-potpourri/05-intro-to-regex.md
+      -
+        Type: Lesson
+        UID: a2c99690-f554-454c-828b-a97a0da27d59
+        Path: /05-potpourri/exercism.md
