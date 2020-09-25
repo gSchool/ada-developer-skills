@@ -1,6 +1,5 @@
 # Introduction to Regular Expressions
 
-# Introduction to Regular Expressions
 ## Learning Goals
 By the end of this lesson, we should be able to
 - Write a regular expression to match a specific pattern.
@@ -13,6 +12,8 @@ Regular expressions are a great tool for working with text. Using regular expres
 You will likely only use a limited number of expressions during your time at Ada, but understanding Regex can simplify your code, and Regex is useful across multiple languages.
 
 ## Regular Expression Basics
+
+First we will look at matching a pattern in text using regular expressions, `.match`, and the match operator `=~`
 
 Like `String` and `Integer`, a regular expression is a data type in Ruby, defining a pattern of characters.  
 
@@ -240,7 +241,7 @@ What do the following patterns exclude?
 <!-- available callout types: info, success, warning, danger, secondary  -->
 ### !callout-info
 
-## Practice with Note `^` (2 minutes)
+## Practice with Not `^` (2 minutes)
 Write a regex which would accept `dog`, `sog`, and `hog`, but exclude `bog`?
 
 ### !end-callout
@@ -284,7 +285,7 @@ Practical Example:
 <!-- available callout types: info, success, warning, danger, secondary  -->
 ### !callout-info
 
-## Practice with Escape Characters
+## Practice with Escape Characters (5 minutes)
 Write a regex for any amount of US currency, for example it should match `$3.25`, `$102.73`, and `$0.25`.
 
 ### !end-callout
@@ -317,7 +318,7 @@ It is common to combine `^` and `$` in order to match an entire string.
 <!-- available callout types: info, success, warning, danger, secondary  -->
 ### !callout-info
 
-### Practice with Start and End
+### Practice with Start and End (5 minutes)
 Write a regex that will match only strings without any leading whitespace.
 - `"ada"`, `"ada academy"` and `"ada "` all match
 - `"  ada"`, `"  ada "` and `" "` do not match
