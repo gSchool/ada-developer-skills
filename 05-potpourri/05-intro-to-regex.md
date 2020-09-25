@@ -1,11 +1,13 @@
 # Introduction to Regular Expressions
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=3233e0d3-5a1e-4192-aee7-ac41015a9158&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Recording will be inserted here.
 
 ## Learning Goals
 By the end of this lesson, we should be able to
 - Write a regular expression to match a specific pattern.
-- Identify ways we can use regular expressions to speed up our development workflow.
+- Read and decipher a regular expression when presented with one.
 
 ## Introduction  
 
