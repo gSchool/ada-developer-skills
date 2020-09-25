@@ -149,6 +149,10 @@ Standards:
         Type: Lesson
         UID: 69a4c7c9-9cbf-4823-a847-db0e88bf1020
         Path: /02-testing/before-and-let.md
+      -
+        Type: Lesson
+        UID: 239cc796-7d67-4fd2-b8e2-13b8010901a6
+        Path: /02-testing/tdd-in-oop-exercise.md
   -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
