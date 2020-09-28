@@ -12,11 +12,10 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * Take notes!
 
 Let's get started with
-* What feelings do you have around grocery store?
+* What feelings do you have around the Grocery Store project?
 * What general questions do you have?
 
 Guiding Questions and Concepts to Review:
 * Vote on a wave(s) to review.
 * Go over the waves in order of popularity.
   * At least two people should share their solutions.
-
