@@ -173,6 +173,19 @@ Standards:
         Type: Lesson
         UID: 239cc796-7d67-4fd2-b8e2-13b8010901a6
         Path: /02-testing/tdd-in-oop-exercise.md
+      -
+        Type: Lesson
+        UID: 7797caba-b44d-4423-9fa3-87c6dddd596e
+        Path: /02-testing/api-testing-vcr.md
+      -
+        Type: Lesson
+        UID: 52f0f06b-8d67-4643-9e5d-88ac1c4a2ccc
+        Path: /02-testing/code-coverage-and-simplecov.md
+      -
+        Type: Lesson
+        UID: 5ca23f76-467d-44c9-8c7d-41b0b8622147
+        Path: /02-testing/testing-with-guard.md
+
   -
     Title: Potpourri
     Description: Includes even more resources on developer skills!
