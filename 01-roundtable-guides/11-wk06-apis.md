@@ -18,14 +18,13 @@ Let's get started with
 Guiding Questions and Concepts to Review:
 * Describe the Request/Response cycle
 * What are the functions of the following request verbs/methods
-    * GET
-    * POST
-    * PATCH or PUT
-    * DELETE
+    * `GET`
+    * `POST`
+    * `PATCH` or `PUT`
+    * `DELETE`
 * When can a response code be helpful?
     * What is the fundamental difference between a 200 level respnse and a 400 Level response?
 * How are query params like parameters to a method?
 * Why create a wrapper class?  
     * Does a wrapper class make sense in Slack CLI?
 * How do we store credentials securely?
-
