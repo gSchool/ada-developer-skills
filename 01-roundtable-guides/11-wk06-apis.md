@@ -24,7 +24,7 @@ Guiding Questions and Concepts to Review:
     * `DELETE`
 * When can a response code be helpful?
     * What is the fundamental difference between a 200 level respnse and a 400 Level response?
-* How are query params like parameters to a method?
+* How are query parameters like parameters to a method?
 * Why create a wrapper class?  
     * Does a wrapper class make sense in Slack CLI?
 * How do we store credentials securely?
