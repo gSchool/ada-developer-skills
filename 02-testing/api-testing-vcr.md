@@ -18,7 +18,7 @@ VCR is a tool that allows your tests to _record_ HTTP interactions and replay th
 
 Each interaction is recorded as a **cassette**. We can load cassettes in our tests, depending on which requests/responses we want to be testing.
 
-![VCR](images/api/vcr.jpg)
+![VCR](images/apis/vcr.jpg)
 
 ### What is VCR doing?
 VCR is essentially a recording device that interrupts the normal way they we send messages out to the internet. The first time a set of tests that use VCR run, the cassette takes note of the new request, based off of request method, URI, and body:
