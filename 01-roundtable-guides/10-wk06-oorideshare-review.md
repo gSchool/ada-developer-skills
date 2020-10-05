@@ -1,4 +1,6 @@
-# [OO Ride Share](https://github.com/Ada-C14/oo-ride-share) Review
+# OO Ride Share Review
+
+* [OO Ride Share](https://github.com/Ada-C14/oo-ride-share)
 
 * How was the project? (5 minutes)
     * This is a moment to reflect and exhale at the end of the project.
