@@ -68,10 +68,7 @@ Standards:
         Type: Lesson
         UID: 00032272-e60a-4403-80ef-242b2e1591b4
         Path: /00-welcome-to-ada/wk-02-what-is-a-retro.md
-      -
-        Type: Lesson
-        UID: 9350205e-8487-4a24-89bd-e37ec1bee012
-        Path: /00-welcome-to-ada/13-wk01-project-reviews-hidden.md
+      
   -
     Title: Roundtable Guides
     Description: Guides to individual roundtables
@@ -123,6 +120,10 @@ Standards:
         Type: Lesson
         UID: 3ccb24af-023c-4dee-b1c1-e7b0560c1663
         Path: /01-roundtable-guides/11-wk06-apis.md
+      -
+        Type: Lesson
+        UID: 9350205e-8487-4a24-89bd-e37ec1bee012
+        Path: /01-roundtable-guides/project-reviews-instructor-guide-hidden.md
   -
     Title: Git
     Description: Guides for our favorite version control software!
