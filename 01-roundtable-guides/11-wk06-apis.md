@@ -1,6 +1,6 @@
 # Tuesday 10/6: API Review
 
-Today's Roundtable will focus on reviewing the [fundamentals of APIs](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/03-language-features/01-introduction-to-gems.md) in addition to [APIs in Ruby](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/03-language-features/01-introduction-to-gems.md). We can use the [7-wonders activity](https://github.com/Ada-C14/api-exercise-seven-wonders) to ground our review.
+Today's Roundtable will focus on reviewing the [fundamentals of APIs](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/06-apis/intro-to-apis.md) in addition to [APIs in Ruby](https://learn-2.galvanize.com/cohorts/2036/blocks/875/content_files/06-apis/apis-in-ruby.md). We can use the [7-wonders activity](https://github.com/Ada-C14/api-exercise-seven-wonders) to ground our review.
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
