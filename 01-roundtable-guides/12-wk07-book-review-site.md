@@ -1,4 +1,4 @@
-# Book Review Site + Yesterday's Content Roundtable
+# Wednesday 10/14 - Book Review Site and Intro to HTML/CSS
 
 For this discussion, think of your instructor as a mediator and guide,
 rather than as a lecturer. You are encouraged to do the following:

@@ -1,4 +1,4 @@
-# Open Ended Discussion
+# Thursday 10/15 - HTML / CSS Discussion
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
