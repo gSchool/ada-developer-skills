@@ -28,3 +28,9 @@ Vote on which of the following you most want to review:
 * Wave 2
   * Site wide styling
   * Page specific styling
+
+Guiding questions:
+* What is the structure of your HTML?
+  * How did you decide on it?
+  * What elements did you use?
+* How did your choices about elements affect your CSS?
