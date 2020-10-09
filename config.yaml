@@ -122,6 +122,14 @@ Standards:
         Path: /01-roundtable-guides/11-wk06-apis.md
       -
         Type: Lesson
+        UID: d06a30c6-b653-452f-93ed-6bed4594127f
+        Path: /01-roundtable-guides/12-wk07-book-review-site.md
+      -
+        Type: Lesson
+        UID: c9e29323-bef4-44bb-ad4c-494b633ca22a
+        Path: /01-roundtable-guides/13-wk07-open-ended-discussion.md
+      -
+        Type: Lesson
         UID: 9350205e-8487-4a24-89bd-e37ec1bee012
         Path: /01-roundtable-guides/project-reviews-instructor-guide-hidden.md
   -
