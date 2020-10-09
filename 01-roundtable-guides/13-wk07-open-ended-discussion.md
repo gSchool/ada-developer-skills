@@ -16,3 +16,21 @@ This roundtable is a little different.
 
 We're just going to focus on what questions you have about HTML and CSS.
 
+Here are some potential topics to get you started (feel free to go in a different direction though!):
+
+Flexbox and Grid: 
+* In what scenarios would you choose to use Flexbox? 
+* In what scenarios would you choose to use CSS Grid?
+* What are the benefits of each tool?
+
+Imagine a blog website:
+* What are some elements for which you would use classes? 
+* What are some elements for which you would use ids?
+* Why did you make those choices?
+
+Developer Tools:
+* What are some ways that your browser's Developer Tools can help you when you're developing a static website with HTML and CSS?
+* Have you tried editing the CSS in the browser (either in the Inspector or the Style Editor in Firefox)?
+  * Was it helpful?
+* Have you used the Grid tool in the Inspector in Firefox?
+  * Was it helpful?
