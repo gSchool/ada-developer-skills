@@ -133,6 +133,17 @@ Standards:
         UID: 9350205e-8487-4a24-89bd-e37ec1bee012
         Path: /01-unit1-roundtable-guides/project-reviews-instructor-guide-hidden.md
   -
+    Title: Unit 2 Roundtable Guides
+    Description: Guides to individual roundtables (Rails)
+    UID: aeb253f6ade3-4a828c193de7625a6a90
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 9350205e-8487-4a24-89bd-e37ec1bee012
+        Path: /02-unit2-roundtable-guides/01-wk09-rails-intro.md
+  -
     Title: Git
     Description: Guides for our favorite version control software!
     UID: a1d4175a-8a14-41c7-95b3-a4e125b401f9
@@ -142,19 +153,19 @@ Standards:
       -
         Type: Lesson
         UID: 27b8aabe-05c1-4839-bbd5-8b182ba98454
-        Path: /03-git/intro-to-git.md 
+        Path: /04-git/intro-to-git.md 
       -
         Type: Lesson
         UID: 5b9cc8ad-4ae6-4e6d-885a-234a813e1f60
-        Path: /03-git/git-push.md            
+        Path: /04-git/git-push.md            
       -
         Type: Lesson
         UID: 0de0c84b-4480-440a-954e-566d776a321a
-        Path: /03-git/gitignore.md
+        Path: /04-git/gitignore.md
       -
         Type: Lesson
         UID: bdb52de8-4a40-4263-82c8-f77627e8f39e
-        Path: /03-git/git-pull-activity.md        
+        Path: /04-git/git-pull-activity.md        
   -
     Title: Testing
     Description: Introduction to Test Driven Development
@@ -165,35 +176,35 @@ Standards:
       -
         Type: Lesson
         UID: cbee8749-3051-4e31-b9d7-2875c399f2c5
-        Path: /02-testing/01-wk03-intro-to-testing.md  
+        Path: /05-testing/01-wk03-intro-to-testing.md  
       -
         Type: Lesson
         UID: 8f2b5e0f-9426-40f3-a84c-baab848b41c9
-        Path: /02-testing/02-wk03-testing-with-minitest.md       
+        Path: /05-testing/02-wk03-testing-with-minitest.md       
       -
         Type: Lesson
         UID: bb1307ba-21b0-4b9f-acec-84c3bfb436fd
-        Path: /02-testing/03-wk03-testing-exercise.md
+        Path: /05-testing/03-wk03-testing-exercise.md
       -
         Type: Lesson
         UID: 439218bc-8c65-4720-b939-822d282a7058
-        Path: /02-testing/04-wk05-testing-with-before-and-let.md
+        Path: /05-testing/04-wk05-testing-with-before-and-let.md
       -
         Type: Lesson
         UID: 239cc796-7d67-4fd2-b8e2-13b8010901a6
-        Path: /02-testing/tdd-in-oop-exercise.md
+        Path: /05-testing/tdd-in-oop-exercise.md
       -
         Type: Lesson
         UID: 7797caba-b44d-4423-9fa3-87c6dddd596e
-        Path: /02-testing/api-testing-vcr.md
+        Path: /05-testing/api-testing-vcr.md
       -
         Type: Lesson
         UID: 52f0f06b-8d67-4643-9e5d-88ac1c4a2ccc
-        Path: /02-testing/code-coverage-and-simplecov.md
+        Path: /05-testing/code-coverage-and-simplecov.md
       -
         Type: Lesson
         UID: 5ca23f76-467d-44c9-8c7d-41b0b8622147
-        Path: /02-testing/testing-with-guard.md
+        Path: /05-testing/testing-with-guard.md
 
   -
     Title: Potpourri
@@ -205,33 +216,33 @@ Standards:
       -
         Type: Lesson
         UID: 36adde5b697a53e866b091e73ffc5eb2
-        Path: /05-potpourri/01-wk01-pseudocode.md
+        Path: /06-potpourri/01-wk01-pseudocode.md
       -
         Type: Lesson
         UID: 565712d4-eafd-4bcc-adc4-57fe6fed4855
-        Path: /05-potpourri/02-wk01-exercise-intro-hundred-acre-woods.md
+        Path: /06-potpourri/02-wk01-exercise-intro-hundred-acre-woods.md
       -
         Type: Lesson
         UID: a487c50d-feb5-45de-88d3-8c2075c9baf9
-        Path: /05-potpourri/03-programming-techniques.md
+        Path: /06-potpourri/03-programming-techniques.md
       -
         Type: Lesson
         UID: d9a06edd-5e6b-43fe-923d-6687494db3d3
-        Path: /05-potpourri/04-pair-feedback-and-code-reviews.md
+        Path: /06-potpourri/04-pair-feedback-and-code-reviews.md
       -
         Type: Lesson
         UID: 2ee2d4d1-7547-4264-aab4-68484cbd7ae4
-        Path: /05-potpourri/05-intro-to-regex.md
+        Path: /06-potpourri/05-intro-to-regex.md
       -
         Type: Lesson
         UID: 164fb964-84f7-4441-aa15-b7a492cc0749
-        Path: /05-potpourri/04-wk-05-request-response-cycles.md
+        Path: /06-potpourri/04-wk-05-request-response-cycles.md
       -
         Type: Lesson
         UID: a2c99690-f554-454c-828b-a97a0da27d59
-        Path: /05-potpourri/exercism.md
+        Path: /06-potpourri/exercism.md
       -
         Type: Lesson
         UID: 1d6d6c36-2f6e-4767-a61e-afb069170360
-        Path: /05-potpourri/queries-and-commands.md
+        Path: /06-potpourri/queries-and-commands.md
   
