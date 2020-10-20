@@ -70,8 +70,8 @@ Standards:
         Path: /00-welcome-to-ada/wk-02-what-is-a-retro.md
       
   -
-    Title: Roundtable Guides
-    Description: Guides to individual roundtables
+    Title: Unit 1 Roundtable Guides
+    Description: Guides to individual roundtables (Ruby and HTML/CSS)
     UID: 11a4f36cf40d24a975ed0f4e931ef4c1
     SuccessCriteria:
       - success criteria
