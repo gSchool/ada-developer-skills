@@ -141,8 +141,25 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: 9350205e-8487-4a24-89bd-e37ec1bee012
-        Path: /02-unit2-roundtable-guides/01-wk09-rails-intro.md
+        UID: 8ec89c68-8192-4935-b5bc-74151b14a8d6
+        Path: /02-unit2-roundtable-guides/01-wk09-rails-day-1.md
+      -
+        Type: Lesson
+        UID: d5695b32-7d8a-4d01-9728-87cba344b870
+        Path: /02-unit2-roundtable-guides/02-wk09-tasklist-and-books-destroy.md
+      -
+        Type: Lesson
+        UID: 1aa96770-9afe-47d6-b8fa-8db0cf355e86
+        Path: /02-unit2-roundtable-guides/03-wk10-tasklist-review.md
+      -
+        Type: Lesson
+        UID: 1589510a-ecd4-4aa7-8010-7b6da8097dd4
+        Path: /02-unit2-roundtable-guides/04-wk10-tuesday.md
+      -
+        Type: Lesson
+        UID: 6b707566-df65-4d5f-94f9-77ec39ebb661
+        Path: /02-unit2-roundtable-guides/05-wk10-thursday.md
+      
   -
     Title: Git
     Description: Guides for our favorite version control software!
