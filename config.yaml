@@ -79,59 +79,59 @@ Standards:
       -
         Type: Lesson
         UID: dbaee99a4efbf63e8044ea299054ed66
-        Path: /01-roundtable-guides/01-roundtables.md
+        Path: /01-unit1-roundtable-guides/01-roundtables.md
       -
         Type: Lesson
         UID: c4b53e77-a8c5-4fd5-bd43-a827a01c51c0
-        Path: /01-roundtable-guides/02-wk01-roundtable-1.md
+        Path: /01-unit1-roundtable-guides/02-wk01-roundtable-1.md
       -
         Type: Lesson
         UID: ddede568-91aa-4351-bbd2-1c1df2868998
-        Path: /01-roundtable-guides/03-wk02-roundtable-1.md
+        Path: /01-unit1-roundtable-guides/03-wk02-roundtable-1.md
       -
         Type: Lesson
         UID: cfdda273-3ad8-4c46-ba2c-0747ce373060
-        Path: /01-roundtable-guides/04-wk03-tdd-exercise-roundtable.md
+        Path: /01-unit1-roundtable-guides/04-wk03-tdd-exercise-roundtable.md
       -
         Type: Lesson
         UID: 45ee5257-c1b9-4a1d-b038-78b17d30dd82
-        Path: /01-roundtable-guides/05-wk04-1-classes.md
+        Path: /01-unit1-roundtable-guides/05-wk04-1-classes.md
       -
         Type: Lesson
         UID: fa25e288-bec7-4a64-842f-3b0a56e67e02
-        Path: /01-roundtable-guides/06-wk04-2-object-oriented-design.md
+        Path: /01-unit1-roundtable-guides/06-wk04-2-object-oriented-design.md
       -
         Type: Lesson
         UID: b793a3c2-6ae2-48bf-a482-4639b330d322
-        Path: /01-roundtable-guides/07-wk05-grocery-store.md
+        Path: /01-unit1-roundtable-guides/07-wk05-grocery-store.md
       -
         Type: Lesson
         UID: a8c68198-154c-43f4-990b-927c2e0ca391
-        Path: /01-roundtable-guides/08-wk05-tdd-oop-before-let.md
+        Path: /01-unit1-roundtable-guides/08-wk05-tdd-oop-before-let.md
       -
         Type: Lesson
         UID: 7748b481-2bc6-4ddf-b36e-0e30fb31668f
-        Path: /01-roundtable-guides/09-wk06-references-and-values.md
+        Path: /01-unit1-roundtable-guides/09-wk06-references-and-values.md
       -
         Type: Lesson
         UID: d631fd49-41d5-435a-adce-a6cedf5c5672
-        Path: /01-roundtable-guides/10-wk06-oorideshare-review.md
+        Path: /01-unit1-roundtable-guides/10-wk06-oorideshare-review.md
       -
         Type: Lesson
         UID: 3ccb24af-023c-4dee-b1c1-e7b0560c1663
-        Path: /01-roundtable-guides/11-wk06-apis.md
+        Path: /01-unit1-roundtable-guides/11-wk06-apis.md
       -
         Type: Lesson
         UID: d06a30c6-b653-452f-93ed-6bed4594127f
-        Path: /01-roundtable-guides/12-wk07-book-review-site.md
+        Path: /01-unit1-roundtable-guides/12-wk07-book-review-site.md
       -
         Type: Lesson
         UID: c9e29323-bef4-44bb-ad4c-494b633ca22a
-        Path: /01-roundtable-guides/13-wk07-open-ended-discussion.md
+        Path: /01-unit1-roundtable-guides/13-wk07-open-ended-discussion.md
       -
         Type: Lesson
         UID: 9350205e-8487-4a24-89bd-e37ec1bee012
-        Path: /01-roundtable-guides/project-reviews-instructor-guide-hidden.md
+        Path: /01-unit1-roundtable-guides/project-reviews-instructor-guide-hidden.md
   -
     Title: Git
     Description: Guides for our favorite version control software!
