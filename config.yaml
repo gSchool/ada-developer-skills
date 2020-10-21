@@ -264,6 +264,10 @@ Standards:
         Path: /06-potpourri/queries-and-commands.md
       -
         Type: Lesson
+        UID: 79ded5d9-c4a4-445d-b1d0-75f2712a1566
+        Path: /06-potpourri/intro-to-agile.md
+      -
+        Type: Lesson
         UID: 398dca78-45b7-4f63-88fc-665a5be9e02c
         Path: /06-potpourri/user-stories.md
   
