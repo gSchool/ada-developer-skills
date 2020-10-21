@@ -161,3 +161,20 @@ The last line will return a -1 to signify that a is less than b.
   - `git add`
   - `git commit`
 - You've just made changes to `adagrams.rb` and want to save these changes with git.  How do you do that?
+
+## Week 10 Questions
+
+### Git Branches
+
+- Why is branching useful for a project like Ride-share?
+- How can you create a branch in git?
+- What are two ways to merge a branch back into master?
+  - Using `git merge`
+  - Using a pull request.
+  - Rebase also works
+
+
+### Strong Params
+
+- Why bother with strong params?
+- Does the method name matter? (task_params)
