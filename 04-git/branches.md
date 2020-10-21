@@ -196,5 +196,6 @@ Much of this discussion is going to happen on the whiteboard with sticky notes a
 
 ## Resources
 
-[Git SCM Documentation](https://git-scm.com/book/ch3-2.html)  
-[Atlassian Tutorial](https://www.atlassian.com/git/tutorials/using-branches)
+- [Git SCM Documentation](https://git-scm.com/book/ch3-2.html)  
+- [Atlassian Tutorial](https://www.atlassian.com/git/tutorials/using-branches)
+- [Net Ninja Branches Tutorial](https://www.youtube.com/watch?v=QV0kVNvkMxc)
