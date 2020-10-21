@@ -1,5 +1,7 @@
 # Introduction to Agile
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=ab120415-0434-4907-9227-ac5b004bfab2&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Learning Goals
 
 - What is _Waterfall_? What is _Agile?_ What is _agile_?
