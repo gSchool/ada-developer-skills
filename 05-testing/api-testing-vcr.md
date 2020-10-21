@@ -5,6 +5,8 @@
 - Utilize VCR to snapshot API calls
 - Integrate tests
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=aa3185fb-2d2e-4cdc-9f29-ac4d006ea271&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ### How is testing APIs different?
 We know why testing is important, we have seen the importance of the TDD cycle. When testing APIs it is important to note that we are now relying on external sources for our own code to work. There are a few things to consider when testing external sources:
 
