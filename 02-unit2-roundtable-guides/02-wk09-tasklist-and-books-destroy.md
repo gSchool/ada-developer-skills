@@ -27,8 +27,7 @@ Before we get started let's share a one word or phrase check-in, popcorn style.
 
 ### As we work through the live code, consider:
 
-* 
+* How do we trigger a `DELETE` request?
 *
 *
-
 
