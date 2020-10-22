@@ -43,3 +43,9 @@ Views:
 Testing Controllers
 * Why would we care to have tests for our controllers? 
     * What might go wrong if we built a rails website without these tests?
+    * What are some examples from real-life websites where they probably give these response codes?  Why?
+        * `:not_found`
+        *  `:server_error`
+        * `:ok`
+        * `:created`
+        * `:bad_request`
