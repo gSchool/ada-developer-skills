@@ -39,6 +39,12 @@ Controllers:
 Views:
 * Why do we care to use embedded ruby instead of just HTML? 
     * What does it enable us to do that we couldn’t do before?
+    * I have a bug in my view here, why is it printing the array in the HTML?
+      ```erb
+      <%= @books.each do |book | %>
+        <li><%= book.title %> by <%= book.author %></li>
+      <% end %>
+      ```
 
 Testing Controllers
 * Why would we care to have tests for our controllers? 
