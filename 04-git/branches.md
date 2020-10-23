@@ -196,7 +196,7 @@ The `git switch` command is quite new, as `checkout` gets used for a lot of thin
 
 ### Rebase Commands
 
-Rebasing is an alternative to merging: it re-writes your history to be linear instead of showing that work was done via concurrent branches.
+Rebasing is an alternative to merging: it re-writes your history to be linear instead of showing that work was done via concurrent branches.  For now we suggest you stick to merging as a strategy to combine multiple branches in Git instead of rebasing.
 
 It's common in industry due to people being used to workflows from [outdated](https://en.wikipedia.org/wiki/Apache_Subversion) and [obsolete](https://en.wikipedia.org/wiki/Concurrent_Versions_System) legacy version control systems did not support multiple branches well.
 
@@ -208,7 +208,6 @@ It's common when rebasing your code to wind up losing commits and having to atte
   - Rebase then applies **new** commits from the specified branch to the current branch
   - Finally, rebase applies the commits unique to the current branch _as new commits to the top of the current branch_.
 - `git pull [remote] --rebase`: Same as `rebase`, except it directs Git to rebase a _remote branch_ with the current local branch.
-
 
 ## Resources
 
