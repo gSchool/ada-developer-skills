@@ -132,16 +132,16 @@ You want to **create** and **switch to** a new branch called, "Unicorn".  How ca
 
 ##### !options
 
-* `git commit -m "Unicorn"`
-* `git branch -D Unicorn`
-* `git checkout -b Unicorn`
-* `git checkout Unicorn`
+* `git commit -m "Unicorn"` or `git add`
+* `git branch -D Unicorn`  or `git switch Unicorn` 
+* `git checkout -b Unicorn` or `git switch -c Unicorn`
+* `git checkout Unicorn` or `git switch Unicorn`
 
 ##### !end-options
 
 ##### !answer
 
-* `git checkout -b Unicorn`
+* `git checkout -b Unicorn` or `git switch -c Unicorn`
 
 ##### !end-answer
 
@@ -150,7 +150,7 @@ You want to **create** and **switch to** a new branch called, "Unicorn".  How ca
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 ##### !explanation
 
-If you want to switch to another branch or commit you use `git checkout <branchname>`, if you want to create a new branch with that name and switch to it you use `git checkout -b <branchname>`
+If you want to switch to another branch or commit you use `git checkout <branchname>`, if you want to create a new branch with that name and switch to it you use `git checkout -b <branchname>`.  An alternative new command is `git switch -c <branchname>`.  The options (-b for checkout or -c for switch) are required to **create** a new branch using these commands.
 
 `git branch -D <branchname>` will _delete_ the branch!  Be careful!
 
