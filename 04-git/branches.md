@@ -198,7 +198,7 @@ The `git switch` command is quite new.  It was added because `checkout` gets use
 
 ### Rebase Commands
 
-Rebasing is an alternative to merging: it re-writes your history to be linear instead of showing that work was done via concurrent branches.  For now we suggest you stick to merging as a strategy to combine multiple branches in Git instead of rebasing.
+Rebasing is an alternative to merging: it re-writes your history to be linear instead of showing that work was done via concurrent branches.  **For now we suggest you stick to merging as a strategy to combine multiple branches in Git instead of rebasing.**
 
 It's common in industry due to people being used to workflows from [outdated](https://en.wikipedia.org/wiki/Apache_Subversion) and [obsolete](https://en.wikipedia.org/wiki/Concurrent_Versions_System) legacy version control systems did not support multiple branches well.
 
