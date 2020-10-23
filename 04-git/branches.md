@@ -193,7 +193,7 @@ It's common when rebasing your code to wind up losing commits and having to atte
 
 - `git rebase [branch_name]`: performs a _rebase_ of the current branch. Rebase is a three step process:
   - Rebase identifies the point of divergence between the current branch and the specified branch
-  - Rebase rewinds the current branch to the point of divergence
+  - Rebase removes all commits from current branch to the point of divergence
   - Rebase then applies **new** commits from the specified branch to the current branch
   - Finally, rebase applies the commits unique to the current branch _as new commits to the top of the current branch_.
 - `git pull [remote] --rebase`: Same as `rebase`, except it directs Git to rebase a _remote branch_ with the current local branch.
