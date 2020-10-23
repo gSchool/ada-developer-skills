@@ -185,6 +185,11 @@ Much of this discussion is going to happen on the whiteboard with sticky notes a
 - `git pull [remote]`: Same as `merge`, except it directs Git to merge a _remote branch_ with the current local branch.
 
 ### Rebase Commands
+Rebasing is an alternative to merging: it re-writes your history to be linear instead of showing that work was done via concurrent branches.
+
+It's common in industry due to people being used to workflows from [outdated](https://en.wikipedia.org/wiki/Apache_Subversion) and [obsolete](https://en.wikipedia.org/wiki/Concurrent_Versions_System) legacy version control systems did not support multiple branches well.
+
+It's common when rebasing your code to wind up losing commits and having to attempt to recover them or to encounter the merge conflicts repeately, neither of which happen with the normal merge based workflows.
 
 - `git rebase [branch_name]`: performs a _rebase_ of the current branch. Rebase is a three step process:
   - Rebase identifies the point of divergence between the current branch and the specified branch
