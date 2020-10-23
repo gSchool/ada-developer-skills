@@ -161,3 +161,63 @@ The last line will return a -1 to signify that a is less than b.
   - `git add`
   - `git commit`
 - You've just made changes to `adagrams.rb` and want to save these changes with git.  How do you do that?
+
+## Week 9 Questions
+
+### Livecode Intro
+
+- How can you check out a specific lesson's code with git on your computer?
+
+### Controllers
+
+- Does the name of the controller matter in the command `rails generate controller Tasks`?
+- How do the `index` and `show` actions differ?  How are they similar?
+- How does Rails know which controller method to call?
+- Have them label the parts of the `routes.rb` file.
+- Why does this not work (answer `tasks` isn't an instance variable.)
+    ```ruby
+    class TasksController < ApplicationController
+      def index
+        tasks = [ 
+          { name: 'mow the lawn', description: 'the grass is knee height', completed_date: '2020-11-10'}, 
+          { name: 'Pay the bills', description: 'Power bill of $120.37', completed_date: ''},
+          ]
+      end
+    end
+    ```
+
+### ERB and Layouts
+
+- What's wrong with this erb?  It prints the entire array into the HTML as an array.
+  ```erb
+    <ul>
+    <%= @tasks.each do |task| %>
+      <li><%= task.name %></li>
+    <% end %>
+    </ul>
+  ```
+- If you have a controller method named `def show` what does the view file have to be named?
+- What file should you edit to set the general layout and organization of each page on the Rails site?
+
+### Testing Controllers
+
+- How many edge-cases does the `index` action have in a controller?
+- What things should you test in a controller action?
+- Where do you find the tests for a controller?
+
+## Week 10 Questions
+
+### Git Branches
+
+- Why is branching useful for a project like Ride-share?
+- How can you create a branch in git?
+- What are two ways to merge a branch back into master?
+  - Using `git merge`
+  - Using a pull request.
+  - Rebase also works
+
+
+### Strong Params
+
+- Why bother with strong params?
+- Does the method name matter? (task_params)
