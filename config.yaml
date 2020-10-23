@@ -182,7 +182,11 @@ Standards:
       -
         Type: Lesson
         UID: bdb52de8-4a40-4263-82c8-f77627e8f39e
-        Path: /04-git/git-pull-activity.md        
+        Path: /04-git/git-pull-activity.md
+      -
+        Type: Lesson
+        UID: 6055fea3-dea1-45f6-984b-05a9f119f5b6
+        Path: /04-git/branches.md
   -
     Title: Testing
     Description: Introduction to Test Driven Development
