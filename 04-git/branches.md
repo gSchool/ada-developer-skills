@@ -9,13 +9,15 @@
 
 ## External Branching Tutorial
 
-In this lesson progress through the `Introduction Sequence` lesson (https://learngitbranching.js.org/).  Take notes on the commands to:
+In this lesson progress through the `Introduction Sequence` lessons 1-4 (https://learngitbranching.js.org/).  Take notes on the commands to:
 
 - create a branch
 - switch between branches
 - merge the changes from one branch into another
 
 ![Git Branching Tutorial Lesson](images/branching-tutorial.png)
+
+**hint**:  You can use the reference material at the bottom of this lesson if you get stuck.
 
 ## Branching Video Lesson
 
