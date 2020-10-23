@@ -162,7 +162,7 @@ If you want to switch to another branch or commit you use `git checkout <branchn
 
 ## Branches - Reference material
 
-Much of this discussion is going to happen on the whiteboard with sticky notes and drawing. However, here's a list of handy Git commands for working with branches:
+This material is for your reference when researching branching commands in git.
 
 ### File Commands
 
