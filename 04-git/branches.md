@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Explore how Git tracks _branches_
-- Learn common uses of the `checkout` command for managing _branches_
+- Learn common uses of the `checkout`(https://git-scm.com/docs/git-checkout) or [`switch`](https://git-scm.com/docs/git-switch) commands for managing _branches_
 - Examine the difference between _merge_ and _rebase_
 - Discuss when to _branch_, when to _merge_, and when to _rebase_
 
