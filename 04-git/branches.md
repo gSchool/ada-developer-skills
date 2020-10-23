@@ -171,11 +171,21 @@ This material is for your reference when researching branching commands in git.
 
 ### Branch Maintenance Commands
 
+#### Git Checkout
+
 - `git checkout [branch_name]`: switches Git to an __existing__ branch.
 - `git branch [branch_name]`: creates a new branch _but does not switch to it_.
 - `git checkout -b [branch_name]`: creates a new branch and switches Git to this __new__ branch.
 - `git branch -a`: shows a list of all local and remote branches.
 - `git branch -d [branch_name]`: delete the specified branch
+
+#### Git Switch
+
+The `git switch` command is quite new, as `checkout` gets used for a lot of things besides changing branches.
+
+- `git switch [branchname]`:  switches Git to an __existing__ branch.
+- `git switch -c [branch_name]`: creates a new branch and switches Git to this __new__ branch.
+
 
 ### Branch Sharing Commands
 
@@ -185,6 +195,7 @@ This material is for your reference when researching branching commands in git.
 - `git pull [remote]`: Same as `merge`, except it directs Git to merge a _remote branch_ with the current local branch.
 
 ### Rebase Commands
+
 Rebasing is an alternative to merging: it re-writes your history to be linear instead of showing that work was done via concurrent branches.
 
 It's common in industry due to people being used to workflows from [outdated](https://en.wikipedia.org/wiki/Apache_Subversion) and [obsolete](https://en.wikipedia.org/wiki/Concurrent_Versions_System) legacy version control systems did not support multiple branches well.
