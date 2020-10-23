@@ -183,7 +183,7 @@ This material is for your reference when researching branching commands in git.
 
 #### Git Switch
 
-The `git switch` command is quite new, as `checkout` gets used for a lot of things besides changing branches.
+The `git switch` command is quite new.  It was added because `checkout` gets used for a lot of things besides changing branches.
 
 - `git switch [branchname]`:  switches Git to an __existing__ branch.
 - `git switch -c [branch_name]`: creates a new branch and switches Git to this __new__ branch.
