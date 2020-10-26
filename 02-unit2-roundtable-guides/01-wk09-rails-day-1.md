@@ -18,7 +18,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Let's start popcorn style with:
-* What is one thing that brought you joy over break?
+* What is a super power you have?
 * What questions do you have?
 
 ---
