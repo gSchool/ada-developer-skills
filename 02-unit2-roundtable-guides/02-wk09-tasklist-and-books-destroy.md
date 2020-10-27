@@ -8,7 +8,6 @@ Today's Roundtable will focus on an Instructor lead Live Code.
 
 We will go over the implementation for:
  * [Task List - Wave 1](https://github.com/Ada-C14/task-list#wave-1)
- * [Ada Books](https://github.com/AdaGold/ada-books/tree/16.1-destroy) - Destroy Action
 
 While this roundtable is instructor lead, many of our norms still apply:
 
@@ -25,9 +24,21 @@ Before we get started let's share a one word or phrase check-in, popcorn style.
 
 ---
 
-### As we work through the live code, consider:
+### Guiding Questions
 
-* How do we trigger a `DELETE` request?
-*
-*
+1. Describe the 5 HTTP verbs "popcorn" style and explain how it relates to CRUD (create, read, update and delete):
+    1. `GET`
+    2. `POST`
+    3. `PATCH`
+    4. `PUT`
+    5. `DELETE`
+    
+2. Describe the methods we use to write Active Record Migrations "popcorn" style:
+    1. `create_table`
+    2. `add_column`
+    3. `remove_column`
+    4. `change_column`
+    5. `rename_column`
+
+
 
