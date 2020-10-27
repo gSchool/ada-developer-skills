@@ -1,4 +1,4 @@
-# Week 9 - LIVE CODE: Task List Wave 1 and Ada Books Destroy
+# Week 9 - LIVE CODE: Task List Wave 1
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
@@ -32,7 +32,7 @@ Before we get started let's share a one word or phrase check-in, popcorn style.
     3. `PATCH`
     4. `PUT`
     5. `DELETE`
-    
+
 2. Describe the methods we use to write Active Record Migrations "popcorn" style:
     1. `create_table`
     2. `add_column`
