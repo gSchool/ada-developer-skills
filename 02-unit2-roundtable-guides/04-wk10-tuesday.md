@@ -18,7 +18,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ## Let's start popcorn style with:
-* How are you feeling after rails week 1 (word/phrase)?
+* How are you feeling after Rails Week 1 (word/phrase)?
 * What questions do you have?
 
 ---
