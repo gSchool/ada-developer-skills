@@ -1,4 +1,4 @@
-# Week 10 - Relationships and Debugging
+# Week 10 - Active Record Relationships and Validations
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
