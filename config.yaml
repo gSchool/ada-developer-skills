@@ -154,11 +154,11 @@ Standards:
       -
         Type: Lesson
         UID: 1589510a-ecd4-4aa7-8010-7b6da8097dd4
-        Path: /02-unit2-roundtable-guides/04-wk10-tuesday.md
+        Path: /02-unit2-roundtable-guides/04-wk10-strong-params-branching.md
       -
         Type: Lesson
         UID: 6b707566-df65-4d5f-94f9-77ec39ebb661
-        Path: /02-unit2-roundtable-guides/05-wk10-thursday.md
+        Path: /02-unit2-roundtable-guides/05-wk10-relationships-validations.md
       
   -
     Title: Git
