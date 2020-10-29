@@ -5,11 +5,11 @@
 * How was the project? (5 minutes)
     * This is a moment to reflect and exhale at the end of the project.
 
-* Which wave are we most interested in talking about? (Zoom Poll - 2 minutes)
-    * Wave 1 - Index
-    * Wave 2 - Show
-    * Wave 3 - Update
-    * Wave 4 - Delete / Mark Complete
+* Which  concept are you most interested in talking about? We will ground our conversation with Task List code. (Zoom Poll - 2 minutes)
+    * MVC Diagram
+    * Controller code
+    * Model manipulation in Rails console
+    * View code
 
 
 Guided Review
