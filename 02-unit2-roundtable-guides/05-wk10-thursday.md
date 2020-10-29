@@ -63,9 +63,3 @@ book.valid?
 * Describe three different ways a book/author relationship can be created.
 * What code needs to be added to the *model* to set up a *one-to-many* relationship?
 * What attribute needs to be added to the *schema* to set up a *one-to-many* relationship?
-
-### Debugging Rails
-
-* 
-*
-*
