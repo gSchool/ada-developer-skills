@@ -79,4 +79,4 @@ For this discussion, think of your instructor as a mediator and guide, rather th
     - Merge the commits of a local branch named `sort-tasks-feature` into the branch you are currently on?
 1. What would you have to keep in mind if you worked with git branches on your next project?
 1. What would you and a team need to consider and communicate on if everyone worked with git branches?
-1. Optional: Has anyone explored how to view git branches in VS Code? What does it look like?
+
