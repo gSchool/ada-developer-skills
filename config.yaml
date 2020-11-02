@@ -187,6 +187,10 @@ Standards:
         Type: Lesson
         UID: 6055fea3-dea1-45f6-984b-05a9f119f5b6
         Path: /04-git/branches.md
+      -
+        Type: Lesson
+        UID: fa30fd02-5e49-41af-8248-3f81144da34b
+        Path: /04-git/git-merge-conflicts.md
   -
     Title: Testing
     Description: Introduction to Test Driven Development
