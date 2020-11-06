@@ -159,6 +159,18 @@ Standards:
         Type: Lesson
         UID: 6b707566-df65-4d5f-94f9-77ec39ebb661
         Path: /02-unit2-roundtable-guides/05-wk10-relationships-validations.md
+      -
+        Type: Lesson
+        UID: 71ff88d5-7d63-4c3c-8f7a-fdb0e8f09b4c
+        Path: /02-unit2-roundtable-guides/06-wk11-roman-numerals-and-media-ranker.md
+      -
+        Type: Lesson
+        UID: d72af5b7-c2d7-4cb3-adfb-524139585331
+        Path: ./02-unit2-roundtable-guides/07-wk11-test-db-flash-and-media-ranker.md
+      -
+        Type: Lesson
+        UID: 4e8fdcae-546b-40a0-b424-20772b371765
+        Path: ./02-unit2-roundtable-guides/08-wk11-session.md
       
   -
     Title: Git
