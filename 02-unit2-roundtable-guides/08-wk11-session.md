@@ -23,7 +23,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 
 ---
 
-## Guiding Questions
+## Review Questions
 
 1. As a group, come up with a definition for `session` in your own words, and how it helps with log-in functionality
 1. As a group, come up with a description for how `session` helps with log-in functionality
