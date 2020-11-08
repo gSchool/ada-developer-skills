@@ -18,9 +18,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ## Let's start popcorn style with:
-* Everyone should quickly give a brief update describing where you are in the Media Ranker project. Each person's update should be small and quick and 1-3 sentences, much like a stand-up meeting.
-    - What is the most recent line of code you wrote that you're proud of?
-    - What is the current or upcoming challenge that you need to tackle next?
+* Something you did over the weekend that brought you joy.
 ---
 
 ## Guiding Questions
