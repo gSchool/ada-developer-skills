@@ -23,7 +23,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
     - What is the current or upcoming challenge that you need to tackle next?
 ---
 
-## Guiding Questions
+## Review Questions
 
 ### The Test Database
 
