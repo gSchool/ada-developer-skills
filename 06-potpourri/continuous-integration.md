@@ -91,6 +91,17 @@ Once you have it running tests against `master`, submit a pull request and see w
 
 As an extra challenge, configure TravisCI to automatically deploy the `master` branch to Heroku. 
 
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-warning
+
+## Travis-ci.org vs Travis-ci.com
+
+Be aware that Travis-ci is transitioning from a .org domain name to .com, and the .org no longer works as reliably.  So stick to the .com domain!  
+
+The .org domain will also dissapear after December 31st 2020.
+
+### !end-callout
+
 ## Optional Github Actions Example
 
 Similar to Travis CI github provides a way to automatically run tests and take actions like merging PRs upon tests passing.  To do so, you create a `.yml` file inside a folder `/github/workflows`
