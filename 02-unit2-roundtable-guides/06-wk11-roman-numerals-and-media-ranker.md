@@ -18,7 +18,9 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ## Let's start popcorn style with:
+
 * Something you did over the weekend that brought you joy.
+
 ---
 
 ## Guiding Questions
