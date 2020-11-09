@@ -1,5 +1,7 @@
 # Continuous Integration
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=643bbbdc-a49e-4ea7-9f48-ac6e015ebfde&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ## Learning Goals
 
 By the end of this lesson, we will be able to...
