@@ -66,14 +66,18 @@ To get you started, here are a couple resources:
   
     ```yml
     language: ruby
-
     rvm:
       - 2.6.5
-
+    cache: 
+      - bundler
+      - yarn
     services:
       - postgresql
-
+    before_install: 
+      - nvm install --lts
     before_script:
+      - bundle install --jobs=3 --retry=3
+      - yarn
       - bin/rails db:create
       - bin/rails db:migrate
 
@@ -178,7 +182,7 @@ Then in github you can go to the actions tab and enable the actions.
     - Integration (merging) is "gated" on testing
     - CI doesn't work if you don't write good tests
 - CI and strong testing practices can enable other things like automatic deployment
-
+ 
 ## Additional Resources
 
 - [ThoughtWorks on Continuous Integration](https://www.thoughtworks.com/continuous-integration)
