@@ -4,7 +4,7 @@ Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day befor
 
 ---
 
-Today's Roundtable will focus on reviewing the [Sesssion](http://example.com/LINK-TBD) and your questions around [Media Ranker](https://github.com/Ada-C14/media-ranker/).
+Today's Roundtable will focus on reviewing the [Sesssion](https://learn-2.galvanize.com/cohorts/2036/blocks/1006/content_files/intro-to-rails-3/session.md) and your questions around [Media Ranker](https://github.com/Ada-C14/media-ranker/).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
