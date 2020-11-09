@@ -166,11 +166,11 @@ Standards:
       -
         Type: Lesson
         UID: d72af5b7-c2d7-4cb3-adfb-524139585331
-        Path: ./02-unit2-roundtable-guides/07-wk11-test-db-flash-and-media-ranker.md
+        Path: /02-unit2-roundtable-guides/07-wk11-test-db-flash-and-media-ranker.md
       -
         Type: Lesson
         UID: 4e8fdcae-546b-40a0-b424-20772b371765
-        Path: ./02-unit2-roundtable-guides/08-wk11-session.md
+        Path: /02-unit2-roundtable-guides/08-wk11-session.md
       
   -
     Title: Git
