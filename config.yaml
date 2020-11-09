@@ -290,4 +290,7 @@ Standards:
         Type: Lesson
         UID: 398dca78-45b7-4f63-88fc-665a5be9e02c
         Path: /06-potpourri/user-stories.md
-  
+      -
+        Type: Lesson
+        UID: ab437a21-a434-4d53-a0bd-88aa380e8c80
+        Path: /06-potpourri/continuous-integration.md
