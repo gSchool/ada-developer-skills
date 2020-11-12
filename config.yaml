@@ -294,4 +294,7 @@ Standards:
         Type: Lesson
         UID: 398dca78-45b7-4f63-88fc-665a5be9e02c
         Path: /06-potpourri/user-stories.md
-  
+      - 
+        Type: Lesson
+        UID: ca1eefcb-5030-4739-81d5-f05d14696f6e
+        Path: /06-potpourri/intro-to-wireframes.md
