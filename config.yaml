@@ -207,6 +207,10 @@ Standards:
         Type: Lesson
         UID: 477ad971-0328-42fc-83d7-4e3253b4fb20
         Path: /04-git/pull-requests.md
+      - 
+        Type: Lesson
+        UID: 15a93289-1666-470d-a785-080b8d492018
+        Path: /04-git/merge-conflict-remote.md
   -
     Title: Testing
     Description: Introduction to Test Driven Development
