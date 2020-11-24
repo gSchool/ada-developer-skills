@@ -171,6 +171,10 @@ Standards:
         Type: Lesson
         UID: 4e8fdcae-546b-40a0-b424-20772b371765
         Path: /02-unit2-roundtable-guides/08-wk11-session.md
+      -
+        Type: Lesson
+        UID: 7268dae2-cdb1-4c11-a36e-80cec22ac096
+        Path: /02-unit2-roundtable-guides/09-wk14-rails-api.md
       
   -
     Title: Git
