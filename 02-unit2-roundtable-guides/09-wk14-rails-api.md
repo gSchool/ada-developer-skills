@@ -26,7 +26,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ## Review Questions
 
 OAuth
-* OAuth Q1: ...
+* OAuth Q1: Why might we want to use OAuth instead of implementing our own login solution?
 * OAuth Q2: Why did the different members of your bEtsy group need the same github token?
 * OAuth Testing Q: ...
 
