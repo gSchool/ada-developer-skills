@@ -4,7 +4,7 @@ Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day befor
 
 ---
 
-Today's Roundtable will focus on reviewing [OAuth](https://learn-2.galvanize.com/cohorts/2036/) and [APIs in Rails](https://learn-2.galvanize.com/cohorts/2036/) material.
+Today's Roundtable will focus on reviewing [OAuth](https://learn-2.galvanize.com/cohorts/2036/blocks/1006/content_files/intro-to-rails-4/oauth-with-omniauth.md) and [APIs in Rails](https://learn-2.galvanize.com/cohorts/2036/blocks/1006/content_files/intro-to-rails-6/intro-to-rails-api.md) material.
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
