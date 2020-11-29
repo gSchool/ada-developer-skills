@@ -28,7 +28,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 OAuth
 * OAuth Q1: Why might we want to use OAuth instead of implementing our own login solution?
 * OAuth Q2: Why did the different members of your bEtsy group need the same github token?
-* OAuth Testing Q: ...
+* OAuth Testing Q: Why do we need to use the OAuth mock hash for testing?
 
 Rails API
 * As a group, come up with a list of differences between making a full-stack web app with Rails vs. making a back-end API with Rails
