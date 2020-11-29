@@ -4,7 +4,7 @@ Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day befor
 
 ---
 
-Today's Roundtable will focus on reviewing the [Rails API] (https://learn-2.galvanize.com/cohorts/2036/) material.
+Today's Roundtable will focus on reviewing [OAuth](https://learn-2.galvanize.com/cohorts/2036/) and [APIs in Rails](https://learn-2.galvanize.com/cohorts/2036/) material.
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
@@ -19,9 +19,17 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 
 ## Let's start popcorn style with:
 
-* 
+* What is something you are thankful for?
+
 ---
 
 ## Review Questions
 
-*
+OAuth
+* OAuth Q1: Why might we want to use OAuth instead of implementing our own login solution?
+* OAuth Q2: Why did the different members of your bEtsy group need the same github token?
+* OAuth Testing Q: Why do we need to use the OAuth mock hash for testing?
+
+Rails API
+* As a group, come up with a list of differences between making a full-stack web app with Rails vs. making a back-end API with Rails
+* What are the differences between testing a web app vs. testing a Rails API?
