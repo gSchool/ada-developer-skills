@@ -18,10 +18,23 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Let's start popcorn style with:
-* 
-
+* What's one thing you're looking forward to over break week?
 
 ---
 
 ### Guiding Questions and Concepts to Review:
-*
+
+#### Hamming
+* What questions did you have from Hamming?
+    * Let's view 3 different implementations! Volunteers?
+
+* How did doing the Hamming exercise in Ruby compare to doing it in JavaScript?
+    * What things were easier, what were harder?
+    * What kind of loop did you use to iterate through the strings?
+
+#### React
+* In your own words, what is a component? 
+    * How can one be identified on an existing website?
+    * How are they similar to partial views in Rails?
+* In your own words, what are props? 
+    * Where does the data stored in props come from?
