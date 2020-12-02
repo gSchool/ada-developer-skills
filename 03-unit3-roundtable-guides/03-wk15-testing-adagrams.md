@@ -18,10 +18,13 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Let's start popcorn style with:
-* 
+* What is one thing you have planned for the weekend?
 
 
 ---
 
 ### Guiding Questions and Concepts to Review:
-*
+
+* In the context of JS Adagrams, what new questions have emerged around Jest and testing?
+* How have you approached structuring data for Wave 1 of JS Adagrams? How has your data structure ensured a weighted distribution (that is, how did you make sure you are more likely to draw and A than a Z)?
+* How has approaching Wave 2 compared to Adagrams in Ruby? Is there anything about Javascript that makes the problem easier or harder?

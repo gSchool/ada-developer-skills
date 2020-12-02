@@ -24,4 +24,11 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Guiding Questions and Concepts to Review:
-*
+* What questions do you have from the Ruby to JS Worksheet?
+    * Please share any different implementations you have from the provided solutions.
+    * If you're not sure where to start, consider Problem #4.
+
+* How are Javascript objects similar / different from Ruby hashes?
+    * Describe dot notation.
+* What is the difference between `==` and `===`. Why would you use one vs. the other?
+* What is the difference between `let` and `const`. Why would you use one vs. the other?
