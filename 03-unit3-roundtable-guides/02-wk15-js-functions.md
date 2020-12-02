@@ -20,12 +20,12 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ### Let's start popcorn style with:
 * What is something that's suprised or delighted you about javascript?
 
-
 ---
 
 ### Guiding Questions and Concepts to Review:
 * Which problems from the Functions Practice would you like to go over?
+    * Please share any different implementations you have from the provided solutions.
 * When a function is a member of an object, what does `this` refer to? How is it used?
 * Why is it useful to pass a function as an argument?
-* What does it mean for a function to be anonymous? Why would we use an anonymouse function?
+* What does it mean for a function to be anonymous? Why would we use an anonymous function?
 * Why does a return clause in a function passed to a `forEach` loop not cause us to leave the loop. Why is it important to note this?

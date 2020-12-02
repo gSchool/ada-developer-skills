@@ -40,3 +40,6 @@ For this discussion, think of your instructor as a mediator and guide, rather th
         const name = "Becca"
         name = "Claire"
         ```
+
+
+
