@@ -175,6 +175,33 @@ Standards:
         Type: Lesson
         UID: 7268dae2-cdb1-4c11-a36e-80cec22ac096
         Path: /02-unit2-roundtable-guides/09-wk14-rails-api.md
+  -
+    Title: Unit 3 Roundtable Guides
+    Description: Guides to individual roundtables (Javascript/React)
+    UID: df3945dc-6966-4f2e-b2d9-845f5eeb5d6d
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: fe1796fd-25fb-4927-84b8-0c36311d6058
+        Path: /03-unit3-roundtable-guides/01-wk15-intro-to-js.md
+      -
+        Type: Lesson
+        UID: 49f85bf7-0baf-41a0-9174-1768e51f6002
+        Path: /03-unit3-roundtable-guides/02-wk15-js-functions.md 
+      -
+        Type: Lesson
+        UID: 17e15db3-4934-45ec-ad3b-471ee670433e
+        Path: /03-unit3-roundtable-guides/03-wk15-testing-adagrams.md 
+      -
+        Type: Lesson
+        UID: 2c5e06c5-3a0a-46c7-99b2-2ad0b83af6a5
+        Path: /03-unit3-roundtable-guides/04-wk16-axios.md 
+      -
+        Type: Lesson
+        UID: 6385d5f4-d59c-4c85-b957-75142cf76ba5
+        Path: /03-unit3-roundtable-guides/05-wk16-react-intro.md  
       
   -
     Title: Git
