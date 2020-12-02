@@ -25,6 +25,19 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 
 ### Guiding Questions and Concepts to Review:
 
+#### Adagrams
 * In the context of JS Adagrams, what new questions have emerged around Jest and testing?
 * How have you approached structuring data for Wave 1 of JS Adagrams? How has your data structure ensured a weighted distribution (that is, how did you make sure you are more likely to draw and A than a Z)?
 * How has approaching Wave 2 compared to Adagrams in Ruby? Is there anything about Javascript that makes the problem easier or harder?
+
+#### Exercise: Reading Closures
+
+Let's look at the code snipped from the lesson.
+
+- [Adder](https://repl.it/@adadev/Closures-Example-Adder)
+
+With your neighbors, walk through the code and be able to identify in each example:
+1. Where is the closure?
+1. What does the code do?
+1. How does the closure take advantage of the outer function's variables?
+1. How does the inner function "get out" of the outer function?
