@@ -1,10 +1,10 @@
-# Week 9 - Rails Day 1
+# Wednesday 12/9: Functions in Javascript
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
 ---
 
-Today's Roundtable will focus on reviewing [XX](https://learn-2.galvanize.com/cohorts/2036/) and [XX](https://learn-2.galvanize.com/cohorts/2036/).
+Today's Roundtable will focus on reviewing [Functions in Javascript](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/first-class-functions.md), [Anonymous Functions](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/anonymous-and-foreach-loops.md), [Arrow Functions](https://learn-2.galvanize.com/cohorts/2036/), and the [Functions Worksheet](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/functions-worksheet.md).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 

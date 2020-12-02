@@ -1,10 +1,10 @@
-# Week 9 - Rails Day 1
+# Thursday 12/10: Testing and JS Adagrams
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
 ---
 
-Today's Roundtable will focus on reviewing [XX](https://learn-2.galvanize.com/cohorts/2036/) and [XX](https://learn-2.galvanize.com/cohorts/2036/).
+Today's Roundtable will focus on reviewing [Testing in JS](https://learn-2.galvanize.com/cohorts/2036/), [Closures](https://learn-2.galvanize.com/cohorts/2036/) and [JS Adagrams](https://learn-2.galvanize.com/cohorts/2036/).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
