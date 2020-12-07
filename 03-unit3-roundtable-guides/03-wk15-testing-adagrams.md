@@ -1,4 +1,4 @@
-# Thursday 12/10: Testing and JS Adagrams
+# Friday 12/11: Testing and JS Adagrams
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
