@@ -4,7 +4,7 @@ Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day befor
 
 ---
 
-Today's Roundtable will focus on reviewing [Introductary Javascript](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/js-intro.md) and [The Ruby to JS Worksheet](https://learn-2.galvanize.com/cohorts/2036/).
+Today's Roundtable will focus on reviewing [Introductary Javascript](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/js-intro.md) and [The Ruby to JS Worksheet](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/ruby-to-js-worksheet.md).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 

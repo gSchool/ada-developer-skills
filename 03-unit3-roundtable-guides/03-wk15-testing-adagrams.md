@@ -4,7 +4,7 @@ Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day befor
 
 ---
 
-Today's Roundtable will focus on reviewing [Testing in JS](https://learn-2.galvanize.com/cohorts/2036/), [Closures](https://learn-2.galvanize.com/cohorts/2036/) and [JS Adagrams](https://learn-2.galvanize.com/cohorts/2036/).
+Today's Roundtable will focus on reviewing [Testing in JS](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/js-testing.md), [Closures](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/closures-intro.md) and [JS Adagrams](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/js-adagrams.checkpoint.md?assessment=true).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
