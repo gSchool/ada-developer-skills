@@ -26,8 +26,8 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 
 #### Classes in JavaScript
 * What are classes like in JavaScript?
-  * How are they similar?
-  * How are the different?
+  * How are they similar to Ruby?
+  * How are the different from Ruby?
 
 #### Asynchronous Programming
 * What are the benefits of asynchronous programming?
