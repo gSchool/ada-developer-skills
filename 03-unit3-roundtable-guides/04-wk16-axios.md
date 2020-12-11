@@ -35,3 +35,6 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * Does JavaScript run asynchronous functions in parallel?
 
 #### Axios GET Requests
+
+* Why might you want to make a HTTP request from a web page?
+* How are they different from GET requests in HTTParty?
