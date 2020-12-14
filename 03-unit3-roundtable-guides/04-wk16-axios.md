@@ -1,4 +1,4 @@
-# Tuesday 12/15: Axios
+# Tuesday 12/15: Class in JS, Asynchronous Programming, and Axios
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
@@ -25,16 +25,21 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ### Guiding Questions and Concepts to Review:
 
 #### Classes in JavaScript
-* What are classes like in JavaScript?
-  * How are they similar to Ruby?
-  * How are the different from Ruby?
+* In what ways are classes similar and different in JavaScript compared to Ruby?
+* Are reader and writer methods necessary in Javascript classes? Why or why not?
+* How can attributes be added to an object that are not defined in the class?
 
 #### Asynchronous Programming
-* What are the benefits of asynchronous programming?
+* What are some of the benefits of asynchronous programming?
   * The drawbacks?
 * Does JavaScript run asynchronous functions in parallel?
+
+### Ada Pets Node
+* What questions are there about the Ada Pets API?
+* Let's have a volunteer or two share their code for `Wave 1: List Pets`
 
 #### Axios GET Requests
 
 * Why might you want to make a HTTP request from a web page?
-* How are they different from GET requests in HTTParty?
+* How are GET requests in Axios different from GET requests in HTTParty?
+* Why is it often good practice to pass anonymous functions to `.then` and `.catch`.
