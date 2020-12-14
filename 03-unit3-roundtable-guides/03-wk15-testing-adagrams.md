@@ -37,7 +37,11 @@ Let's look at the code snipped from the lesson.
 - [Adder](https://repl.it/@adadev/Closures-Example-Adder)
 
 With your neighbors, walk through the code and be able to identify in each example:
+
 1. Where is the closure?
+
 1. What does the code do?
+
 1. How does the closure take advantage of the outer function's variables?
+
 1. How does the inner function "get out" of the outer function?
