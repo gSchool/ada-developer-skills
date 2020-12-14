@@ -1,10 +1,10 @@
-# Tuesday 12/15: Classes in JS and Axios
+# Tuesday 12/31: Tic Tac Toe
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
 ---
 
-Today's Roundtable will focus on reviewing [Classes in Javascript](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/01-js-week-1/classes.md), [Intro to Asynchronous Programming](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/02-js-week-2/async-intro.md) and [Making GET Requests with Axios](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/02-js-week-2/axios-get.md).
+Today's Roundtable will focus on reviewing the [XX](https://learn-2.galvanize.com/cohorts/2036/).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
@@ -20,8 +20,8 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ### Let's start popcorn style with:
 * 
 
-
 ---
 
 ### Guiding Questions and Concepts to Review:
-*
+
+#### Tic Tac Toe
