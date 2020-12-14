@@ -36,8 +36,10 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * What is the difference between `var`, `let`, and `const`. 
     * Why would you use one vs. the other?
     * Something here is broken. How do you fix it?
+
         ```javascript
         const name = "Becca"
+
         name = "Claire"
         ```
 
