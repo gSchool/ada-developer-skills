@@ -18,10 +18,14 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Let's start popcorn style with:
-* 
+* What do you have planned for New Years (Eve or Day)?
 
 ---
 
 ### Guiding Questions and Concepts to Review:
 
 #### Tic Tac Toe
+
+1. When a user clicks on a Square, the Square component needs to be able to respond to the click, and change the Square's value. What props and state need to be affected and changed? What components need to be affected and changed?
+2. What questions do you have about Tic Tac Toe?
+    * Would anyone like to share their code to get feedback on specific parts?
