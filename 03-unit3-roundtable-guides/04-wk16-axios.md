@@ -39,7 +39,6 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * Let's have a volunteer or two share their code for `Wave 1: List Pets`
 
 #### Axios GET Requests
-
 * Why might you want to make a HTTP request from a web page?
 * How are GET requests in Axios different from GET requests in HTTParty?
 * Why is it often good practice to pass anonymous functions to `.then` and `.catch`.
