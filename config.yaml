@@ -202,6 +202,14 @@ Standards:
         Type: Lesson
         UID: 6385d5f4-d59c-4c85-b957-75142cf76ba5
         Path: /03-unit3-roundtable-guides/05-wk16-react-intro.md  
+      -
+        Type: Lesson
+        UID: c0e71848-c028-48c7-a07b-d4e06e13deb4
+        Path: /03-unit3-roundtable-guides/06-wk17-react2.md 
+      -
+        Type: Lesson
+        UID: 691b8aea-48bd-48d8-b9c3-da13955068e4
+        Path: /03-unit3-roundtable-guides/07-wk17-tic-tac-toe.md 
       
   -
     Title: Git
