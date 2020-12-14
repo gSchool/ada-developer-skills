@@ -18,7 +18,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Let's start popcorn style with:
-* Which do you like better: functions, or blocks?
+* What's your go to activity on a rainy weekend?
 
 ---
 
