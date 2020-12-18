@@ -1,4 +1,4 @@
-# Tuesday 12/17: Intro to React
+# Friday 12/18: Intro to React
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
