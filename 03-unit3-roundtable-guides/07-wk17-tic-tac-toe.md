@@ -25,7 +25,10 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ### Guiding Questions and Concepts to Review:
 
 #### Tic Tac Toe
-* 
+* What was the most difficult part about Tic Tac Toe? And how did you over come it?
+* What was the role of useState in this project?
+* Let’s have a volunteer or two share their code for Wave 3.
+* Did anyone try Wave 4? If so, how did you determine there was a tie?
 
 #### Event Handling
 
