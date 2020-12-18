@@ -24,13 +24,13 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Guiding Questions and Concepts to Review:
-* **Rests, Spreads, and Destructuring**
-  * Implementing rest and spread can look identical in JavaScript, but what's the difference?
-  * What are the advantages of using destructuring in React? What about spreading?
+### Rests, Spreads, and Destructuring
+* Implementing rest and spread can look identical in JavaScript, but what's the difference?
+* What are the advantages of using destructuring in React? What about spreading?
 
-* **State**
-  * What's the difference between `props` data and `state` data?
-  * `const [counter, setCounter] = useState(0)`
-    * Explain what this line of code is doing?
-    * What is `counter`? What is `setCounter`?
-    * `counter += 1`. Does this work?
+### State
+* What's the difference between `props` data and `state` data?
+* `const [counter, setCounter] = useState(0)`
+  * Explain what this line of code is doing?
+  * What is `counter`? What is `setCounter`?
+  * `counter += 1`. Does this work?
