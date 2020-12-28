@@ -4,7 +4,7 @@ Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day befor
 
 ---
 
-Today's Roundtable will focus on reviewing [XX](https://learn-2.galvanize.com/cohorts/2036/), [Intro to Asynchronous Programming](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/02-js-week-2/async-intro.md) and [Making GET Requests with Axios](https://learn-2.galvanize.com/cohorts/2036/blocks/1038/content_files/02-js-week-2/axios-get.md).
+Today's Roundtable will focus on reviewing [Rests, Spreads, and Destructuring](#), [Intro to State](https://learn-2.galvanize.com/cohorts/2036/blocks/1112/content_files/02-react-week-1/intro-to-state.md) and [EventHandling](https://learn-2.galvanize.com/cohorts/2036/blocks/1112/content_files/02-react-week-1/events.md).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
@@ -18,10 +18,19 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Let's start popcorn style with:
-* 
+* If you could only eat one food for the rest of your life, what would it be?
 
 
 ---
 
 ### Guiding Questions and Concepts to Review:
-*
+#### Rests, Spreads, and Destructuring
+* Implementing rest and spread can look identical in JavaScript, but what's the difference?
+* What are the advantages of using destructuring in React? What about spreading?
+
+#### State
+* What's the difference between `props` data and `state` data?
+* `const [counter, setCounter] = useState(0)`
+  * Explain what this line of code is doing?
+  * What is `counter`? What is `setCounter`?
+  * `counter += 1`. Does this work?

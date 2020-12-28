@@ -18,10 +18,39 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 ---
 
 ### Let's start popcorn style with:
-* 
+* What trivia category would you excel at?
 
 ---
 
 ### Guiding Questions and Concepts to Review:
 
 #### Tic Tac Toe
+* What was the most difficult part about Tic Tac Toe? And how did you over come it?
+* What was the role of `useState` in this project?
+* Let’s have a volunteer or two share their code for Wave 3.
+* Did anyone try Wave 4? If so, how did you determine there was a tie?
+
+#### Event Handling
+
+```jsx
+const Student = (props) => {
+
+  const [present, setPresent] = useState(false);
+
+    return (
+      <div>
+        <h3>{props.fullName}</h3>
+        <ul>
+          <li>Class: C13</li>
+          <li>Birthday: {props.birthday}</li>
+          <li>Email: {props.email}</li>
+        </ul>
+        <button>
+          Mark {present ? 'Absent' : 'Present'}
+        </button>
+      </div>
+    );
+}
+```
+* What are two ways we can create an event that, when the `button` is clicked, toggles `present` state?
+* If we constructed a function called `updatePresent`, why is this a bad practice? `<button onClick={updatePresent()}>`. What should we do instead?
