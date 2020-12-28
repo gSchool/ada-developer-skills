@@ -1,4 +1,4 @@
-# Tuesday 12/31: Tic Tac Toe
+# Thursday 12/31: Tic Tac Toe
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
