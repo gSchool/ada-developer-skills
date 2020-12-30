@@ -27,6 +27,7 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 #### Tic Tac Toe
 * What has been the most difficult part about Tic Tac Toe? And how did you over come it?
 * What is the role of `useState` in this project?
+* How are callback functions being used in this project? Can someone share an example?
 * Let’s have a volunteer or two share their code for Wave 1. Anyone for Wave 2?
 
 #### Event Handling
@@ -51,5 +52,5 @@ const Student = (props) => {
     );
 }
 ```
-* What are two ways we can create an event that, when the `button` is clicked, toggles `present` state?
+* What are two ways we can create the event handler for changing `present` value from false to true?
 * If we constructed a function called `updatePresent`, why is this a bad practice? `<button onClick={updatePresent()}>`. What should we do instead?
