@@ -28,17 +28,17 @@ For this discussion, think of your instructor as a mediator and guide, rather th
 * What is `useEffect` hook used for? What are the two arguments it takes?
 * Let's look at this code below:
 
-``` javascript
-// imports above ...
-function App() {
-  const [name, setName] = useState("");
+  ``` javascript
+  // imports above ...
+  function App() {
+    const [name, setName] = useState("");
 
-  useEffect(() => {
-    setName("Crow T. Robot");
-  })
-  // return statement below ...
-}
-```
+    useEffect(() => {
+      setName("Crow T. Robot");
+    })
+    // return statement below ...
+  }
+  ```
 
 When we run `npm start` and check the Console on Chrome, we see a message `(551 calls) Warning: Maximum update depth exceeded.` Uh oh, what happened? What did we do wrong with our code?
 
