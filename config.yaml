@@ -210,6 +210,14 @@ Standards:
         Type: Lesson
         UID: 691b8aea-48bd-48d8-b9c3-da13955068e4
         Path: /03-unit3-roundtable-guides/07-wk17-tic-tac-toe.md 
+      -
+        Type: Lesson
+        UID: 96caee4d-bb67-4799-970f-ab5840b33024
+        Path: /03-unit3-roundtable-guides/08-wk18-forms.md 
+      -
+        Type: Lesson
+        UID: 99f9a567-60d9-4a7c-8c93-c725bbe86884
+        Path: /03-unit3-roundtable-guides/09-wk18-useeffect.md 
       
   -
     Title: Git
