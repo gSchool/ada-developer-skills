@@ -1,10 +1,10 @@
-# Friday 1/8: useEffect Hooks and Axios Calls
+# Friday 1/8: useEffect Hooks
 
 Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day before the roundtable discussion group.
 
 ---
 
-Today's Roundtable will focus on reviewing [useEffect Hook](https://learn-2.galvanize.com/cohorts/2036/), [API Get](), and [API Post]().
+Today's Roundtable will focus on reviewing [useEffect Hook](https://learn-2.galvanize.com/cohorts/2036/).
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
@@ -41,6 +41,3 @@ For this discussion, think of your instructor as a mediator and guide, rather th
   ```
 
 When we run `npm start` and check the Console on Chrome, we see a message `(551 calls) Warning: Maximum update depth exceeded.` Uh oh, what happened? What did we do wrong with our code?
-
-#### Axios and API Calls
-*
