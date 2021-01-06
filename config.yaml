@@ -386,6 +386,10 @@ Standards:
         Path: /capstone-overview/advice.md
       -
         Type: Lesson
+        UID: d4a2446e-e930-464e-afd2-f8ef6267ba18
+        Path: /capstone-overview/groups.md
+      -
+        Type: Lesson
         UID: 19e95ccd-a90c-457b-b93e-f19635ff52db
         Path: /capstone-overview/tutorial-sites.md
       -
