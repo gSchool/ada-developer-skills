@@ -20,9 +20,10 @@ In the capstone project we will...
 - January 22nd 9am - [Capstone Project Proposal Due](capstone-proposal.md)
 - January 25th & 26th - You will recieve feedback or approval for your proposal
 - January 25th - Capstone starts!
-- Febrary 17th 5pm - **CODE FREEZE!**
+- February 11th - Presentation format preference form due
+- Febrary 16th 5pm - **CODE FREEZE!**
   - No more code is to be written, write documentation and your presentation
-- February 19th - [Capstone Presentations](capstone-presentation.md)
+- February 18th & 19th - [Capstone Presentations](capstone-presentation.md)
 
 ## What's in This Section
 
