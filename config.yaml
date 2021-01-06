@@ -404,3 +404,7 @@ Standards:
         Type: Lesson
         UID: ed75ec59-7cc1-4839-97ac-56ee9c3c98db
         Path: /capstone-overview/capstone-presentation.md
+      -
+        Type: Lesson
+        UID: 38ddf7af-36b7-43a9-b8dc-bc6dad2177fc
+        Path: /capstone-overview/reflections.md
