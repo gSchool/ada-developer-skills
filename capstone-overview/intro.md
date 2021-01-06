@@ -14,7 +14,7 @@ In the capstone project we will...
 ## Important Dates
 
 - January 19th 9am
-  - [Capstone Concepts (at least 1)](capstone-concept.checkpoint.md) Due
+  - [Capstone Concepts (at least 1)](capstone-concept.checkpoint.md)
 - January 19th & 20th
   - Have a 1-1 meeting to review your capstone concept(s).
 - January 22nd 9am - [Capstone Project Proposal Due](capstone-proposal.md)
