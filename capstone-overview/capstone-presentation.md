@@ -2,7 +2,7 @@
 
 The capstone presentation highlights your application as the culmination of your work at Ada.
 
-It will be __5 minutes or less__ in length and should have the following components:
+It will be __10 minutes or less__ in length with 7 minutes for presentation and 3 minutes for Q&A and should have the following components:
 
 - What problem does the app solve? Who does it solve it for?
 - What are 1-2 things you learned?

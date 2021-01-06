@@ -23,6 +23,7 @@ In the capstone project we will...
 - February 11th - Presentation format preference form due
 - Febrary 16th 5pm - **CODE FREEZE!**
   - No more code is to be written, write documentation and your presentation
+- February 17th 3pm - Presentations due to be submitted
 - February 18th & 19th - [Capstone Presentations](capstone-presentation.md)
 
 ## What's in This Section
