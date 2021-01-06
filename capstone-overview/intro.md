@@ -20,6 +20,10 @@ In the capstone project we will...
 - January 22nd 9am - [Capstone Project Proposal Due](capstone-proposal.md)
 - January 25th & 26th - You will recieve feedback or approval for your proposal
 - January 25th - Capstone starts!
+  - Week 1 begins with technology research and tutorial practice
+  - Due Friday:
+    - Trello Board with 2 weeks of sprints and tasks created
+    - Create wireframes of your project
 - February 11th - Presentation format preference form due
 - Febrary 16th 5pm - **CODE FREEZE!**
   - No more code is to be written, write documentation and your presentation
@@ -112,7 +116,7 @@ Three goals:
 
 - Begin the tutorials of some of your technologies (~8 hours)
 - Create wireframes for your product if this is applicable
-- Break up your project into tasks, and organize those tasks into waves
+- Break up your project into tasks, and organize those tasks into two waves
 
 ## During Capstone
 
