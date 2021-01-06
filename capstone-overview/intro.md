@@ -47,7 +47,7 @@ Other information we've compiled:
 
 - What lectures will the instructors give during capstone?
 - [Recommended Reflection Exercise](reflections.md)
-- [Useful tutorial sites](tutorials-sites.md)
+- [Useful tutorial sites](tutorial-sites.md)
 
 ## Capstone Requirements
 
