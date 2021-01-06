@@ -382,6 +382,10 @@ Standards:
         Path: /capstone-overview/tech-stack-research.md
       -
         Type: Lesson
+        UID: a7d96954-6206-492d-8596-ab29c0830495
+        Path: /capstone-overview/advice.md
+      -
+        Type: Lesson
         UID: 19e95ccd-a90c-457b-b93e-f19635ff52db
         Path: /capstone-overview/tutorial-sites.md
       -
