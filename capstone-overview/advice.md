@@ -1,10 +1,13 @@
-# A Guide to Thrive & Conquer During Capstones
+# Advice
+
+## A Guide to Thrive & Conquer During Capstones
+
 This is a guide compiled by Adies for Adies for survival during capstones.
 
 As the capstone project evolves, so too will this guide.
 
-# Advice to Future Cohorts
-## Preparation & Scoping
+## Advice to Future Cohorts
+### Preparation & Scoping
 
 1. Your minimum viable product should be literally the baseline.
     - Anything that isn't MVP is feature creep and should be cut.
@@ -33,7 +36,7 @@ As the capstone project evolves, so too will this guide.
     - How to estimate research and learning time?
     - Know where you want to focus your time (front-end? back-end?)
 
-## Execution
+### Execution
 
 1. If you can avoid it, don't deploy anything on the last day. Unless you really want to.
 1. Be aware that other people may be trying to work  while you're on a break.
@@ -46,7 +49,8 @@ As the capstone project evolves, so too will this guide.
     - Front load your work. Get as much work done in the first couple of weeks as you can.
 
 
-## Mental Health & Self Care
+### Mental Health & Self Care
+
 1. Celebrate each other's successes!
 1. Don't forget to:
     - eat!
@@ -63,7 +67,7 @@ As the capstone project evolves, so too will this guide.
 1. Make very few concrete plans during capstone; expect to be _tired_ when you're not _working_.
 1. Rely on your classmates. Work/eat/dance together.
 
-## Support & Limited Instructor Bandwidth
+### Support & Limited Instructor Bandwidth
 
 1. Have one or two people in the classroom who know your project really well.
     - When instructors and other points of contact are not available, these people will be a great asset to you.
