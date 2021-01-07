@@ -353,3 +353,58 @@ Standards:
         Type: Lesson
         UID: ab437a21-a434-4d53-a0bd-88aa380e8c80
         Path: /06-potpourri/continuous-integration.md
+  -
+    Title: Capstone Overview
+    Description: Capstone Project Overview
+    UID: cd1689b5-727f-4858-b0bd-618429fc1010
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      - 
+        Type: Lesson
+        UID: 187a7483-8ab4-4f1b-9bd6-c26b293a9cd3
+        Path: /capstone-overview/intro.md
+      -
+        Type: Lesson
+        UID: 1a108df1-0639-4635-90d3-7c1eb7d3477c
+        Path: /capstone-overview/brainstorming.md
+      -
+        Type: Lesson
+        UID: 9b5449fa-75f3-4526-8818-8eafec55d6a6
+        Path: /capstone-overview/tech-stacks.md
+      -
+        Type: Lesson
+        UID: 89a228fa-9411-4077-8298-98d523eeff7e
+        Path: /capstone-overview/tech-stack-examples.md
+      -
+        Type: Lesson
+        UID: 003099a8-3ede-4d8a-9c25-5439153792af
+        Path: /capstone-overview/tech-stack-research.md
+      -
+        Type: Lesson
+        UID: a7d96954-6206-492d-8596-ab29c0830495
+        Path: /capstone-overview/advice.md
+      -
+        Type: Lesson
+        UID: d4a2446e-e930-464e-afd2-f8ef6267ba18
+        Path: /capstone-overview/groups.md
+      -
+        Type: Lesson
+        UID: 19e95ccd-a90c-457b-b93e-f19635ff52db
+        Path: /capstone-overview/tutorial-sites.md
+      -
+        Type: Checkpoint
+        UID: 9019c352-972d-48af-83ac-36286ff8cc2d
+        Path: /capstone-overview/capstone-concept.checkpoint.md
+      -
+        Type: Lesson
+        UID: 82a52be6-222a-4148-a204-879f009e285e
+        Path: /capstone-overview/capstone-proposal.md
+      -
+        Type: Lesson
+        UID: ed75ec59-7cc1-4839-97ac-56ee9c3c98db
+        Path: /capstone-overview/capstone-presentation.md
+      -
+        Type: Lesson
+        UID: 38ddf7af-36b7-43a9-b8dc-bc6dad2177fc
+        Path: /capstone-overview/reflections.md
