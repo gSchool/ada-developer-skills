@@ -14,14 +14,15 @@ In the capstone project we will...
 ## Important Dates
 
 - January 19th 9am
-  - [Capstone Concepts (at least 1)](capstone-concept.checkpoint.md)
+  - [Due: Capstone Concepts (at least 1)](capstone-concept.checkpoint.md)
 - January 19th & 20th
   - Have a 1-1 meeting to review your capstone concept(s).
-- January 22nd 9am - [Capstone Project Proposal Due](capstone-proposal.md)
+- January 22nd 9am - [Due: Capstone Project Proposal](capstone-proposal.md)
 - January 25th & 26th - You will recieve feedback or approval for your proposal
 - January 25th - Capstone starts!
   - Week 1 begins with technology research and tutorial practice
   - Due Friday:
+    - Research technologies & do tutorials (~8 hours)
     - Trello Board with 2 weeks of sprints and tasks created
     - Create wireframes of your project
 - February 11th - Presentation format preference form due
@@ -80,8 +81,8 @@ You have two tasks:
 1. Pre-Capstone Ideas Research:
     - Fill out the Capstone Ideas Form with 1-3 ideas
     - Bring this information to an advisory 1:1 meeting
-2. Fill out the Capstone Concept Form with your top idea
-3. Create a Plan
+1. Fill out the Capstone Concept Form with your top idea
+1. Create a Plan
 
 ### Pre-Capstone Research
 
@@ -118,7 +119,7 @@ Three goals:
 - Create wireframes for your product if this is applicable
 - Break up your project into tasks, and organize those tasks into two waves
 
-## During Capstone
+## During Capstone Weeks 2-4
 
 ### Weekly:
 
@@ -132,6 +133,7 @@ Three goals:
 
 ### Daily:
 
+- On each weekday hold a stand-up with your accountability group
 - Complete the [daily stand up form](https://forms.gle/1Cnzd4HBD4MsMbQN6) __everyday Monday through Friday before 12pm, and once over the weekend__
 
 ## Final Delivery
