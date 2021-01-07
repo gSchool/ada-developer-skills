@@ -81,7 +81,7 @@ You have two tasks:
 1. Pre-Capstone Ideas Research:
     - Fill out the Capstone [Concepts Form](capstone-concept.checkpoint.md) with 1-3 ideas
     - Bring this information to an advisory 1:1 meeting
-1. Fill out the Capstone Concept Form with your top idea
+1. Fill out the [Capstone Concept Form](https://airtable.com/shrJhKkItdAN5DKdi) with your top idea
 1. Create a Plan
 
 ### Pre-Capstone Research
