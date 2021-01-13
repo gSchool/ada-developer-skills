@@ -218,6 +218,10 @@ Standards:
         Type: Lesson
         UID: 99f9a567-60d9-4a7c-8c93-c725bbe86884
         Path: /03-unit3-roundtable-guides/09-wk18-useeffect.md 
+      -
+        Type: Lesson
+        UID: 3bbbc1063db643848e84afd800a6be17
+        Path: 03-unit3-roundtable-guides/10-wk19-js-eco-and-deploy.md
       
   -
     Title: Git
