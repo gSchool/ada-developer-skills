@@ -79,10 +79,18 @@ We will do this all using a [Example Express App](https://github.com/AdaGold/doc
 Before we can start we need to install docker:
 
 ```
-brew cask install docker
+brew install --cask docker
 ```
 
 This will install the docker client and server on your computer.  You will also need to go to https://hub.docker.com and create an account.
+
+Then login with:
+
+```
+docker login
+```
+
+And login with your username and password.
 
 ### Dockerfile
 
