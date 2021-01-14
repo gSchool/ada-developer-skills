@@ -72,7 +72,7 @@ _[image from Docker & Kubernetes: The complete Guide](https://www.udemy.com/shar
 
 We are going to create a Docker Image, and install a JavaScript Express App on it.  Express is a minimalist Javascript library for building a server-side application.  You can think of it like a JavaScript rails app without nearly as much done for you.  Then we will use Docker Compose to set up two images, one for the Rails web service and one for Postgres and then get them to talk to one another.  
 
-We will do this all using our [Ada books app](https://github.com/AdaGold/video-store-consumer-api).
+We will do this all using a [Example Express App](https://github.com/AdaGold/docker-example).
 
 ### Dockerfile
 
