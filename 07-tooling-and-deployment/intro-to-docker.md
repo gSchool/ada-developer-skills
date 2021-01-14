@@ -9,7 +9,7 @@ By the end of this lesson you should be able to:
 - Explain what Docker & Containerization are
 - Read a basic Dockerfile
 - Explain what docker-compose does
-- Build a simple Rails app with Docker
+- Build a simple Express app with Docker
 
 ## What is Docker & Containerization
 
@@ -70,7 +70,7 @@ _[image from Docker & Kubernetes: The complete Guide](https://www.udemy.com/shar
 
 ## Building An Express App with Docker
 
-We are going to create a Docker Image, and install a JavaScript Express App on it.  Express is a minimalist Javascript library for building a server-side application.  You can think of it like a JavaScript rails app without nearly as much done for you.  Then we will use Docker Compose to set up two images, one for the Rails web service and one for Postgres and then get them to talk to one another.  
+We are going to create a Docker Image, and install a JavaScript Express App on it.  Express is a minimalist Javascript library for building a server-side application.  You can think of it like a JavaScript equivalent to a rails app without nearly as much done for you.  Then we will use Docker Compose to set up two images, one for the Rails web service and one for Postgres and then get them to talk to one another.  
 
 We will do this all using a [Example Express App](https://github.com/AdaGold/docker-example).
 
