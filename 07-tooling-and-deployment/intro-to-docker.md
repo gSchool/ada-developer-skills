@@ -290,6 +290,10 @@ Kubernetes is a tool which lets you coordinate a bunch of containers and contain
 
 Docker is a tool which lets you define a list of software to install and run independently of the host machine.  Then any machine which has the `Dockerfile`, source code and `docker-compose.yml` can run your service.  Docker allows you to run any set of services, Rails, Express, Django etc on any host machine independent of any other services on the computer.
 
+### Why does this matter?
+
+Docker can help streamline deployment because most cloud providers can accept a docker containers and run the service.
+
 ## Resources
 
 - [Docker Hub](https://hub.docker.com/)
