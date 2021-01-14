@@ -74,6 +74,16 @@ We are going to create a Docker Image, and install a JavaScript Express App on i
 
 We will do this all using a [Example Express App](https://github.com/AdaGold/docker-example).
 
+### Before we get started
+
+Before we can start we need to install docker:
+
+```
+brew cask install docker
+```
+
+This will install the docker client and server on your computer.  You will also need to go to https://hub.docker.com and create an account.
+
 ### Dockerfile
 
 Move into the project and create a new file named `Dockerfile`.  Capitalization matters!
@@ -188,6 +198,14 @@ EXPOSE 3000
 CMD ["yarn", "start"]
 ```
 
+Then we can build a docker image on our computer with:
+
+```bash
+docker build -t nodejs-express-docker:latest .
+```
+
+Go get a coffee, this will take a bit, but by the end we'll have an image file with all the instructions needed to start a container with our app.
+
 We can now run the app with:
 
 ```bash
@@ -196,12 +214,12 @@ docker run --rm --name nodejs_express -d -p 3000:3000 nodejs-express-docker:late
 
 This command does the following:
 
-- `docker run` - Run the docker container
-- `-rm` - remove the container when it exits
-- `--name nodejs_express` - name the running container instance `nodejs_express`
-- `-d` - Run it in detached mode (you get the terminal back)
-- `-p 3000:3000` - Make it so that port 3000 on your computer connect to port 3000 on the container
-- `nodejs-express-docker:latest` - The name of the Docker image to create
+- **docker run** - Run the docker container
+- **-rm** - remove the container when it exits
+- **--name nodejs_express** - name the running container instance `nodejs_express`
+- **-d** - Run it in detached mode (you get the terminal back)
+- **-p 3000:3000** - Make it so that port 3000 on your computer connect to port 3000 on the container
+- **nodejs-express-docker:latest** - The name of the Docker image to create
 
 ### Docker Compose
 
