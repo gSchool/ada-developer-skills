@@ -1,5 +1,8 @@
 # Docker Introduction
 
+<iframe src="https://adaacademy.hosted.panopto.com/Panopto/Pages/Embed.aspx?pid=b0481364-02db-43bc-993e-acb1002dfb4e&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+
 ![Docker meme](images/my-machine.jpg)
 
 ## Learning Goals
