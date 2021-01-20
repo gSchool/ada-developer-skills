@@ -418,6 +418,10 @@ Standards:
         Path: /capstone-overview/capstone-proposal.md
       -
         Type: Lesson
+        UID: 644357fd-f1c7-4ccd-97ae-6ac0b6b27cdc
+        Path: /capstone-overview/logistics.md
+      -
+        Type: Lesson
         UID: ed75ec59-7cc1-4839-97ac-56ee9c3c98db
         Path: /capstone-overview/capstone-presentation.md
       -
