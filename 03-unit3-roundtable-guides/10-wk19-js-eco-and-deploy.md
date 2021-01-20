@@ -4,7 +4,7 @@ Please [submit a question](https://airtable.com/shrOEPwWbMZXxXlTt) the day befor
 
 ---
 
-Today's Roundtable will focus on reviewing the JS Ecosystem (TODO: LEARN LINK!) and [Deployment Options in Capstone](https://docs.google.com/presentation/d/1PXoyAS12Ey8HvtykrE32Ae63FL-Nwwbi3ha251ZEG34/edit#slide=id.p)
+Today's Roundtable will focus on reviewing the [JS Ecosystem](https://learn-2.galvanize.com/cohorts/2036/blocks/1112/content_files/04-react-week-3/js-ecosystem.md) and [Deployment Options in Capstone](https://docs.google.com/presentation/d/1PXoyAS12Ey8HvtykrE32Ae63FL-Nwwbi3ha251ZEG34/edit#slide=id.p)
 
 For this discussion, think of your instructor as a mediator and guide, rather than as a lecturer. You are encouraged to do the following:
 
