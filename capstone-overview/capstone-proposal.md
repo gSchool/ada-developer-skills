@@ -1,6 +1,6 @@
 # Capstone Proposal
 
-Once you are ready and have talked with your instructor submit a [Capstone Project Proposal](https://airtable.com/shry1bHeYlCsfnLIk).  
+Once you are ready and have talked with your instructor submit a [Capstone Project Proposal](https://airtable.com/shrJhKkItdAN5DKdi).  
 
 Then let your 1-1 instructor know you have done so.
 
