@@ -17,6 +17,10 @@ Tools are more useful when we understand their purpose. A planning (Trello) boar
 
 It is very common for standup meetings to talk much more time than anyone really wants them to. It may help to write down your answers to the 3 standup questions before standup time or make time for writing answers down at the beginning of standup time. (This helps to avoid rambling or forgetting something important
 
+The three questions to answer at each standup are:
+* What did you do since last standup?
+* What are you going to work on next?
+* Do you have any blockers (things you need help with)?
 ## Additional Tips
 
 * If there are one or two user stories that feel the scariest or riskiest, see if you can do those first. (That will give you more time to make mistakes and it will give you more time to change your idea if something seems like it isn’t quite going to work like you expected.)
