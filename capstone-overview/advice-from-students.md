@@ -1,4 +1,4 @@
-# Advice
+# Advice from Previous Students
 
 ## A Guide to Thrive & Conquer During Capstones
 
