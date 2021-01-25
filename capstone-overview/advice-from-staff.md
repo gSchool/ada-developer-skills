@@ -3,7 +3,7 @@
 This is just some additional advice from staff to supplement but certainly not replace the [Advice from Students](advice-from-students.md) document.
 
 
-## Sprint Board
+## Planning Board
 
 Tools are more useful when we understand their purpose. A planning (Trello) board is meant to help you with:
 * Focus (ideally one thing in progress at a time) 
