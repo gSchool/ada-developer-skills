@@ -8,7 +8,7 @@ This is just some additional advice from staff to supplement but certainly not r
 Tools are more useful when we understand their purpose. A planning (Trello) board is meant to help you with:
 * Focus (ideally one thing in progress at a time) 
     * Also when you think of other things you need to do, you can add a card to the backlog real quick and come back to your current task.
-* A sense of completion (hopefully your cards are small enough that you’re able to complete at least one almost every day)
+* A sense of completion (your cards should be small enough that you’re able to complete at least one almost every day.  If this isn't true split them into smaller pieces.)
 * A visual representation of your priorities - ensuring you will get to the things that are most important and not get distracted by other things
     * Organize Trello cards by “Sprint/Week”. (This way you have some idea how you’re tracking: whether you’re ahead, behind, or on-track)
 * Coordination - understanding who is working on what (for pairs only)
