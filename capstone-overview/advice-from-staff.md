@@ -20,7 +20,7 @@ It is very common for standup meetings to talk much more time than anyone really
 The three questions to answer at each standup are:
 * What did you do since last standup?
 * What are you going to work on next?
-* Do you have any blockers (things you need help with)?
+* What blockers (things you need help with) do you have, if any?
 ## Additional Tips
 
 * If there are one or two user stories that feel the scariest or riskiest, see if you can do those first. (That will give you more time to make mistakes and it will give you more time to change your idea if something seems like it isn’t quite going to work like you expected.)
