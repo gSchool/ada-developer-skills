@@ -37,7 +37,8 @@ There's more in this section than this introduction. We welcome you to explore a
 
 Ada's collective wisdom gathered:
 
-- [General Advice](advice.md): a list of advice and wisdom gained over the last several years
+- [Advice from Students](advice-from-students.md): advice and wisdom gathered by students over the last several years
+- [Advice from Staff](advice-from-staff.md): advice and wisdom commonly shared with students from staff
 - [Advice for Brainstorming](brainstorming.md)
 
 Required Pre-Capstone Material:
