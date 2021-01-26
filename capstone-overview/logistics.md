@@ -10,8 +10,7 @@
     * You can refer to the TA calendar for general TA and instructor availability.
     * Some C13 students have provided detailed information about their [capstone projects here](https://docs.google.com/spreadsheets/d/1FYHbmTdJuwgv8yI0YIfDIEk58bh03b3yTFgDybjVT2g/edit#gid=0).
 1. **Standup Form:** There is a stand-up form you must fill out every day before your group's standup. Your PM will be checking that it was submitted. This helps you and your PM track your progress and helps ensure you're prepared to give a succinct, clear standup update to your group. 
-    * [Standup Form](http://capstone-status.herokuapp.com/)
-    * Username: doesn't matter , Password: `AdaRocks`
+    * [Standup Form](https://docs.google.com/forms/d/e/1FAIpQLSfX1eQQx9B9kNR4hiQ9Tl2o2EwNjgWg0C3UTOfiF4Ke8jXC-Q/viewform)
 1. **Week One:** The first week (Jan 25 - 29) is intended to be primarily learning focused. We encourage people to spend much of that time learning and experimenting with the languages and frameworks they plan to use. Not much progress on building features for the project is necessarily expected during this first week.
 1. **Recurring things:**
     - PMs will meet with each individual weekly
