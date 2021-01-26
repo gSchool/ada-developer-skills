@@ -399,7 +399,11 @@ Standards:
       -
         Type: Lesson
         UID: a7d96954-6206-492d-8596-ab29c0830495
-        Path: /capstone-overview/advice.md
+        Path: /capstone-overview/advice-from-students.md
+      -
+        Type: Lesson
+        UID: b6673514-d322-4952-9e6a-ae4da4ce04a4
+        Path: /capstone-overview/advice-from-staff.md
       -
         Type: Lesson
         UID: d4a2446e-e930-464e-afd2-f8ef6267ba18
